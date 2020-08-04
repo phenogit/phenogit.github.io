@@ -28,7 +28,7 @@ twitter_username: N/A
 github_username: phenogit
 
 # Build settings
-theme: jekyll-theme-architect
+theme: minima
 plugins:
   - jekyll-feed
 
