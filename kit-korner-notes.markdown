@@ -4,16 +4,20 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-currently on The Last Mistake - 2010/11/15
+currently on Finding the Target - 2010/11/22
 
-# **Non-Competitive Bidding**
+# Non-Competitive Bidding
 
-**1D**: 11-15 points, 2+d, if balanced 11-13
+1D: 11-15 points, 2+d, if balanced 11-13
+    
+    1H
+        2H: 4h, no singleton or voids
+
 
 **2C**: 10-15 points, 6+c, may have 4 or even 5-card major
 
     **2D**: Artificial query
-    
+
         **2S**: No major, some shortness, any strength
             **2N**: Artificial query
                 **3H**: Non-minimum, heart shortness
