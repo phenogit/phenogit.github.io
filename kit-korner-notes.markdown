@@ -8,10 +8,9 @@ currently on Finding the Target - 2010/11/22
 
 # Non-Competitive Bidding
 
-1D: 11-15 points, 2+d, if balanced 11-13
-    
-    1H
-        2H: 4h, no singleton or voids
+1D: 11-15 points, 2+d, if balanced 11-13  
+    1H  
+        2H: 4h, no singleton or voids  
 
 
 **2C**: 10-15 points, 6+c, may have 4 or even 5-card major
