@@ -31,10 +31,11 @@ currently on Finding the Target - 2010/11/22
                         5C: To play
 
 ## Carding
-### General
+#### NT
+##### General
     UDCA including discards except for trick 1 where it is standard signals
     Smith echo
     In middle of hand, T/9 show 0 or 2 higher; other spot card leads are generally attitude
     If giving count, first played card is upside-down count, if not it is standard count
-### Opening Leads
+##### Opening Leads
     A from AK, Rusinow(lower of touching honors with more than a doubleton), K is power lead; _partner's suit does not apply, standard leads_, attitude leads for small card
