@@ -10,27 +10,27 @@ currently on What Matters - 2010/11/29
 
 ### Bidding Tree
 
-* 1D: 11-15 points, 2+d, if balanced 11-13
- * 1H
-  * 2H: 4h, no singleton or voids
-   * 2S: Unspecified short suit game or slam try
-   * 3C: Ask, coded response
-   * 2N: Long/help suit game try in clubs
-   * 3C: Long/help suit game try in diamonds
-   * 3D: Long/help suit game try in spades
-    * 4H
-     * 4S: RKC
-     * 4N: Ask in spades
-     * 5C: Ask in clubs
-     * 5D: Ask in diamonds
-     * 5H: General invite
-     * 5S: Grand slam force
-     * 5N: Pick a slam
-   * 3N: Offer to play
-   * 3S: Natural slam try
-   * 4C: Natural slam try
-   * 4D: Natural slam try
-   * 4S: RKC
+    1D: 11-15 points, 2+d, if balanced 11-13
+        1H
+            2H: 4h, no singleton or voids
+                2S: Unspecified short suit game or slam try
+                3C: Ask, coded response
+                2N: Long/help suit game try in clubs
+                3C: Long/help suit game try in diamonds
+                3D: Long/help suit game try in spades
+                    4H
+                        4S: RKC
+                        4N: Ask in spades
+                        5C: Ask in clubs
+                        5D: Ask in diamonds
+                        5H: General invite
+                        5S: Grand slam force
+                        5N: Pick a slam
+                3N: Offer to play
+                3S: Natural slam try
+                4C: Natural slam try
+                4D: Natural slam try
+                4S: RKC
 
     2C: 10-15 points, 6+c, may have 4 or even 5-card major
         2D: Artificial query
