@@ -4,10 +4,9 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-currently on Spot Power - 2010/12/20
+currently on Laying the Odds - 2010/12/27
 
 ## Non-Competitive Bidding
-
 ### Bidding Tree
 
     1D: 1) Vulnerable 1/2 seat 11-15, 2+d, if balanced 11-13
@@ -56,6 +55,10 @@ currently on Spot Power - 2010/12/20
 
 ## Competitive Bidding
 ### Meta Rules
+    Forcing pass doesn't show extra strength.
+    All it shows is more of an offensive orentation.
+
+    Voluntarily and non-premptively jumps to game creates a force
 
     penalty X of 1N puts partnership in force
     e.g.
@@ -78,7 +81,10 @@ currently on Spot Power - 2010/12/20
                     3H: Natural, non-forcing
 
 ### Misc
-
+    1N!-(2D@)-4D#
+        !: 10-12
+        @: Diamonds and a major
+        #: Transfer
     
 
 ## Modules
