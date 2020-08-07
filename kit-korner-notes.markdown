@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-currently on The Guiding Light - 2010/12/13
+currently on Spot Power - 2010/12/20
 
 ## Non-Competitive Bidding
 
@@ -69,13 +69,17 @@ currently on The Guiding Light - 2010/12/13
                 3C: Both minors, club emphasis
 
             1D-(1N)-X-2S;
-            P -(P) -??
+            P -(P ) -??
                     X : Penalty
                         * Partner pulls to 2N is probably 3 suited takeout
                     2N: Takeout, asking for better minor
                     3C: Natural, non-forcing
                     3D: Natural, non-forcing
                     3H: Natural, non-forcing
+
+### Misc
+
+    
 
 ## Modules
 
@@ -90,6 +94,21 @@ currently on The Guiding Light - 2010/12/13
         5N: Pick a slam
         6C: Natural offer to play
         6D: Natural offer to play
+
+    Opps 2S Balancing Module
+    E.g.
+        (1N)-P-(2H)-??
+        X: Primarily lead-directing
+
+        (1N)-P-(2H)-P ;
+        (2S)-P-(P )-??
+            X: a) 3-suited
+            b) Hearts and clubs
+            c) Red suits, longer diamonds
+            Follow up:
+                2N: Asks if you have diamonds, 
+                    if you do you bid 3D
+                    else if you have h+c, you bid 3C
 
 ## Carding
 #### NT
@@ -117,4 +136,5 @@ currently on The Guiding Light - 2010/12/13
     Standard current count for discard
     Splitting honors show 0 or 2 higher
 ##### Opening Leads
+    Third from even, smallest from odd, top of a doubleton
     From 3 small, high or low, when in doubt - count
