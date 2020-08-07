@@ -4,13 +4,14 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-currently on What Matters - 2010/11/29
+currently on The Guiding Light - 2010/12/13
 
 ## Non-Competitive Bidding
 
 ### Bidding Tree
 
-    1D: 11-15 points, 2+d, if balanced 11-13
+    1D: 1) Vulnerable 1/2 seat 11-15, 2+d, if balanced 11-13
+        2) 3/4 seat 11-15, 2+d, if balanced 11-14
         1H
             2H: 4h, no singleton or voids
                 2S: Unspecified short suit game or slam try
@@ -31,6 +32,9 @@ currently on What Matters - 2010/11/29
                 4C: Natural slam try
                 4D: Natural slam try
                 4S: RKC
+    
+    1N: 1) Non-vulnerable 1/2 seat 10-12
+        2) 3/4 seat 15-17 
 
     2C: 10-15 points, 6+c, may have 4 or even 5-card major
         2D: Artificial query
@@ -50,7 +54,30 @@ currently on What Matters - 2010/11/29
                         4D: RKCB for clubs
                         5C: To play
 
-### Modules
+## Competitive Bidding
+### Meta Rules
+
+    penalty X of 1N puts partnership in force
+    e.g.
+        1D-(1N)-X
+        follow up
+            1D-(1N)-X-2S;
+            ??
+                X : Penalty
+                2N: Both minors, diamond emphasis
+                    Possibly both red suits with longer diamond, he pulls 3C to 3D
+                3C: Both minors, club emphasis
+
+            1D-(1N)-X-2S;
+            P -(P) -??
+                    X : Penalty
+                        * Partner pulls to 2N is probably 3 suited takeout
+                    2N: Takeout, asking for better minor
+                    3C: Natural, non-forcing
+                    3D: Natural, non-forcing
+                    3H: Natural, non-forcing
+
+## Modules
 
     RKC(03/14)
     4S RKC, follow-ups other than 5H/6H signoff
@@ -72,4 +99,22 @@ currently on What Matters - 2010/11/29
     In middle of hand, T/9 show 0 or 2 higher; other spot card leads are generally attitude
     If giving count, first played card is upside-down count, if not it is standard count
 ##### Opening Leads
-    A from AK, Rusinow(lower of touching honors with more than a doubleton), K is power lead; _partner's suit does not apply, standard leads_, attitude leads for small card
+    A from AK
+    Non-partner's suit
+        Rusinow(lower of touching honors with more than a doubleton)
+        K is power lead 
+    Partner's suit
+        Standard leads
+    Attitude leads for small card
+
+#### Suit
+##### General
+    Suit-preference at trick 1
+        T/9/8 high side suit
+        2/3/4 low side suit
+        6/5/7 encouraging
+        Make least damaging signal if no suitable card
+    Standard current count for discard
+    Splitting honors show 0 or 2 higher
+##### Opening Leads
+    From 3 small, high or low, when in doubt - count
