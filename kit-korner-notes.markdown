@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-currently on Laying the Odds - 2010/12/27
+currently on A Little Care - 2011/1/3
 
 ## Non-Competitive Bidding
 ### Bidding Tree
@@ -12,9 +12,9 @@ currently on Laying the Odds - 2010/12/27
     1D: 1) Vulnerable 1/2 seat 11-15, 2+d, if balanced 11-13
         2) 3/4 seat 11-15, 2+d, if balanced 11-14
         1H
-            2H: 4h, no singleton or voids
+            2H: Always 4h, no singleton or voids, 11-13
                 2S: Unspecified short suit game or slam try
-                3C: Ask, coded response
+                    3C: Ask, coded response
                 2N: Long/help suit game try in clubs
                 3C: Long/help suit game try in diamonds
                 3D: Long/help suit game try in spades
@@ -26,11 +26,13 @@ currently on Laying the Odds - 2010/12/27
                         5H: General invite
                         5S: Grand slam force
                         5N: Pick a slam
+                3H: Semi-preemptive
                 3N: Offer to play
                 3S: Natural slam try
                 4C: Natural slam try
                 4D: Natural slam try
                 4S: RKC
+            3H: Promises a singleton/void, regardless of strenth, not worth forcing to game
     
     1N: 1) Non-vulnerable 1/2 seat 10-12
         2) 3/4 seat 15-17 
