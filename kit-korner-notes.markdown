@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-currently on A Little Care - 2011/1/3
+currently on Is He Bluffing - 2011/1/9
 
 ## Non-Competitive Bidding
 ### Bidding Tree
@@ -143,6 +143,7 @@ currently on A Little Care - 2011/1/3
         Make least damaging signal if no suitable card
     Standard current count for discard
     Splitting honors show 0 or 2 higher
+
 ##### Opening Leads
     Third from even, smallest from odd, top of a doubleton
     From 3 small, high or low, when in doubt - count
