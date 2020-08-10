@@ -125,6 +125,7 @@ currently on Is He Bluffing - 2011/1/9
     Smith echo
     In middle of hand, T/9 show 0 or 2 higher; other spot card leads are generally attitude
     If giving count, first played card is upside-down count, if not it is standard count
+    
 ##### Opening Leads
     A from AK
     Non-partner's suit
