@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-currently on Is He Bluffing - 2011/1/9
+currently on Affordable Loser - 2011/1/23
 
 ## Non-Competitive Bidding
 ### Bidding Tree
@@ -34,8 +34,26 @@ currently on Is He Bluffing - 2011/1/9
                 4S: RKC
             3H: Promises a singleton/void, regardless of strenth, not worth forcing to game
     
+    1H
+        1S
+            1N: 1) Non-vulnerable shows 13-15
+            2S: 3 card support possible
+        1N: Semi-forcing, permitted to pass with min 5-3-3-2 hand
+        2C
+            2D: 4+ card suit
+            2H: 6 card suit
+            2S: 4+ card suit
+            2N: 13-15
+        2D
+            3D: Shows no extra, either in shape or strength
+
     1N: 1) Non-vulnerable 1/2 seat 10-12
-        2) 3/4 seat 15-17 
+        2) 3/4 seat 15-17
+        2C: Non-game forcing Staymen
+        2D: Game-forcing Stayman
+            2H
+                xx
+                    3H: 5 card suit
 
     2C: 10-15 points, 6+c, may have 4 or even 5-card major
         2D: Artificial query
@@ -87,7 +105,23 @@ currently on Is He Bluffing - 2011/1/9
         !: 10-12
         @: Diamonds and a major
         #: Transfer
-    
+
+    (P)-1S-(2S!)-??
+        !: Hearts and clubs
+
+        X : Interest in defending, likely not spade support
+        2N: Natural, invitational (when enemy suits are known)
+        3S: To play, no game interest
+        3H: Limit raise or better, puts you in a force unless you get a chance to clarify you only have a limit raise
+        4H: Splinter, slam interest in spades
+        4S: Any hand, partner must pass. Does not create a force
+            If the next hand bids, partner may not bid 5S on his own
+            If he wishes to bid 5S he doubles -> penalty double not available
+
+    cont'd
+    (P )-1S -(2S!)-3H;
+    (5H)-5S!
+        !: Weaker than pass (forcing) followed by a pull.
 
 ## Modules
 
@@ -125,7 +159,7 @@ currently on Is He Bluffing - 2011/1/9
     Smith echo
     In middle of hand, T/9 show 0 or 2 higher; other spot card leads are generally attitude
     If giving count, first played card is upside-down count, if not it is standard count
-    
+
 ##### Opening Leads
     A from AK
     Non-partner's suit
