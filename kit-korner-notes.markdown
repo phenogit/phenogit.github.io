@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-currently on Affordable Loser - 2011/1/23
+currently on Getting the Maximum - 2011/1/30
 
 ## Non-Competitive Bidding
 ### Bidding Tree
@@ -57,8 +57,12 @@ currently on Affordable Loser - 2011/1/23
 
     2C: 10-15 points, 6+c, may have 4 or even 5-card major
         2D: Artificial query
+            2H: Some 4 card major
+                2S: Artificial query, find major and strength
             2S: No major, some shortness, any strength
-                2N: Artificial query
+                2N: Artificial query, find shortness and strength
+                    3C: Minimum
+                        3D: Artificial query, show shortness in coded manner
                     3H: Non-minimum, heart shortness
                         3N: To play
                         4C: Natural force, slam interest
@@ -72,6 +76,24 @@ currently on Affordable Loser - 2011/1/23
                             RKC is 03/14; king is for specific king; 03/14 with void starting at 5D; number of kings if void shown
                         4D: RKCB for clubs
                         5C: To play
+            2N: Balanced, non-minimum
+            3C: Balanced, minimum
+        2S: Natural force, 5+ spades, may stop in 2N, 3C or 3S
+        2N: Forces 3C, either
+            1) Planning to pass 3C
+            2) 2-suiter game forcing hand not including clubs
+            3) Slam try in clubs
+            3C
+                P     : To play
+                3D    : 2 suiter, 5-5 game forcing
+                3H    : Spade-diamond, 5-5 game forcing
+                3S    : 2 suiter, 5-5 game forcing
+                Higher: Some kind of club slam try
+        3C: Forces 3D
+            3D
+                P     : To play
+                Higher: Slam tries
+        3D: Natural invite
 
 ## Competitive Bidding
 ### Meta Rules
