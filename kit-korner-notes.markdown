@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-currently on Getting the Maximum - 2011/1/30
+currently on Cutting the Losses - 2011/2/6
 
 ## Non-Competitive Bidding
 ### Bidding Tree
@@ -143,7 +143,7 @@ currently on Getting the Maximum - 2011/1/30
     cont'd
     (P )-1S -(2S!)-3H;
     (5H)-5S!
-        !: Weaker than pass (forcing) followed by a pull.
+        !: Weaker than pass (forcing) followed by a pull
 
 ## Modules
 
@@ -174,6 +174,21 @@ currently on Getting the Maximum - 2011/1/30
                     if you do you bid 3D
                     else if you have h+c, you bid 3C
 
+    3-level Responsive Alternative
+    We use this treatment all the time at the 3-level, when partner has opened the bidding overcalled, or made a takeout double, and the next hand bids 3C, 3D, or 3H
+    E.g.
+    (2C!)-2S-(3C)-??
+        !: Precision
+
+        X : Relay to next cheapest suit, assumed to be weak somewhere
+            But followed by cue bid or 3N shows regular responsive
+        3D: Natural and forcing
+        3H: Natural and forcing
+        3S: Limit raise
+        4C: Slam interest, shows nothing about clubs
+        4S: What it sounds like, creates force
+
+
 ## Carding
 #### NT
 ##### General
@@ -198,9 +213,12 @@ currently on Getting the Maximum - 2011/1/30
         2/3/4 low side suit
         6/5/7 encouraging
         Make least damaging signal if no suitable card
+    UDCA
+    Standard current count on later plays in a suit
     Standard current count for discard
     Splitting honors show 0 or 2 higher
 
 ##### Opening Leads
     Third from even, smallest from odd, top of a doubleton
+    5th best from 7 card suit if there is known length
     From 3 small, high or low, when in doubt - count
