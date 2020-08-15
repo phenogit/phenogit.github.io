@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-currently on Occam's Razor - 2011/2/13
+currently on Hiding the Jewels - 2011/2/20
 
 ## Non-Competitive Bidding
 ### Bidding Tree
