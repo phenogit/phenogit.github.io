@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-currently on Hiding the Jewels - 2011/2/20
+Currently On: They Don't Know - 2011/2/27
 
 ## Non-Competitive Bidding
 ### Bidding Tree
@@ -122,6 +122,10 @@ currently on Hiding the Jewels - 2011/2/20
                     3C: Natural, non-forcing
                     3D: Natural, non-forcing
                     3H: Natural, non-forcing
+
+    A non-jump to 2N in competition is never natural. 
+    If game is logically possible, 2N is a relay to 3C assumed to show a weak hand somewhere, while 3-level calls (including a raise) are stronger. 
+    If game is not logically possible, 2N is takeout presumably for the minors, and 3-level bids are just competitive.
 
     Pass of a redouble of a takeout double is always penalties, unless both of the following conditions are met:
         1) The opponents are at the 1-level.
