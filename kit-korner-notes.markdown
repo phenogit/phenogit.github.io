@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-currently on Cutting the Losses - 2011/2/6
+currently on Occam's Razor - 2011/2/13
 
 ## Non-Competitive Bidding
 ### Bidding Tree
@@ -94,6 +94,7 @@ currently on Cutting the Losses - 2011/2/6
                 P     : To play
                 Higher: Slam tries
         3D: Natural invite
+    2D: Weak 2 in one of the majors
 
 ## Competitive Bidding
 ### Meta Rules
@@ -102,8 +103,8 @@ currently on Cutting the Losses - 2011/2/6
 
     Voluntarily and non-premptively jumps to game creates a force
 
-    penalty X of 1N puts partnership in force
-    e.g.
+    Ｐenalty X of 1N puts partnership in force
+    Ｅ.g.
         1D-(1N)-X
         follow up
             1D-(1N)-X-2S;
@@ -121,6 +122,16 @@ currently on Cutting the Losses - 2011/2/6
                     3C: Natural, non-forcing
                     3D: Natural, non-forcing
                     3H: Natural, non-forcing
+
+    Pass of a redouble of a takeout double is always penalties, unless both of the following conditions are met:
+        1) The opponents are at the 1-level.
+        2) The partner of the doubler is in front of the suit doubled.
+    Ｅ.g.
+        a. (1S)-X-(XX)-Pass is non-committal. 
+        b. (1S)-P-(P )-X;
+           (XX)-Pass is penalties. 
+        c. (1S)-(P)-(2S)-P;
+           (P)- (P)-(XX)-Pass is penalties.
 
 ### Misc
     1N!-(2D@)-4D#
@@ -144,6 +155,27 @@ currently on Cutting the Losses - 2011/2/6
     (P )-1S -(2S!)-3H;
     (5H)-5S!
         !: Weaker than pass (forcing) followed by a pull
+
+    2D-(X!)-??
+        !: Either a takeout double of spades or some strong hand
+        
+        P : If 4th seat bids, partner shuts up. 
+           If 4th seat passes, partner passes (ending the auction) if he holds 3+ diamonds but he shows his suit with fewer than 3 diamonds. 
+           On hands with 4+ diamonds and short in a major this will often avoid going for a number since 4th seat needs a diamond stack to pass.
+        XX: Forces partner to bid 2H, after which you place the contract. This allows you to stop in 2H when you have a long heart suit.
+        2H: Pass or correct
+        2S: Pass or correct
+        2N: Asking about partner's hand. At least game-invitational.
+        3C: Shows hearts, asks about heart length. At least game invitational.
+        3D: Shows spades, asks about spade length. At least game invitational.
+        3H: Pass or correct
+        3S: Pass or correct
+        3N: End of auction
+        4C: Asks partner to transfer to his suit.
+        4D: Asks partner to bid his suit.
+        4H: End of auction
+        4S: End of auction
+        
 
 ## Modules
 
@@ -198,6 +230,7 @@ currently on Cutting the Losses - 2011/2/6
     If giving count, first played card is upside-down count, if not it is standard count
 
 ##### Opening Leads
+    9 or higher is considered an honor
     A from AK
     Non-partner's suit
         Rusinow(lower of touching honors with more than a doubleton)
