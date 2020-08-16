@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-Currently On: They Don't Know - 2011/2/27
+Currently On: The Extra Chance - 2011/3/14
 
 ## Non-Competitive Bidding
 ### Bidding Tree
@@ -23,6 +23,9 @@ Currently On: They Don't Know - 2011/2/27
                         3C: Regular Stayman
                     3N: 25-27
             2N: 1) 3/4 seat, 20-21
+        2C: Natural positive, 5+c, 9+
+            2S
+                4C: Solid suit, minimum of AKQ10xx, usually better. A suit that expects to run with no losers.
 
     1D: 1) Vulnerable 1/2 seat 11-15, 2+d, if balanced 11-13
         2) 3/4 seat 11-15, 2+d, if balanced 11-14
@@ -120,7 +123,32 @@ Currently On: They Don't Know - 2011/2/27
 
     Voluntarily and non-premptively jumps to game creates a force
 
-    Ｐenalty X of 1N puts partnership in force
+    Pass/X Inversion
+        Applies when the following conditions are satisfied:
+            1) We have opened 1C
+            2) We are in a force
+            3) Opponents are at the 4 level or higher
+        Only one pass/X inversion per auction
+    E.g.
+        1C-(P)-2C -(2H);
+        2S-(P)-4C-(4D);
+       -??
+            X : Optional, like a normal forcing pass.
+            P : This requests partner to double unless he has a hand which would not have sat a penalty double. 
+               If you aren't planning on passing the double, you have various possible followups depending on the logic of the auction.
+               X:
+                4S: Offer to play, but not as strong as an immediate 4S call.
+                5C: Slam try.
+            4H: RKC for clubs. 
+                Normal responses (even though responder is known to have AK of trumps he still counts them in his response). However, since he is known to have the queen of trumps, he doesn't show that as a queen. 
+                Instead, he calls the jack of trumps the queen. This way you can determine whether the suit is truly solid.
+            4S: To play
+            4N: Slam try in clubs. Says nothing about controls.
+                (5D)-?
+                    P: Normal forcing pass
+            5C: To play, no slam interest
+
+    Penalty X of 1N puts partnership in force
     Ｅ.g.
         1D-(1N)-X
         follow up
@@ -201,6 +229,8 @@ Currently On: They Don't Know - 2011/2/27
 ## Modules
 
     RKC(03/14)
+    We always use the cheapest artificial call above 4 of the trump suit for our RKC call.
+
     4S RKC, follow-ups other than 5H/6H signoff
         5C: Ask for queen of trumps
         5D: Ask for queen of trumps
