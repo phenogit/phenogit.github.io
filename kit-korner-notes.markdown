@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-Currently On: The Extra Chance - 2011/3/14
+Currently On: Covering All Bases - 2011/3/27
 
 ## Non-Competitive Bidding
 ### Bidding Tree
@@ -118,6 +118,21 @@ Currently On: The Extra Chance - 2011/3/14
 
 ## Competitive Bidding
 ### Meta Rules
+    Transfer Response Over X of 1D Opener
+    1D-(X)-??
+        XX: Shows hearts
+        1H: Shows spades
+        
+        If fourth seat bids something, opener makes a support double with 3-card support, raises with 4-card support. 
+        If fourth seat passes, opener bids 1 of responder's suit with 3-card support, with other bids meaning the same as if responder had bid 1 of his major. 
+        In particular, 2 of responder's major doesn't show anything except 4-card support.
+
+    Cont'd
+    1D-(X)-1H-(P);
+   -??
+        1S: Show 3-card spade support. 
+        Other bids are exactly as if partner had bid a natural 1♠.
+
     Forcing pass doesn't show extra strength.
     All it shows is more of an offensive orentation.
 
@@ -241,6 +256,21 @@ Currently On: The Extra Chance - 2011/3/14
         5N: Pick a slam
         6C: Natural offer to play
         6D: Natural offer to play
+
+    Two Card X
+    You play this 2-card double when the following conditions are satisfied:
+        1) Opponents have bid at the 2-level
+        2) Both you and your partner have done something other than pass
+        3) You are not in a force
+        4) The double doesn't have another pre-defined meaning (such as support double)
+    It shows exactly two cards in opponents' trumps and interest in competing.
+
+    E.g.
+        (P )-1D-(X)-1H;
+        (P )-1S-(P)-P ;
+        (2H)-??
+            X: Two Card X
+                2N: Asking for your better minor if he wants to play 3 of a minor but doesn't know which minor.
 
     Opps 2S Balancing Module
     E.g.
