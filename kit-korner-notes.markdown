@@ -9,6 +9,21 @@ Currently On: They Don't Know - 2011/2/27
 ## Non-Competitive Bidding
 ### Bidding Tree
 
+    1C: 16+, artificial
+        1D: Artificial, 0-7
+            1H: Forcing, 4+h, but with only 4 hearts you would be expected to have longer minor
+            1N: 1) 3/4 seat, 18-19
+            2H: 1) 3/4 seat, artificial big hand, partner must bid 2S, hand types - 
+                a. 22+ bal
+                b. Long minor, game-forcing
+                c. 5-5 majors, game-forcing
+                d. Some 4-4-4-1 27+
+                2S
+                    2N: 22-24
+                        3C: Regular Stayman
+                    3N: 25-27
+            2N: 1) 3/4 seat, 20-21
+
     1D: 1) Vulnerable 1/2 seat 11-15, 2+d, if balanced 11-13
         2) 3/4 seat 11-15, 2+d, if balanced 11-14
         1H
@@ -95,6 +110,8 @@ Currently On: They Don't Know - 2011/2/27
                 Higher: Slam tries
         3D: Natural invite
     2D: Weak 2 in one of the majors
+    2N: Both minors, less than an opening
+    3N: 1) 4th seat, end of auction
 
 ## Competitive Bidding
 ### Meta Rules
@@ -223,6 +240,15 @@ Currently On: They Don't Know - 2011/2/27
         3S: Limit raise
         4C: Slam interest, shows nothing about clubs
         4S: What it sounds like, creates force
+
+    Defense Against Artificial 2N/3N that Show 1/2 Minors
+        (2N!)-??
+            !: Minors, not full opening
+
+            3C: Takeout for majors
+            3D: Light overcall in a major, pass or correct follow ups
+            3H: Sound overcall
+            3S: Sound overcall
 
 
 ## Carding
