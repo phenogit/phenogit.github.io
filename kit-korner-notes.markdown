@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-Currently On: Covering All Bases - 2011/3/27
+Currently On: Anticipating a Guess - 2011/4/3
 
 ## Non-Competitive Bidding
 ### Bidding Tree
@@ -197,6 +197,13 @@ Currently On: Covering All Bases - 2011/3/27
         c. (1S)-(P)-(2S)-P;
            (P)- (P)-(XX)-Pass is penalties.
 
+    CRASH over strong club. 
+    The crash bids are X, 1D, and 1N. 1NT would show pointed or rounded suits. Other calls are natural.
+        (1C)-??
+            X : Color
+            1D: Rank
+            1N: Shape
+
 ### Misc
     1N!-(2D@)-4D#
         !: 10-12
@@ -240,6 +247,7 @@ Currently On: Covering All Bases - 2011/3/27
         4H: End of auction
         4S: End of auction
         
+    After opponent overcalls over a strong 1C, responder's jump to a suit show a long suit but less than a positive response.
 
 ## Modules
 
