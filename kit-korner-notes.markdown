@@ -4,15 +4,46 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-Currently On: The Right Strain - 2011/4/10
+Currently On: More Suit Preference - 2011/4/17
 
 ## Non-Competitive Bidding
+
+### Meta Rules
+
+    My agreements are that in a constructive auction artificial calls above 3N are never choice of strains unless slam is totally out of the question. 
+
 ### Bidding Tree
 
     1C: 16+, artificial
-        1D: Artificial, 0-7
+        1D: Artificial, 0-8
             1H: Forcing, 4+h, but with only 4 hearts you would be expected to have longer minor
-            1N: 1) 3/4 seat, 18-19
+            1N: 1) 1/2 seat, 17-19, may have 5 card major
+                2) 3/4 seat, 18-19
+                2C: Asks for 5 card major
+                    2D: No 5 card major
+                        2H: 4 spades, fewer than 4 hearts, at least game invitational
+                            2S: Minimum, usually 4 spades but possibly 3 spades preferring to play 4-3 fit if partner is invitational
+                            2N: Minimum, fewer than 4 spades
+                            3C: Non-minimum, fewer than 4 spades, says nothing about clubs
+                                3D: Shortness in the other major, not 4-4 in minors(4-4-4-1 hands are handled differently)
+                                    3H: Ask about minor length
+                                        3S: 5+ clubs
+                                        3N: 5+ diamonds
+                                3H: Club shortness
+                                3S: Diamond shortness
+                                3N: No shortness
+                        2N: 4-4 majors invitational
+                2S: Initially assumed to be size ask
+                    2N: Minimum
+                        3D: 4 hearts, 5 card minor
+                            3H: Ask
+                        3H: 4 spades and 5 clubs
+                        3S: 4 spades and 5 diamonds
+                    3C: Non-min9mum
+                        3D: 4 hearts, 5 card minor
+                        3H: 4 spades and 5 clubs
+                        3S: 4 spades and 5 diamonds
+
             2H: 1) 3/4 seat, artificial big hand, partner must bid 2S, hand types - 
                 a. 22+ bal
                 b. Long minor, game-forcing
