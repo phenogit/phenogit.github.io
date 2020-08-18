@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-Currently On: Anticipating a Guess - 2011/4/3
+Currently On: The Right Strain - 2011/4/10
 
 ## Non-Competitive Bidding
 ### Bidding Tree
