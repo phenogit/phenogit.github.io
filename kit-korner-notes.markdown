@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-Currently On: More Suit Preference - 2011/4/17
+Currently On: Getting the Ruff - 2011/4/23
 
 ## Non-Competitive Bidding
 
@@ -149,6 +149,17 @@ Currently On: More Suit Preference - 2011/4/17
 
 ## Competitive Bidding
 ### Meta Rules
+    General agreements are that 2N in competition is always takeout unless specifically defined otherwise.
+    
+    Your agreements regarding pass and redouble after an artificial call such as 2NT is doubled is that pass is an offer to play while redouble is never business -- partner may not pass.
+
+    E.g.
+        1N!-(2C@)-P-(2D#);
+        2N -(X  )
+            !: 10-12
+            @: Majors
+            #: Asking for better major
+
     Transfer Response Over X of 1D Opener
     1D-(X)-??
         XX: Shows hearts
@@ -236,10 +247,26 @@ Currently On: More Suit Preference - 2011/4/17
             1N: Shape
 
 ### Misc
-    1N!-(2D@)-4D#
+    1N!-(2D@)-??
         !: 10-12
         @: Diamonds and a major
-        #: Transfer
+        
+        4D: Transfer
+
+    1N!-(2C@)-??
+        !: 10-12
+        @: Majors
+
+        P: Pass followed by double shows a good hand with a 3-card holding in their suit. 
+           Partner is expected to pull if he has only a doubleton.
+        X: Shows a good hand, creating a force. 
+           It would show the ability to double at least one of the majors, and invite partner to double. 
+           Following doubles by either partner are penalties, showing a 4-card holding in their suit.
+        2D: To play
+        2H: Inv+ in clubs
+        2S: Inv+ in diamonds
+        2N: Natural invite
+        3D: To play
 
     (P)-1S-(2S!)-??
         !: Hearts and clubs
@@ -384,3 +411,6 @@ Currently On: More Suit Preference - 2011/4/17
     Third from even, smallest from odd, top of a doubleton
     5th best from 7 card suit if there is known length
     From 3 small, high or low, when in doubt - count
+    Your agreements are that from AK you may lead either the ace or the king. 
+        You lead the ace when you want an attitude signal. 
+        You lead the king when you want a suit-preference signal.
