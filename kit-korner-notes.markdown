@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-Currently On: Getting the Ruff - 2011/4/23
+Currently On: The Danger Hand - 2011/5/1
 
 ## Non-Competitive Bidding
 
@@ -247,6 +247,13 @@ Currently On: Getting the Ruff - 2011/4/23
             1N: Shape
 
 ### Misc
+
+    P -(1D)-2C-(X);
+    ??
+        XX: Lead-directional showing a club honor
+
+    Transfer advances opposite overcalls
+
     1N!-(2D@)-??
         !: 10-12
         @: Diamonds and a major
@@ -280,7 +287,7 @@ Currently On: Getting the Ruff - 2011/4/23
             If the next hand bids, partner may not bid 5S on his own
             If he wishes to bid 5S he doubles -> penalty double not available
 
-    cont'd
+    Cont'd
     (P )-1S -(2S!)-3H;
     (5H)-5S!
         !: Weaker than pass (forcing) followed by a pull
