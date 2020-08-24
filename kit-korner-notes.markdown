@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-Currently On: The Danger Hand - 2011/5/1
+Currently On: The Best Line - 2011/5/8
 
 ## Non-Competitive Bidding
 
@@ -58,8 +58,9 @@ Currently On: The Danger Hand - 2011/5/1
             2S
                 4C: Solid suit, minimum of AKQ10xx, usually better. A suit that expects to run with no losers.
 
-    1D: 1) Vulnerable 1/2 seat 11-15, 2+d, if balanced 11-13
-        2) 3/4 seat 11-15, 2+d, if balanced 11-14
+    1D: 1) Non-vulnerable 1/2 seat 11-15, 2+d, if balanced 13-15
+        2) Vulnerable 1/2 seat 11-15, 2+d, if balanced 11-13
+        3) 3/4 seat 11-15, 2+d, if balanced 11-14
         1H
             2H: Always 4h, no singleton or voids, 11-13
                 2S: Unspecified short suit game or slam try
@@ -82,6 +83,11 @@ Currently On: The Danger Hand - 2011/5/1
                 4D: Natural slam try
                 4S: RKC
             3H: Promises a singleton/void, regardless of strenth, not worth forcing to game
+        2N: Natural invite
+            3C: Natural, both minors, non-forcing
+            3D: Natural, non-forcing
+            3H: Shortness
+            3S: Shortness
     
     1H
         1S
@@ -97,7 +103,8 @@ Currently On: The Danger Hand - 2011/5/1
             3D: Shows no extra, either in shape or strength
 
     1N: 1) Non-vulnerable 1/2 seat 10-12
-        2) 3/4 seat 15-17
+        2) Vulnerable 1/2 seat 14-16
+        3) 3/4 seat 15-17
         2C: Non-game forcing Staymen
         2D: Game-forcing Stayman
             2H
@@ -178,7 +185,23 @@ Currently On: The Danger Hand - 2011/5/1
     Forcing pass doesn't show extra strength.
     All it shows is more of an offensive orentation.
 
-    Voluntarily and non-premptively jumps to game creates a force
+    Voluntarily and non-premptively jumps to game creates a force.
+
+    Passing lead directing double of 3N shows at least partial stopper.
+    XX shows no stopper.
+    Avoids running on his own.
+
+    E.g.
+          1D-(P)-2N;
+      (P)-3N-(X)-??
+        P : Partial stopper or better
+        XX: No stopper
+
+    Cont'd
+            1D-(P)-2N;
+        (P)-3N-(X)-P ;
+        (P)-??
+            XX: Shows not even a partial stopper
 
     Pass/X Inversion
         Applies when the following conditions are satisfied:
