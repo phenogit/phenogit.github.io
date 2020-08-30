@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-Currently On: The Best Line - 2011/5/8
+Currently On: Improving the Odds - 2011/5/12
 
 ## Non-Competitive Bidding
 
@@ -297,6 +297,11 @@ Currently On: The Best Line - 2011/5/8
         2S: Inv+ in diamonds
         2N: Natural invite
         3D: To play
+
+    1S-(2D)-??
+        
+        X : Followed by a spade raise would be assumed to show doubleton honor, though a soft 3-card limit raise with interest in other strains is possible
+        3D: Limit raise or better
 
     (P)-1S-(2S!)-??
         !: Hearts and clubs
