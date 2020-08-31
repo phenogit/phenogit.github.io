@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-Currently On: Improving the Odds - 2011/5/12
+Currently On: The Forest Through the Trees - 2011/5/17
 
 ## Non-Competitive Bidding
 
@@ -101,6 +101,12 @@ Currently On: Improving the Odds - 2011/5/12
             2N: 13-15
         2D
             3D: Shows no extra, either in shape or strength
+
+    1S
+        1N: Semi-forcing, wit a non-minimum partner will bid even if he has to bid a 3-card minor
+            2C
+                Modified Bart structure where there is the option to show a strong club raise
+        2C: Game forcing, partner bids his shape without regard to strength. Rebidding suit promises 6. If 5-4, partner bids his other suit even if he is minimum. Jumps in new suitsa re splinters
 
     1N: 1) Non-vulnerable 1/2 seat 10-12
         2) Vulnerable 1/2 seat 14-16
