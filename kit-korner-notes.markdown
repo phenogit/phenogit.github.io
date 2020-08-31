@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-Currently On: Follow the Signal - 2011/5/22
+Currently On: The Hidden Clue - 2011/5/29
 
 ## Non-Competitive Bidding
 
@@ -89,7 +89,7 @@ Currently On: Follow the Signal - 2011/5/22
             3H: Shortness
             3S: Shortness
     
-    1H
+    1H: 5+ card suit, 11-15
         1S
             1N: 1) Non-vulnerable shows 13-15
             2S: 3 card support possible
@@ -102,7 +102,7 @@ Currently On: Follow the Signal - 2011/5/22
         2D
             3D: Shows no extra, either in shape or strength
 
-    1S
+    1S: 5+ card suit, 11-15
         1N: Semi-forcing, wit a non-minimum partner will bid even if he has to bid a 3-card minor
             2C
                 Modified Bart structure where there is the option to show a strong club raise
@@ -157,6 +157,11 @@ Currently On: Follow the Signal - 2011/5/22
                 Higher: Slam tries
         3D: Natural invite
     2D: Weak 2 in one of the majors
+    2H: 4=4=0=5, 4=4=1=4, 4=3=1=5, 3=4=1=5, 11-15
+        P : To play
+        2S: To play
+        2N: Ask about shape and strength
+        3C: To play, no game interest
     2N: Both minors, less than an opening
     3N: 1) 4th seat, end of auction
 
@@ -442,6 +447,7 @@ Currently On: Follow the Signal - 2011/5/22
         T/9/8 high side suit
         2/3/4 low side suit
         6/5/7 encouraging
+        J     special card which says that partner doesn't have the spot card for the signal
         Make least damaging signal if no suitable card
     UDCA
     Standard current count on later plays in a suit
