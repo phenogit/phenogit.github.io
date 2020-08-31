@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-Currently On: The Forest Through the Trees - 2011/5/17
+Currently On: Follow the Signal - 2011/5/22
 
 ## Non-Competitive Bidding
 
