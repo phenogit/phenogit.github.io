@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-Currently On: The Hidden Clue - 2011/5/29
+Currently On: Retaining Control - 2011/6/4
 
 ## Non-Competitive Bidding
 
@@ -309,6 +309,14 @@ Currently On: The Hidden Clue - 2011/5/29
         2N: Natural invite
         3D: To play
 
+    1H-(1N)-??
+
+        X : Penalty, puts partnership in a force, follow-doubles are penalties. However, if you follow by bidding a suit, that is non-forcing.
+        2C: 2-suiter, clubs and either diamonds or spades
+        2D: 2-suiter, diamonds and spades
+        2H: To play
+        2S: To play
+
     1S-(2D)-??
         
         X : Followed by a spade raise would be assumed to show doubleton honor, though a soft 3-card limit raise with interest in other strains is possible
@@ -439,7 +447,7 @@ Currently On: The Hidden Clue - 2011/5/29
         K is power lead 
     Partner's suit
         Standard leads
-    Attitude leads for small card
+    Attitude leads for non-honor cards
 
 #### Suit
 ##### General
