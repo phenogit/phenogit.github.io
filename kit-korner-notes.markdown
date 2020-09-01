@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-Currently On: Retaining Control - 2011/6/4
+Currently On: The Inevitable - 2011/6/4
 
 ## Non-Competitive Bidding
 
@@ -281,6 +281,22 @@ Currently On: Retaining Control - 2011/6/4
             1N: Shape
 
 ### Misc
+
+    (1D)-1S-(P)-??
+
+        1N: Natural, around 7-10
+        2C: Constructive, non-forcing
+        2D: Transfer to hearts, might or might not be weak
+        2H: Invitaional spade raise
+        2S: Normal raise
+        2N: Natural invite
+        3C: Natural, game-forcing
+
+    Cont'd
+    (1D)-1S-(P)-2C;
+    (P )-??
+
+        2S: Doesn't necessarily show extra strength, definitely shows a sixth spade
 
     P -(1D)-2C-(X);
     ??
