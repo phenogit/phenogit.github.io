@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-Currently On: A Gift Horse - 2011/6/12
+Currently On: Discovering the Split - 2011/6/22
 
 ## Non-Competitive Bidding
 
@@ -140,6 +140,14 @@ Currently On: A Gift Horse - 2011/6/12
                         5C: To play
             2N: Balanced, non-minimum
             3C: Balanced, minimum
+            3S: Solid club suit with no 4-card major
+            3N: 5 spades, 6 clubs
+                4C: Natural force, slam interest
+                4D: RKC for clubs
+                4H: Slam try in spades
+                4S: To play
+                4N: RKC for spades
+                5C: To play
         2S: Natural force, 5+ spades, may stop in 2N, 3C or 3S
         2N: Forces 3C, either
             1) Planning to pass 3C
@@ -381,6 +389,8 @@ Currently On: A Gift Horse - 2011/6/12
 
     RKC(03/14)
     We always use the cheapest artificial call above 4 of the trump suit for our RKC call.
+    4T+1 always being RKC for T provided 4T+1 isn't needed as natural.
+    5T+1 being the king ask.
 
     4S RKC, follow-ups other than 5H/6H signoff
         5C: Ask for queen of trumps
@@ -446,6 +456,18 @@ Currently On: A Gift Horse - 2011/6/12
             3H: Sound overcall
             3S: Sound overcall
 
+    High-level Artificial Call Gets Doubled
+    With no first or second round control in the doubled strain, next hand passes.
+    If the person making the artificial call is still interested he redoubles.
+    If the person making the artificial call also has no control, he can hit the brakes and place the contract.
+    If the partner of the artificial bidder has a first or second round control of the suit, he simply makes the same bid he would have made had there been no double.
+    Direct redouble shows no control but the queen of the suit.
+
+    E.g.
+    2C -(P )-2D-(P);
+    3N -(P )-4D-(X);
+    4N!-(5D)-??
+        !: 2 keycards, no queen of trumps, diamond control
 
 ## Carding
 #### NT
