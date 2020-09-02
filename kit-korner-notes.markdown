@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-Currently On: The Inevitable - 2011/6/4
+Currently On: A Gift Horse - 2011/6/12
 
 ## Non-Competitive Bidding
 
@@ -479,9 +479,14 @@ Currently On: The Inevitable - 2011/6/4
     Splitting honors show 0 or 2 higher
 
 ##### Opening Leads
-    Third from even, smallest from odd, top of a doubleton
-    5th best from 7 card suit if there is known length
-    From 3 small, high or low, when in doubt - count
     Your agreements are that from AK you may lead either the ace or the king. 
         You lead the ace when you want an attitude signal. 
         You lead the king when you want a suit-preference signal.
+    Standard honor leads for non-AK.
+    Interior sequence
+        2nd from interior sequence with 3, 4, or 6-card suit.
+        Top of interior with 5-card suit.
+    Third from even, smallest from odd, top of a doubleton
+    5th best from 7 card suit if there is known length
+    From 3 small, high or low, when in doubt - count
+    
