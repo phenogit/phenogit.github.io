@@ -4,7 +4,7 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-Currently On: Discovering the Split - 2011/6/22
+Currently On: Retaining Options - 2011/7/2
 
 ## Non-Competitive Bidding
 
@@ -446,6 +446,13 @@ Currently On: Discovering the Split - 2011/6/22
         3S: Limit raise
         4C: Slam interest, shows nothing about clubs
         4S: What it sounds like, creates force
+
+    Defense Against Multi
+        (2D)-??
+            X             : 13-15 balanced or some very strong hand
+            2N            : 16-18 balanced
+            Overcalls     : Natural
+            Jump overcalls: Strong
 
     Defense Against Artificial 2N/3N that Show 1/2 Minors
         (2N!)-??
