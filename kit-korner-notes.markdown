@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Doding the Endplay
-2011/8/1
+Picturing His Hand
+2011/8/7
 
 ## Non-Competitive Bidding
 
@@ -328,28 +328,7 @@ Doding the Endplay
 
     Transfer advances opposite overcalls
 
-    1N!-(2D@)-??
-        !: 10-12
-        @: Diamonds and a major
-        
-        4D: Transfer
-
-    1N!-(2C@)-??
-        !: 10-12
-        @: Majors
-
-        P: Pass followed by double shows a good hand with a 3-card holding in their suit. 
-           Partner is expected to pull if he has only a doubleton.
-        X: Shows a good hand, creating a force. 
-           It would show the ability to double at least one of the majors, and invite partner to double. 
-           Following doubles by either partner are penalties, showing a 4-card holding in their suit.
-        2D: To play
-        2H: Inv+ in clubs
-        2S: Inv+ in diamonds
-        2N: Natural invite
-        3D: To play
-
-    1H-(1N)-??
+        1H-(1N)-??
 
         X : Penalty, puts partnership in a force, follow-doubles are penalties. However, if you follow by bidding a suit, that is non-forcing.
         2C: 2-suiter, clubs and either diamonds or spades
@@ -378,6 +357,32 @@ Doding the Endplay
     (P )-1S -(2S!)-3H;
     (5H)-5S!
         !: Weaker than pass (forcing) followed by a pull
+
+    1N!-(2D@)-??
+        !: 10-12
+        @: Diamonds and a major
+        
+        4D: Transfer
+
+    1N!-(2C@)-??
+        !: 10-12
+        @: Majors
+
+        P: Pass followed by double shows a good hand with a 3-card holding in their suit. 
+           Partner is expected to pull if he has only a doubleton.
+        X: Shows a good hand, creating a force. 
+           It would show the ability to double at least one of the majors, and invite partner to double. 
+           Following doubles by either partner are penalties, showing a 4-card holding in their suit.
+        2D: To play
+        2H: Inv+ in clubs
+        2S: Inv+ in diamonds
+        2N: Natural invite
+        3D: To play
+
+    (1N!)-P-(2C)-??
+        !: 12-14
+
+        X: Lead-directing, even vs. a weak notrump
 
     2D-(X!)-??
         !: Either a takeout double of spades or some strong hand
@@ -511,7 +516,7 @@ Doding the Endplay
 #### NT
 ##### General
     UDCA including discards except for trick 1 where it is standard signals
-    Smith echo
+    Smith echo, high means he likes the opening lead and low means he doesn't
     In middle of hand, T/9 show 0 or 2 higher; other spot card leads are generally attitude
     If giving count, first played card is upside-down count, if not it is standard count
 
