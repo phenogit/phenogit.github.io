@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Only Shot
-2011/7/10
+Paving the Way
+2011/7/16
 
 ## Non-Competitive Bidding
 
