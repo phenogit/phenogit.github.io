@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Paving the Way
-2011/7/16
+Doding the Endplay
+2011/8/1
 
 ## Non-Competitive Bidding
 
@@ -422,7 +422,7 @@ Paving the Way
     Two Card X
     You play this 2-card double when the following conditions are satisfied:
         1) Opponents have bid at the 2-level
-        2) Both you and your partner have done something other than pass
+        2) Both you and your partner have done something other than pass (but did not open or overcall 1N)
         3) You are not in a force
         4) The double doesn't have another pre-defined meaning (such as support double)
     It shows exactly two cards in opponents' trumps and interest in competing.
@@ -433,6 +433,21 @@ Paving the Way
         (2H)-??
             X: Two Card X
                 2N: Asking for your better minor if he wants to play 3 of a minor but doesn't know which minor.
+    
+             1D-(P)-1H;
+        (2D)-??
+            X: Support double
+
+        Cont'd
+            1D-(P)-1H;
+        (2D)-P-(P)-??
+            X : Shows exactly a doubleton diamond and interest in competeing(could have 3 diamonds and thik it is the best action). Definitely not a singleton diamond.
+            2H: To play, no game interest
+            2S: Assumed natural, game-forcing
+            2N: Takeout, asking for better minor
+            3C: To play
+            3D: Some kind of game force
+            3N: Natural invite    
 
     Opps 2S Balancing Module
     E.g.
