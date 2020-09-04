@@ -4,7 +4,9 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-Currently On: Retaining Options - 2011/7/2
+Currently On: 
+Only Shot
+2011/7/10
 
 ## Non-Competitive Bidding
 
@@ -16,9 +18,19 @@ Currently On: Retaining Options - 2011/7/2
 
     1C: 16+, artificial
         1D: Artificial, 0-8
-            1H: Forcing, 4+h, but with only 4 hearts you would be expected to have longer minor
-            1N: 1) 1/2 seat, 17-19, may have 5 card major
-                2) 3/4 seat, 18-19
+            1H: Forcing, 4+ hearts, but with only 4 hearts you would be expected to have longer minor
+            1S: Forcing, 4+ spades
+                Various ways to raise when partner has 4+ spades and ways to show a long suit
+                1N: 0-5
+                2C: 6-8, fewer than 3 spades
+                    2D: Artificial
+                        2H: 5 hearts
+                2D: 6-8, 3 spades fewer than 5 hearts
+                2H: 6-8, 3 spades, 5 hearts
+            1N: 1) 1/2 seat vulnerable, 17-19, may have 5 card major
+                2) 1/2 seat non-vulnerable, 16 to bad 19
+                3) 3/4 seat, 18-19
+                High-powered Puppet Stayman
                 2C: Asks for 5 card major
                     2D: No 5 card major
                         2H: 4 spades, fewer than 4 hearts, at least game invitational
@@ -58,10 +70,14 @@ Currently On: Retaining Options - 2011/7/2
             2S
                 4C: Solid suit, minimum of AKQ10xx, usually better. A suit that expects to run with no losers.
 
+        2N: 1/2 seat non-vulnerable most 19's to 21
+            Standard Stayman and transfers
+
     1D: 1) Non-vulnerable 1/2 seat 11-15, 2+d, if balanced 13-15
         2) Vulnerable 1/2 seat 11-15, 2+d, if balanced 11-13
         3) 3/4 seat 11-15, 2+d, if balanced 11-14
         1H
+            1N: 13-15 balanced
             2H: Always 4h, no singleton or voids, 11-13
                 2S: Unspecified short suit game or slam try
                     3C: Ask, coded response
