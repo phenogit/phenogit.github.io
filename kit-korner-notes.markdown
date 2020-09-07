@@ -5,14 +5,16 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Shut Him Up
-2011/9/2
+2-Way Double
+2011/9/17
 
 ## Non-Competitive Bidding
 
 ### Meta Rules
 
-    My agreements are that in a constructive auction artificial calls above 3N are never choice of strains unless slam is totally out of the question. 
+    My agreements are that in a constructive auction artificial calls above 3N are never choice of strains unless slam is totally out of the question.
+    Below 3N, no slam tries unless a 9-card major suit fit has been established.
+    Above 3N, no choice of games cue-bids.
 
 ### Bidding Tree
 
@@ -68,6 +70,26 @@ Shut Him Up
             2N: 1) 3/4 seat, 20-21
             3D: Natural 1-suiter, highly invitational, denies a major
             3H: At least 5-5 minors, game-forcing
+        1S: 5+ spades, 9+
+            2H: Natural force
+            3H: Solid or semi-solid suit and sets trumps
+                Style is responder strives to bid out his shape.
+                3D: Probably denies 6 spades
+                    3H 
+                        3S
+                            4C: Slam try in an unspecified major
+                                4D: Ask which major you are making your slam try in
+                                4H: Rejection of a heart slam try
+                                    4S: Slam try in spades
+                                    4N: RKC for hearts
+                                    5C: Cue bid, hearts is trump
+                                    5D: Cue bid, hearts is trump
+                            4H: To play, no slam interest
+                            4S: To play, no slam interest
+                            4N: RKC for spades
+                        4C: Cue bid for hearts
+                    4C: Natural, shows a club suit
+                3S: 6 spades
         2C: Natural positive, 5+c, 9+
             2S
                 4C: Solid suit, minimum of AKQ10xx, usually better. A suit that expects to run with no losers.
@@ -202,6 +224,7 @@ Shut Him Up
         3C: To play, no game interest
     2N: Both minors, less than an opening
     3N: 1) 4th seat, end of auction
+    4C: Namyats, self-sufficient heart suit and a very good 4H opening.
 
 ## Competitive Bidding
 ### Meta Rules
@@ -509,6 +532,20 @@ Shut Him Up
         3S: Limit raise
         4C: Slam interest, shows nothing about clubs
         4S: What it sounds like, creates force
+
+    4-level Unspecified Major Cue Bid
+    When partner's last call is 3S or 3N and:
+        1) Neither minor is a possible trump suit:
+            4C: Slam try in hearts
+            4D: Slam try in spades
+        2) Clubs is a possible trump suit:
+            4D: Slam try in unspecific major
+                4H : No interest in either major or interest in spades but not hearts
+                4S : Interest in hearts but not spades
+                4N+: Interest in both majors
+        3) Diamonds is a possible trump suit:
+            4C: Slam try in unspecific major
+                4D: Ask for which major
 
     Defense Against Multi
         (2D)-??
