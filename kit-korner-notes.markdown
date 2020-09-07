@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Avoiding Promotion
-2011/8/26
+Shut Him Up
+2011/9/2
 
 ## Non-Competitive Bidding
 
@@ -466,7 +466,20 @@ Avoiding Promotion
             2N: Takeout, asking for better minor
             3C: To play
             3D: Some kind of game force
-            3N: Natural invite    
+            3N: Natural invite
+
+    E.g.
+         1S-(P)-1N-(2H);
+        -??
+            X : Two card X
+                2N: Takeout
+            2S: Normal, 6-card spade suit
+            2N: Relay to 3C, showing a weak 3 of a minor call
+            3C: 5-5 maximum
+
+    E.g.
+        1H-(P)-2H-(2S)
+            X of 2S by both opener and responder would be 2-card.
 
     Opps 2S Balancing Module
     E.g.
