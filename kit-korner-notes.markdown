@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-A Ruffing Finesse
-2011/8/11
+Avoiding Promotion
+2011/8/26
 
 ## Non-Competitive Bidding
 
@@ -55,7 +55,7 @@ A Ruffing Finesse
                         3D: 4 hearts, 5 card minor
                         3H: 4 spades and 5 clubs
                         3S: 4 spades and 5 diamonds
-
+            2D: Natural, non-forcing, denies a major
             2H: 1) 3/4 seat, artificial big hand, partner must bid 2S, hand types - 
                 a. 22+ bal
                 b. Long minor, game-forcing
@@ -66,6 +66,8 @@ A Ruffing Finesse
                         3C: Regular Stayman
                     3N: 25-27
             2N: 1) 3/4 seat, 20-21
+            3D: Natural 1-suiter, highly invitational, denies a major
+            3H: At least 5-5 minors, game-forcing
         2C: Natural positive, 5+c, 9+
             2S
                 4C: Solid suit, minimum of AKQ10xx, usually better. A suit that expects to run with no losers.
@@ -76,6 +78,7 @@ A Ruffing Finesse
     1D: 1) Non-vulnerable 1/2 seat 11-15, 2+d, if balanced 13-15
         2) Vulnerable 1/2 seat 11-15, 2+d, if balanced 11-13
         3) 3/4 seat 11-15, 2+d, if balanced 11-14
+        Followed by a jump to 3C, that would show a maximum with at least 5-5 in the minors.
         1H
             1N: 13-15 balanced
             2H: Always 4h, no singleton or voids, 11-13
