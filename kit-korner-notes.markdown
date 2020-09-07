@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Picturing His Hand
-2011/8/7
+A Ruffing Finesse
+2011/8/11
 
 ## Non-Competitive Bidding
 
@@ -185,6 +185,17 @@ Picturing His Hand
         P : To play
         2S: To play
         2N: Ask about shape and strength
+            4C: Non-minimum, 4=4=0=5
+                4D : Forces partner to bid 4H, then place contract
+                4H : Slam try in hearts
+                    4S: RKC for hearts
+                    4N: Asks for a spade control
+                    5C: Asks for a club control
+                    5H: Doesn't show or ask for anything in particular. It is partner's only invite.
+                4S : Slam try in spades
+                4N : Slam try in NT
+                5C : Slam try in clubs
+                5D+: RKC, trump suit defined in a coded manner
         3C: To play, no game interest
     2N: Both minors, less than an opening
     3N: 1) 4th seat, end of auction
