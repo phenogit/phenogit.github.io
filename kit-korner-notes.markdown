@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Punishing the Intruder
-2011/9/24
+More Restriced Choice
+2011/10/8
 
 ## Non-Competitive Bidding
 
@@ -19,6 +19,7 @@ Punishing the Intruder
 ### Bidding Tree
 
     1C: 16+, artificial
+        1) 3/4 seat, 18+ if balanced
         1D: Artificial, 0-8
             1H: Forcing, 4+ hearts, but with only 4 hearts you would be expected to have longer minor
             1S: Forcing, 4+ spades
@@ -70,6 +71,9 @@ Punishing the Intruder
             2N: 1) 3/4 seat, 20-21
             3D: Natural 1-suiter, highly invitational, denies a major
             3H: At least 5-5 minors, game-forcing
+        1H: 5+ hearts
+            1) Non-passed hand 9+
+            2) Passed hand 8+
         1S: 5+ spades, 9+
             2H: Natural force
             3H: Solid or semi-solid suit and sets trumps
@@ -101,6 +105,8 @@ Punishing the Intruder
         2) Vulnerable 1/2 seat 11-15, 2+d, if balanced 11-13
         3) 3/4 seat 11-15, 2+d, if balanced 11-14
         Followed by a jump to 3C, that would show a maximum with at least 5-5 in the minors.
+        Never raise major without 4-card support.
+        Always bypass a 4-card spade suit if balanced.
         1H
             1N: 13-15 balanced
             2H: Always 4h, no singleton or voids, 11-13
@@ -222,6 +228,7 @@ Punishing the Intruder
                 5C : Slam try in clubs
                 5D+: RKC, trump suit defined in a coded manner
         3C: To play, no game interest
+    2S: Good diamond preempt
     2N: Both minors, less than an opening
     3N: 1) 4th seat, end of auction
     4C: Namyats, self-sufficient heart suit and a very good 4H opening.
@@ -229,7 +236,7 @@ Punishing the Intruder
 ## Competitive Bidding
 ### Meta Rules
     General agreements are that 2N in competition is always takeout unless specifically defined otherwise.
-    
+    When in a game force, doubles by either partner are penalties.
     Your agreements regarding pass and redouble after an artificial call such as 2NT is doubled is that pass is an offer to play while redouble is never business -- partner may not pass.
 
     E.g.
@@ -609,8 +616,9 @@ Punishing the Intruder
         J     special card which says that partner doesn't have the spot card for the signal
         Make least damaging signal if no suitable card
     UDCA
-    Standard current count on later plays in a suit
+    Standard current count on later plays in a suit after having given suit-preference
     Standard current count for discard
+    Lead of king in the middle of the hand asks for upside-down count
     Splitting honors show 0 or 2 higher
 
 ##### Opening Leads
