@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-2-Way Double
-2011/9/17
+Punishing the Intruder
+2011/9/24
 
 ## Non-Competitive Bidding
 
@@ -342,6 +342,12 @@ Currently On:
             1N: Shape
 
 ### Misc
+
+    (1C)-P-(3C!)-P;
+    (P )-??
+        !: Preemptive
+
+        X: Penalty
 
     (1D)-1S-(P)-??
 
