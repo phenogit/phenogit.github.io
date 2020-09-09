@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-One Trump Loser
-2011/11/24
+Planning the Play
+2011/12/7
 
 ## Non-Competitive Bidding
 
@@ -495,6 +495,7 @@ One Trump Loser
     4T+1 always being RKC for T provided 4T+1 isn't needed as natural.
     5T+1 being the king ask.
 
+    E.g.
     4S RKC, follow-ups other than 5H/6H signoff
         5C: Ask for queen of trumps
         5D: Ask for queen of trumps
@@ -505,6 +506,16 @@ One Trump Loser
         5N: Pick a slam
         6C: Natural offer to play
         6D: Natural offer to play
+
+    Transfer Advances
+
+    E.g.
+        P-(1S)-2H;
+    (P)-??
+
+        3C: Transfer to diamonds
+        3D: Invitational heart raise
+        3H: Non-invitational
 
     Two Card X
     You play this 2-card double when the following conditions are satisfied:
