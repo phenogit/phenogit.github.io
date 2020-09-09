@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Light Overcall
-2011/10/15
+The Re-evaluation
+2011/11/4
 
 ## Non-Competitive Bidding
 
@@ -349,6 +349,14 @@ Light Overcall
             1N: Shape
 
 ### Misc
+
+    (P )-1C-(1H)-X!;
+    (3H)-??
+        !: 5-8, any distribution
+
+        P : Not forcing. Double by partner would also be takeout
+        X : Takeout
+        3S: Natural and forcing
 
     (1C)-P-(3C!)-P;
     (P )-??
