@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-The Re-evaluation
-2011/11/4
+One Trump Loser
+2011/11/24
 
 ## Non-Competitive Bidding
 
@@ -364,6 +364,16 @@ The Re-evaluation
 
         X: Penalty
 
+    (P )-1D-(P)-1S;
+    (2H)-??
+    
+        X : Support double, shows 3 card support
+        2S: 4 card support, 13-15 points, balanced
+        2N: Both minors, diamond emphasis
+        3C: Both minors, club emphasis
+        3S: 4 card support, some shortness, any strength
+        3N: Presumably a semi-solid diamond suit and side stoppers
+
     (1D)-1S-(P)-??
 
         1N: Natural, around 7-10
@@ -393,6 +403,12 @@ The Re-evaluation
         2D: 2-suiter, diamonds and spades
         2H: To play
         2S: To play
+
+    (1H)-2D-(4H)-P;
+    (P )-??
+
+        X : Takeout, in your style you would always start with a takeout double rather than a 2D overcall if you had 4 spades, so partner will not be playing you for a 4 card spade holding
+        4N: Takeout for the minors
 
     1S-(2D)-??
         
