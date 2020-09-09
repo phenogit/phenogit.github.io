@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-More Restriced Choice
-2011/10/8
+Light Overcall
+2011/10/15
 
 ## Non-Competitive Bidding
 
@@ -390,6 +390,14 @@ More Restriced Choice
         
         X : Followed by a spade raise would be assumed to show doubleton honor, though a soft 3-card limit raise with interest in other strains is possible
         3D: Limit raise or better
+
+         P -(P  )-1S;
+    (2H)-2S-(2N!)-??
+        !: Relay to 3C, likely a weak heart raise
+
+        X : Maximum with defensive orientation
+        3C: Natural game try
+        3S: Not invitational
 
     (P)-1S-(2S!)-??
         !: Hearts and clubs
