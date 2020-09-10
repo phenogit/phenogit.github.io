@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Planning the Play
-2011/12/7
+Losers and Winners
+2011/12/17
 
 ## Non-Competitive Bidding
 
@@ -68,7 +68,9 @@ Planning the Play
                     2N: 22-24
                         3C: Regular Stayman
                     3N: 25-27
-            2N: 1) 3/4 seat, 20-21
+            2N: 1) 1/2 seat non-vulnerable, most 19's to 21
+                2) 3/4 seat, 20-21
+                Standard Stayman and transfers
             3D: Natural 1-suiter, highly invitational, denies a major
             3H: At least 5-5 minors, game-forcing
         1H: 5+ hearts
@@ -97,9 +99,22 @@ Planning the Play
         2C: Natural positive, 5+c, 9+
             2S
                 4C: Solid suit, minimum of AKQ10xx, usually better. A suit that expects to run with no losers.
-
-        2N: 1/2 seat non-vulnerable most 19's to 21
-            Standard Stayman and transfers
+        3S: Solid major, minimum AKQTxx. May have outside strength.
+            3N: Offer to play
+            4C: Slam try in partner's major
+            4D: Ask
+            4H: To play if his suit is hearts, cue bid if his suit is spades
+            4S: RKC in hearts if his suit is hearts, to play if his suit is spades
+                5H: (when RKC) 2 keycards plus the jack of hearts(or sufficient extra length)
+                    5S: Ask for specific kings, shown up-the-line
+                        5N: CK
+                        6C: DK
+                        6D: SK
+                        If he shows a king and you then make a bid which corresponds to another king, that asks him to bid 6N if he has that king or to show another higher ranking king
+            4N: Spade splinter if his suit is hearts, RKC in spades if his suit is spades
+            5C: Splinter
+            5D: Splinter
+            RKC is a special kind, jack of trumps is treated as the queen
 
     1D: 1) Non-vulnerable 1/2 seat 11-15, 2+d, if balanced 13-15
         2) Vulnerable 1/2 seat 11-15, 2+d, if balanced 11-13
