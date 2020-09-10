@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Unusual Notrump
-2012/1/7
+Lesser Evil
+2012/1/14
 
 ## Non-Competitive Bidding
 
@@ -451,15 +451,13 @@ Unusual Notrump
     ??
         XX: Lead-directional showing a club honor
 
-    Transfer advances opposite overcalls
+    1H-(1N)-??
 
-        1H-(1N)-??
-
-        X : Penalty, puts partnership in a force, follow-doubles are penalties. However, if you follow by bidding a suit, that is non-forcing.
-        2C: 2-suiter, clubs and either diamonds or spades
-        2D: 2-suiter, diamonds and spades
-        2H: To play
-        2S: To play
+    X : Penalty, puts partnership in a force, follow-doubles are penalties. However, if you follow by bidding a suit, that is non-forcing.
+    2C: 2-suiter, clubs and either diamonds or spades
+    2D: 2-suiter, diamonds and spades
+    2H: To play
+    2S: To play
 
     (1H)-2D-(4H)-P;
     (P )-??
@@ -522,6 +520,15 @@ Unusual Notrump
         !: 12-14
 
         X: Lead-directing, even vs. a weak notrump
+
+    （1N)-??
+
+        X : 4 card major and a longer minor
+        2C: Majors
+        2D: 1 major
+        2H: 5 card suit and a minor
+        2S: 5 card suit and a minor
+        2N: Both minors        
 
     2D-(X!)-??
         !: Either a takeout double of spades or some strong hand
