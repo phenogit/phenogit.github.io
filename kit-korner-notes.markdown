@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Danger
-2011/12/23
+Reason for Defense
+2011/12/30
 
 ## Non-Competitive Bidding
 
@@ -169,6 +169,15 @@ Danger
             2C
                 Modified Bart structure where there is the option to show a strong club raise
         2C: Game forcing, partner bids his shape without regard to strength. Rebidding suit promises 6. If 5-4, partner bids his other suit even if he is minimum. Jumps in new suitsa re splinters
+        2D: Natural game force
+        2S: Simple raise, no game interest
+        2N: Raise, could be limit raise, does not guarantee 4 trumps
+            3C : Any minimum
+                3D: Ask to find out more
+                3S: Limit raise
+            3D+: Coded manner, non-minimum
+        3C: Invitational
+        3D: Invitational
 
     1N: 1) Non-vulnerable 1/2 seat 10-12
         2) Vulnerable 1/2 seat 14-16
