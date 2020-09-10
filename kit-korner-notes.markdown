@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Lesser Evil
-2012/1/14
+Second Hand High
+2012/1/21
 
 ## Non-Competitive Bidding
 
