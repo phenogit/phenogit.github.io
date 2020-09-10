@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Losers and Winners
-2011/12/17
+Danger
+2011/12/23
 
 ## Non-Competitive Bidding
 
@@ -372,6 +372,23 @@ Losers and Winners
         P : Not forcing. Double by partner would also be takeout
         X : Takeout
         3S: Natural and forcing
+
+    Vs. Short Minor Openings(2 or fewer)
+    (P)-P-(1C!)-??
+        !: Could be short
+
+        X                   : Takeout, shows at least 4-4 in the majors
+        1N                  : 4 card major and a longer minor
+        2C                  : Natural
+        Pass then bid a suit: The bid suit and a higher suit
+        Pass then X a suit  : Takeout
+        Pass then X 1N      : Penalty
+
+    Cont'd
+    (P)-P  -(1C)-1N;
+    (X)-??
+    
+        2D: Asks for your major
 
     (1C)-P-(3C!)-P;
     (P )-??
