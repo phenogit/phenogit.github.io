@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Second Hand High
-2012/1/21
+Dual Message
+2012/1/28
 
 ## Non-Competitive Bidding
 
