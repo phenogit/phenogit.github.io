@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Entry Flow
-2012/2/11
+Be Prepared
+2012/2/18
 
 ## Non-Competitive Bidding
 
