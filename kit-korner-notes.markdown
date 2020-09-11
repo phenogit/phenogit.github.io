@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Concelaing the Strength
-2012/2/4
+Entry Flow
+2012/2/11
 
 ## Non-Competitive Bidding
 
