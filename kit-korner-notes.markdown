@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Dual Message
-2012/1/28
+Concelaing the Strength
+2012/2/4
 
 ## Non-Competitive Bidding
 
