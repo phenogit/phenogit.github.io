@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Be Prepared
-2012/2/18
+Rotating the Declarer
+2012/2/24
 
 ## Non-Competitive Bidding
 
