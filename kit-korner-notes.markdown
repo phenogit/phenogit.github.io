@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-High Level Help
-2012/3/17
+Shape Before Strength
+2012/3/31
 
 ## Non-Competitive Bidding
 
@@ -99,6 +99,16 @@ High Level Help
         2C: Natural positive, 5+c, 9+
             2S
                 4C: Solid suit, minimum of AKQ10xx, usually better. A suit that expects to run with no losers.
+        2D: 5+d, 9+, Natural bidding follows
+            3C
+                3S: Assumed to be a real suit, since a 4-4 spade fit is still possible. But he might simply have spade concentration, no heart stopper, and only 5 diamonds so he can't rebid 3D
+                    3N
+                        4C
+                            4D: RKC for clubs
+                                4H: 0 or 3 keycards
+                            4H: Cue bid
+                            4S: Offer to play
+                            4N: Diamond cue bid
         3S: Solid major, minimum AKQTxx. May have outside strength.
             3N: Offer to play
             4C: Slam try in partner's major
@@ -410,6 +420,19 @@ High Level Help
         X : Takeout
         3S: Natural and forcing
 
+    P-(1C)-??
+    
+        2N: Unusual, showing at least 5-5 in the red suits
+
+    Cont'd
+
+    P  -(1C)-1H-(X);
+    3H!-(4S)-??
+        !: Preemptive
+
+        5D: Will not put your side in a force. Simply assumed to show where your values are in case of further competition. It would not be taken as a slam try.
+        5H: Will not put your side in a force
+
     Vs. Short Minor Openings(2 or fewer)
     (P)-P-(1C!)-??
         !: Could be short
@@ -709,6 +732,12 @@ High Level Help
         !: 2 keycards, no queen of trumps, diamond control
 
 ## Carding
+
+### Meta Rules
+    AK leads at the 5-level and higher:
+        A: Asks for attitude
+        K: Asks for count
+
 #### NT
 ##### General
     UDCA including discards except for trick 1 where it is standard signals
