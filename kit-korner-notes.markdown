@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Unexpected Gift
-2012/3/3
+Diverting the Ruff
+2012/3/10
 
 ## Non-Competitive Bidding
 
