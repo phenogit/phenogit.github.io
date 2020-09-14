@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Diverting the Ruff
-2012/3/10
+High Level Help
+2012/3/17
 
 ## Non-Competitive Bidding
 
@@ -235,6 +235,16 @@ Diverting the Ruff
                 4S: To play
                 4N: RKC for spades
                 5C: To play
+        2H: Natural force, natural bidding follows. A follow up 3H by you would be forcing
+            2S
+                3H
+                    4D: Cue bid if he thinks he has good cards for slam
+                    4H
+                        4S: RKC for hearts
+                        4N: Control ask for spades
+                        5C: Control ask for clubs
+                        5D: Control ask for diamonds
+                        5H: General slam try, usually a hand rich in controls but poor in tricks
         2S: Natural force, 5+ spades, may stop in 2N, 3C or 3S
         2N: Forces 3C, either
             1) Planning to pass 3C
@@ -249,8 +259,10 @@ Diverting the Ruff
         3C: Forces 3D
             3D
                 P     : To play
-                Higher: Slam tries
+                3H    : 1 suited slam try in hearts
+                Others: Slam tries
         3D: Natural invite
+        3H: Natural invite
     2D: Weak 2 in one of the majors
     2H: 4=4=0=5, 4=4=1=4, 4=3=1=5, 3=4=1=5, 11-15
         P : To play
