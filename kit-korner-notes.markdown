@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Rotating the Declarer
-2012/2/24
+Unexpected Gift
+2012/3/3
 
 ## Non-Competitive Bidding
 
