@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Make'em Pay
-2012/5/5
+Preconceived Notion
+2012/5/12
 
 ## Non-Competitive Bidding
 
