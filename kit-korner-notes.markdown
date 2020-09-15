@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Nervous Moment
-2012/4/21
+Make'em Pay
+2012/5/5
 
 ## Non-Competitive Bidding
 
