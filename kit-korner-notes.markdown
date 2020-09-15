@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Full Picture
-2012/4/7
+Necessary Assumption
+2012/4/14
 
 ## Non-Competitive Bidding
 
@@ -426,6 +426,37 @@ Full Picture
             1N: Shape
 
 ### Misc
+
+    P -(P)-1C-(1D!);
+    ??
+        !: Majors or minors
+
+        P: 0-4 points
+
+    Cont'd
+
+    P-(P )-1C-(1D);
+    P-(2S)-??
+
+        X: Take out
+
+    Cont'd
+
+    P-(P )-1C-(1D);
+    P-(2S)-P -(3C);
+
+        X of 3C by either side is takeout
+
+    Cont'd
+
+    P-(P )-1C-(1D);
+    P-(2S)-P -(3C);
+    X-(XX)-4H-(P );
+    P-(4N)-X -(5D);
+    ??
+
+        You are in a force
+        Double of 4N presumably shows more interent in defending than in going to the 5 level
 
     (P )-1C-(1H)-X!;
     (3H)-??
