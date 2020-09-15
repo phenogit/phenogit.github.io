@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Necessary Assumption
-2012/4/14
+Nervous Moment
+2012/4/21
 
 ## Non-Competitive Bidding
 
@@ -365,6 +365,9 @@ Necessary Assumption
             2) We are in a force
             3) Opponents are at the 4 level or higher
         Only one pass/X inversion per auction
+        If we have bid a suit, immediate 4NT is RKC and delayed 4NT is regular Blackwood
+        If we have not bid a suit, immediate 4NT is regular Blackwood, and delayed 4NT is takeout
+
     E.g.
         1C-(P)-2C -(2H);
         2S-(P)-4C-(4D);
@@ -383,6 +386,33 @@ Necessary Assumption
                 (5D)-?
                     P: Normal forcing pass
             5C: To play, no slam interest
+
+    E.g.
+        1C-(3S)-??
+
+            P          : The only weak action
+            X          : 9+, game forcing
+            Other Calls: Natural and positive
+
+    Cont'd
+
+        1C-(3S)-X-(4S);
+        ??
+
+            P          : Request partner to double unless he has a hand which would not have sat a penalty double.
+                        After he doubles, you can pass if you were making a penalty double or bid something to show a flexible type of offensive hand
+            X          : Like a forcing pass, showing interest in declaring but leaving the decision to partner
+            Other Calls: Natural and a less flexible type of hand
+
+    Cont'd
+
+        1C-(3S)-X -(4S);
+        X -(P )-5H-(P );
+        ??
+
+            In addition to 5 of a suit, partner could have bid 4N which would be takeout.
+            You would initially assume it would be for the minors, but he might have any 2 suits and be trying to find out which suit you like best.
+            If partner has extra strength and wants to make a slam try in hearts, he could bid 4N. The plan would be to pull your hoped-for 5C call to 5H. This low to high pull would logically be a slam try, since if he were looking for a choice of suits he would have either passed 5C or bid 5D giving you a choice of red suits. This plan would not work if you bid 5D, since then his 5H call could simply be a hand which wanted to play in either 5C or 5H.
 
     Penalty X of 1N puts partnership in force
     Ｅ.g.
@@ -465,6 +495,10 @@ Necessary Assumption
         P : Not forcing. Double by partner would also be takeout
         X : Takeout
         3S: Natural and forcing
+
+    
+
+
 
     P-(1C)-??
     
