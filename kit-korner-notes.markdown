@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Shape Before Strength
-2012/3/31
+Full Picture
+2012/4/7
 
 ## Non-Competitive Bidding
 
@@ -180,13 +180,25 @@ Shape Before Strength
     1H: 5+ card suit, 11-15
         1S
             1N: 1) Non-vulnerable shows 13-15
+                2) Vulnerable shows 11-13
             2S: 3 card support possible
         1N: Semi-forcing, permitted to pass with min 5-3-3-2 hand
-        2C
+            2C: Bart modification follow up
+                2D: Invitational with doubleton heart
+        2C: Follow up reverses, 3 level calls and splinters do not show extra shape or strength
             2D: 4+ card suit
             2H: 6 card suit
             2S: 4+ card suit
-            2N: 13-15
+            2N: 1) Non-vulnerable 13-15
+                2) Vulnerable 11-13, at least a doubleton in partner's suit
+            3C: Permissable if it looks like the best action, shows no extra strength
+                3C
+                    3S
+                        3N: Offer to play
+                        4C: Non-forcing, principle is that if a minor has been previously agreed and one partner makes a try for 3N with a concentration call, an immediate return to 4 of a minor is non-forcing
+                        4D: RKC for clubs
+                        4H: Offer to play
+                        4S: Cue bid slam try in clubs
         2D
             3D: Shows no extra, either in shape or strength
 
@@ -208,8 +220,11 @@ Shape Before Strength
     1N: 1) Non-vulnerable 1/2 seat 10-12
         2) Vulnerable 1/2 seat 14-16
         3) 3/4 seat 15-17
-        2C: Non-game forcing Staymen
-        2D: Game-forcing Stayman
+        2C: 1) vs 10-12, Non-game forcing Staymen
+            2) vs 14-16, Puppet Stayman, permitted to bid 2C simply to look for a 5 card major if he has a game-forcing hand even if he has no 4 card major
+            2H: 5 hearts
+                2S: Ask for doubleton
+        2D: 1) vs 10-12, Game-forcing Stayman
             2H
                 xx
                     3H: 5 card suit
