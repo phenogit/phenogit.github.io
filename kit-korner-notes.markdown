@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Preconceived Notion
-2012/5/12
+All-In
+2012/5/19
 
 ## Non-Competitive Bidding
 
