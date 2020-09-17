@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-General Principles Double
-2012/6/10
+Conflicting Clues
+2012/6/23
 
 ## Non-Competitive Bidding
 
@@ -644,12 +644,6 @@ General Principles Double
     (5H)-5S!
         !: Weaker than pass (forcing) followed by a pull
 
-    1N!-(2D@)-??
-        !: 10-12
-        @: Diamonds and a major
-        
-        4D: Transfer
-
     1N!-(2C@)-??
         !: 10-12
         @: Majors
@@ -664,6 +658,19 @@ General Principles Double
         2S: Inv+ in diamonds
         2N: Natural invite
         3D: To play
+
+    1N!-(2D@)-??
+    !: 10-12
+    @: Diamonds and a major
+    
+        4D: Transfer
+
+    (P )-1N!-(2H@)-2S;
+    (3H)-3S -(4H )-??
+        !: 14-16
+        @: 5 card heart suit and a minor
+
+        2S is to play
 
     (1N!)-P-(2C)-??
         !: 12-14
