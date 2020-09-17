@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-The Extra Mile
-2012/6/2
+General Principles Double
+2012/6/10
 
 ## Non-Competitive Bidding
 
@@ -15,6 +15,10 @@ The Extra Mile
     My agreements are that in a constructive auction artificial calls above 3N are never choice of strains unless slam is totally out of the question.
     Below 3N, no slam tries unless a 9-card major suit fit has been established.
     Above 3N, no choice of games cue-bids.
+    Not a control-bidding style. Partner will tend to cue-bid in the suit where he needs help.
+    We use the 4 level to see if we have the strength for slam.
+    If we decide that we do, then we can use RKC if we think keycards are the issue, asking bids if we think controls are the issue, or simply invite if we think a bit more power might be needed.
+    Our general style is to make the Q-bid which leaves partner last train wriggle room unless we have the sort of hand which doesn't want to hear that last train bid since we wouldn't know what to do over it. Or, as on this hand, North can afford to shut out the last train call since he is planning on making another move anyway. Thus, when an unlimited hand chooses to make the Q-bid which shuts out the last train call, the inference is that he probably isn't minimal for his Q-bid.
 
 ### Bidding Tree
 
@@ -100,6 +104,27 @@ The Extra Mile
             2S
                 4C: Solid suit, minimum of AKQ10xx, usually better. A suit that expects to run with no losers.
         2D: 5+d, 9+, Natural bidding follows
+            2H
+                2N: 9-11 or 14+, likely 3=2=3=5 since responder tends to bid out his shape
+                    3H
+                        4C: Possible bid even without a club control, in order to leave you a 4D last train option
+                        4D: Cue bid for hearts, slam interest
+                            4H
+                                4S: RKC for hearts
+                                4N: Asking for control in spades
+                                5C: Asking for control in clubs
+                                5D: Asking for control in diamonds
+                                5H: General slam try
+                                    5S: Cue bid, grand slam interest
+                                    5N: Pick a slam
+                                    6C: Cue bid, grand slam interest
+                                    6D: Offer to play
+                            4S: RKC for hearts
+                            4N: Asking for control in spades
+                            5C: Asking for control in clubs
+                            5D: Asking for control in diamonds
+                            5H: General invite
+                3N: 12-13 and right shape
             3C
                 3S: Assumed to be a real suit, since a 4-4 spade fit is still possible. But he might simply have spade concentration, no heart stopper, and only 5 diamonds so he can't rebid 3D
                     3N
