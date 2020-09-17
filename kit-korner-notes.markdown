@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Overtaking
-2012/6/30
+The Free Finesse
+2012/7/7
 
 ## Non-Competitive Bidding
 
@@ -341,6 +341,7 @@ Overtaking
         3C: To play, no game interest
     2S: Good diamond preempt
     2N: Both minors, less than an opening
+    3D: Bad diamond preempt
     3N: 1) 4th seat, end of auction
     4C: Namyats, self-sufficient heart suit and a very good 4H opening.
 
