@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-All-In
-2012/5/19
+The Extra Mile
+2012/6/2
 
 ## Non-Competitive Bidding
 
@@ -154,7 +154,8 @@ All-In
                 4C: Natural slam try
                 4D: Natural slam try
                 4S: RKC
-            3H: Promises a singleton/void, regardless of strenth, not worth forcing to game
+            2S: 4 card support, shortness somewhere, non-minimum
+            3H: 4 card support, promises a singleton/void, minimum
         1S
             1N: Vulnerable, 11-13 balanced, definitely at least 2 spades. Also, will never raise on 3 card support
                 2 way checkback follow up
@@ -171,11 +172,19 @@ All-In
                             4) Bid RKC for any suit
                 Other non-jumps are sign offs
                 Jumps below game are natural slam tries
+            3H: 4 card support, shortness somewhere, non-minimum
+            3S: 4 card support, shortness somewhere, minimum
+        2C: 100% game forcing. With a 4 card major and longer clubs partner may choose to respond either 1M or 2C
+            2D: 5+d, expected to rebid 2D even if you have a major
+            2H: 4h, deny 5+d, with both majors partner would expect you to bid 2H
+            2S: 4s, deny 5+d, deny 4h
+            2N: Bypass a major is allowed
         2N: Natural invite
             3C: Natural, both minors, non-forcing
             3D: Natural, non-forcing
             3H: Shortness
             3S: Shortness
+        3C: 4+d, 5+c, non-invitational
     
     1H: 5+ card suit, 11-15
         1S
@@ -496,10 +505,6 @@ All-In
         X : Takeout
         3S: Natural and forcing
 
-    
-
-
-
     P-(1C)-??
     
         2N: Unusual, showing at least 5-5 in the red suits
@@ -545,6 +550,10 @@ All-In
         3C: Both minors, club emphasis
         3S: 4 card support, some shortness, any strength
         3N: Presumably a semi-solid diamond suit and side stoppers
+
+    (1D)-P-(1S)-??
+
+        1N: Natural, strong notrump, even in the sandwich position
 
     (1D)-1S-(P)-??
 
