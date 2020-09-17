@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Conflicting Clues
-2012/6/23
+Overtaking
+2012/6/30
 
 ## Non-Competitive Bidding
 
