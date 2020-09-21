@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Unexpected Shift
-2012/7/28
+Crash Danger
+2012/8/4
 
 ## Non-Competitive Bidding
 
@@ -220,9 +220,11 @@ Unexpected Shift
         1N: Semi-forcing, permitted to pass with min 5-3-3-2 hand
             2C: Bart modification follow up
                 2D: Invitational with doubleton heart
-        2C: Follow up reverses, 3 level calls and splinters do not show extra shape or strength
+        2C: Natural game force.
+            Follow up reverses, 3 level calls and splinters do not show extra shape or strength
             2D: 4+ card suit
-            2H: 6 card suit
+            2H: 6+ card suit
+                3N: No slam interest and a very strong desire to play 3N
             2S: 4+ card suit
             2N: 1) Non-vulnerable 13-15
                 2) Vulnerable 11-13, at least a doubleton in partner's suit
@@ -383,6 +385,11 @@ Unexpected Shift
     All it shows is more of an offensive orentation.
 
     Voluntarily and non-premptively jumps to game creates a force.
+
+    Artificial notrump try gets doubles:
+        Passing shows partial stopper, then XX by partner would show a little help but not a true partial stopper
+        XX woudl normally show a stopper but prefer to have partner play it
+        3N shows a full stopper
 
     Passing lead directing double of 3N shows at least partial stopper.
     XX shows no stopper.
