@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-The Free Finesse
-2012/7/7
+The Little Trumps
+2012/7/14
 
 ## Non-Competitive Bidding
 
@@ -197,6 +197,7 @@ The Free Finesse
                             4) Bid RKC for any suit
                 Other non-jumps are sign offs
                 Jumps below game are natural slam tries
+            2S: Always 4s, no singleton or voids
             3H: 4 card support, shortness somewhere, non-minimum
             3S: 4 card support, shortness somewhere, minimum
         2C: 100% game forcing. With a 4 card major and longer clubs partner may choose to respond either 1M or 2C
@@ -491,6 +492,13 @@ The Free Finesse
             1N: Shape
 
 ### Misc
+
+    1C-(P)-1D-(P );
+    P -(X)-P -(1H);
+    ??
+
+        X would be takeout
+        Other calls would be natural
 
     P -(P)-1C-(1D!);
     ??
