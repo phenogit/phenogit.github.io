@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-The Big Payoff
-2012/7/21
+Unexpected Shift
+2012/7/28
 
 ## Non-Competitive Bidding
 
