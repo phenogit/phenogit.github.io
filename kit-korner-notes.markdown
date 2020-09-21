@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-The Little Trumps
-2012/7/14
+The Big Payoff
+2012/7/21
 
 ## Non-Competitive Bidding
 
@@ -241,6 +241,11 @@ The Little Trumps
         1N: Semi-forcing, wit a non-minimum partner will bid even if he has to bid a 3-card minor
             2C
                 Modified Bart structure where there is the option to show a strong club raise
+                2D: Either a heart signoff or some kind of invitational hand
+                    2H
+                        2S: Game interest
+                2H: Modified Bart, 5 hearts, usually 2 spades, choice of partials
+                    3H: Invite, implies diamond shortness
         2C: Game forcing, partner bids his shape without regard to strength. Rebidding suit promises 6. If 5-4, partner bids his other suit even if he is minimum. Jumps in new suitsa re splinters
         2D: Natural game force
         2S: Simple raise, no game interest
