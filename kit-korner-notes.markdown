@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-The Big One
-2012/8/18
+Surprise Jump
+2012/9/2
 
 ## Non-Competitive Bidding
 
@@ -24,7 +24,9 @@ The Big One
 
     1C: 16+, artificial
         1) 3/4 seat, 18+ if balanced
-        1D: Artificial, 0-8
+        1D: Artificial, 
+            1) unpassed hand: 0-8 
+            2) passed hand: 0-7 
             1H: Forcing, 4+ hearts, but with only 4 hearts you would be expected to have longer minor
             1S: Forcing, 4+ spades
                 Various ways to raise when partner has 4+ spades and ways to show a long suit
@@ -366,6 +368,7 @@ The Big One
     General agreements are that 2N in competition is always takeout unless specifically defined otherwise.
     When in a game force, doubles by either partner are penalties.
     Your agreements regarding pass and redouble after an artificial call such as 2NT is doubled is that pass is an offer to play while redouble is never business -- partner may not pass.
+    After a penalty pass, all future doubles by your side are penalties
 
     E.g.
         1N!-(2C@)-P-(2D#);
