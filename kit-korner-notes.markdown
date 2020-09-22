@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-The Short Hand
-2012/8/11
+The Big One
+2012/8/18
 
 ## Non-Competitive Bidding
 
@@ -206,6 +206,8 @@ The Short Hand
             2S: Always 4s, no singleton or voids
             3H: 4 card support, shortness somewhere, non-minimum
             3S: 4 card support, shortness somewhere, minimum
+        1N
+            Partner will always pass unless he is unbalanced, in which case he will make some natural call
         2C: 100% game forcing. With a 4 card major and longer clubs partner may choose to respond either 1M or 2C
             2D: 5+d, expected to rebid 2D even if you have a major
             2H: 4h, deny 5+d, with both majors partner would expect you to bid 2H
