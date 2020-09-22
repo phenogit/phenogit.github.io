@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Surprise Jump
-2012/9/2
+Damage Control
+2012/9/8
 
 ## Non-Competitive Bidding
 
@@ -133,6 +133,7 @@ Surprise Jump
                             5D: Asking for control in diamonds
                             5H: General invite
                 3N: 12-13 and right shape
+            2N: Split range, 17-19 or 22+
             3C
                 3S: Assumed to be a real suit, since a 4-4 spade fit is still possible. But he might simply have spade concentration, no heart stopper, and only 5 diamonds so he can't rebid 3D
                     3N
@@ -142,6 +143,12 @@ Surprise Jump
                             4H: Cue bid
                             4S: Offer to play
                             4N: Diamond cue bid
+            3N: 20-21 balanced, notrumpish hand
+                4C    : 4 hearts
+                4D    : 4 spades
+                4H    : Rebiddable diamonds
+                4S    : Secondary club suit
+                Others: Natural, no particular agreements
         3S: Solid major, minimum AKQTxx. May have outside strength.
             3N: Offer to play
             4C: Slam try in partner's major
