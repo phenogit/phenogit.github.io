@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Crash Danger
-2012/8/4
+The Short Hand
+2012/8/11
 
 ## Non-Competitive Bidding
 
@@ -37,7 +37,7 @@ Crash Danger
             1N: 1) 1/2 seat vulnerable, 17-19, may have 5 card major
                 2) 1/2 seat non-vulnerable, 16 to bad 19
                 3) 3/4 seat, 18-19
-                High-powered Puppet Stayman
+                High-powered Puppet Stayman, unless passing 2D response, would promise game invitational values
                 2C: Asks for 5 card major
                     2D: No 5 card major
                         2H: 4 spades, fewer than 4 hearts, at least game invitational
@@ -52,6 +52,12 @@ Crash Danger
                                 3S: Diamond shortness
                                 3N: No shortness
                         2N: 4-4 majors invitational
+                2D
+                    2H
+                        2S: 5-4 either way or 5-5 majors, invitational
+                            2N: Reject
+                            3H: Reject
+                2H: Transfer to spades
                 2S: Initially assumed to be size ask
                     2N: Minimum
                         3D: 4 hearts, 5 card minor
