@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Damage Control
-2012/9/8
+They Always Cover
+2012/9/15
 
 ## Non-Competitive Bidding
 
@@ -212,6 +212,7 @@ Damage Control
                             4) Bid RKC for any suit
                 Other non-jumps are sign offs
                 Jumps below game are natural slam tries
+            2C: Always show both minors, at least 5-4 unless precisely 1=4=3=5 or 1=4=4=4
             2S: Always 4s, no singleton or voids
             3H: 4 card support, shortness somewhere, non-minimum
             3S: 4 card support, shortness somewhere, minimum
