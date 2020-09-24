@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-They Always Cover
-2012/9/15
+A Dirty Job
+2012/9/22
 
 ## Non-Competitive Bidding
 
@@ -19,6 +19,7 @@ They Always Cover
     We use the 4 level to see if we have the strength for slam.
     If we decide that we do, then we can use RKC if we think keycards are the issue, asking bids if we think controls are the issue, or simply invite if we think a bit more power might be needed.
     Our general style is to make the Q-bid which leaves partner last train wriggle room unless we have the sort of hand which doesn't want to hear that last train bid since we wouldn't know what to do over it. Or, as on this hand, North can afford to shut out the last train call since he is planning on making another move anyway. Thus, when an unlimited hand chooses to make the Q-bid which shuts out the last train call, the inference is that he probably isn't minimal for his Q-bid.
+    4 of a previously bid major is always an offer to play if that is at all possible.
 
 ### Bidding Tree
 
@@ -235,6 +236,14 @@ They Always Cover
             1N: 1) Non-vulnerable shows 13-15
                 2) Vulnerable shows 11-13
             2S: 3 card support possible
+            2H
+                3C: Might simply be concentration, looking for a spade preference or a notrump rebid if diamonds stopped
+                    4C
+                        4D: RKC for clubs
+                        4H: Offer to play
+                        4S: Offer to play
+                        4N: Slam try in clubs, doesn't say anything about controls
+            3C: At least 5-5 in hearts and clubs and a maximum non 1C opening
         1N: Semi-forcing, permitted to pass with min 5-3-3-2 hand
             2C: Bart modification follow up
                 2D: Invitational with doubleton heart
