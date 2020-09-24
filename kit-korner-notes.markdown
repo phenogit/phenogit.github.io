@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-A Reprieve
-2012/10/13
+Under Your Nose
+2012/10/20
 
 ## Non-Competitive Bidding
 
@@ -32,9 +32,27 @@ A Reprieve
             1S: Forcing, 4+ spades
                 Various ways to raise when partner has 4+ spades and ways to show a long suit
                 1N: 0-5
+                    2C: 5-4 either way
+                    2D: 5-4 either way
                 2C: 6-8, fewer than 3 spades
-                    2D: Artificial
+                    2D: Artificial, usually some major-minor 2 suiter and a minimal hand
                         2H: 5 hearts
+                        2S: doubleton spade
+                        2N: Neither of the above
+                            3C: Natural, non forcing
+                            3D: Natural, non forcing
+                            3H: Artificial, game forcing 5 spades + 5 clubs
+                            3S: Artificial, game forcing 5 spades + 5 diamonds
+                        3C: Neither of the above
+                        3D: Neither of the above
+                        Follow up bids of 3D or lower by opener are natrual and non forcing
+                        3H and 3S rebids show 5-5 game force with corresponding minor
+                    2N: Artificial game force
+                        3C: Forced
+                            3D: 5 spades and 4 diamonds
+                            3N: 5+ spades and 4 clubs
+                    3C: Game forcing, 4 spades and 5+ clubs
+                    3D: Game forcing, 4 spades and 5+ diamonds
                 2D: 6-8, 3 spades fewer than 5 hearts
                 2H: 6-8, 3 spades, 5 hearts
             1N: 1) 1/2 seat vulnerable, 17-19, may have 5 card major
