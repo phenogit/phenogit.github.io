@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-A Dirty Job
-2012/9/22
+An Oversight
+2012/9/30
 
 ## Non-Competitive Bidding
 
@@ -625,6 +625,18 @@ A Dirty Job
         3S: 4 card support, some shortness, any strength
         3N: Presumably a semi-solid diamond suit and side stoppers
 
+    1D-(1S)-X -(P);
+    2C-(P )-2S!
+
+        !: 2S cue bid is game forcing as you play
+
+    Cont'd
+    1D-(1S)-X -(P);
+    2C-(P )-2S-(X);
+    P -(P )-XX!
+
+        !: This sort of balancing XX is simply a repeat of the original cue bid
+
     (1D)-P-(1S)-??
 
         1N: Natural, strong notrump, even in the sandwich position
@@ -644,6 +656,8 @@ A Dirty Job
     (P )-??
 
         2S: Doesn't necessarily show extra strength, definitely shows a sixth spade
+
+    
 
     P -(1D)-2C-(X);
     ??
