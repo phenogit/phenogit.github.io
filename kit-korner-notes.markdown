@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-An Oversight
-2012/9/30
+Game Plan
+2012/10/6
 
 ## Non-Competitive Bidding
 
@@ -591,6 +591,11 @@ An Oversight
 
         5D: Will not put your side in a force. Simply assumed to show where your values are in case of further competition. It would not be taken as a slam try.
         5H: Will not put your side in a force
+
+    (1C)-1D-(1H)-??
+
+        X : 4 spades and some diamond tolerance
+        1S: 5+ spades
 
     Vs. Short Minor Openings(2 or fewer)
     (P)-P-(1C!)-??
