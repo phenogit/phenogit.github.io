@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Game Plan
-2012/10/6
+A Reprieve
+2012/10/13
 
 ## Non-Competitive Bidding
 
