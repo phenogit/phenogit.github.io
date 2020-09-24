@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Under Your Nose
-2012/10/20
+In One Basket
+2012/10/27
 
 ## Non-Competitive Bidding
 
@@ -31,10 +31,14 @@ Under Your Nose
             1H: Forcing, 4+ hearts, but with only 4 hearts you would be expected to have longer minor
             1S: Forcing, 4+ spades
                 Various ways to raise when partner has 4+ spades and ways to show a long suit
-                1N: 0-5
-                    2C: 5-4 either way
+                1N: 1) non-passed hand 0-5
+                    2) pass hand 0-4(5)
+                    2C: 5-4 and above either way
+                        If partner is 2=2 in the blacks he will never preference back to spades
+                        If partner is 3=3 in the blacks he will preference to spades only with a maximum in case this allows you to bid a game
                     2D: 5-4 either way
-                2C: 6-8, fewer than 3 spades
+                2C: 1) non-passed hand 6-8, fewer than 3 spades
+                    2) pass hand 6(5)-7, fewer than 3 spades
                     2D: Artificial, usually some major-minor 2 suiter and a minimal hand
                         2H: 5 hearts
                         2S: doubleton spade
@@ -47,14 +51,19 @@ Under Your Nose
                         3D: Neither of the above
                         Follow up bids of 3D or lower by opener are natrual and non forcing
                         3H and 3S rebids show 5-5 game force with corresponding minor
+                    2S: Minimal with a long suit
+                    Other calss are generally stronger and game forcing
                     2N: Artificial game force
                         3C: Forced
                             3D: 5 spades and 4 diamonds
                             3N: 5+ spades and 4 clubs
                     3C: Game forcing, 4 spades and 5+ clubs
                     3D: Game forcing, 4 spades and 5+ diamonds
-                2D: 6-8, 3 spades fewer than 5 hearts
-                2H: 6-8, 3 spades, 5 hearts
+                2D: 1) non-passed hand 6-8, 3 spades fewer than 5 hearts
+                    2) pass hand 6(5)-7, 3 spades fewer than 5 hearts
+                2H: 1) non-passed hand 6-8, 3 spades, 5 hearts
+                    2) pass hand 6(5)-7, 3 spades, 5 hearts
+                Higher bids show various hands with 4+ card support or a long suit in a coded structure
             1N: 1) 1/2 seat vulnerable, 17-19, may have 5 card major
                 2) 1/2 seat non-vulnerable, 16 to bad 19
                 3) 3/4 seat, 18-19
