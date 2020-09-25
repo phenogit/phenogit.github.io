@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-He Wouldn't Dare
-2012/11/2
+Safe Strip
+2012/11/10
 
 ## Non-Competitive Bidding
 
@@ -758,8 +758,14 @@ He Wouldn't Dare
     1N!-(2D@)-??
     !: 10-12
     @: Diamonds and a major
-    
+        
         4D: Transfer
+
+    1N!-(2D@)-2N#
+        !: 14-16
+        @: Diamonds and a major
+
+        #: 2N is Lebensohl, likely a long club suit and no game interest, 3C would be a natural game force
 
     (P )-1N!-(2H@)-2S;
     (3H)-3S -(4H )-??
