@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-In One Basket
-2012/10/27
+He Wouldn't Dare
+2012/11/2
 
 ## Non-Competitive Bidding
 
@@ -413,6 +413,7 @@ In One Basket
     When in a game force, doubles by either partner are penalties.
     Your agreements regarding pass and redouble after an artificial call such as 2NT is doubled is that pass is an offer to play while redouble is never business -- partner may not pass.
     After a penalty pass, all future doubles by your side are penalties
+    At lower levels there is some argument for double followed by bidding a suit, showing a stronger hand than an immediate overcall. At high levels, this does not make sense. The primary goal is to find your best strain, and you don't have much room to maneuver. Double must be reserved for hands which are looking for the right strain, while overcalls must be reserved for hands where the overcalled suit is likely to be the best strain. Strength should not be an issue.
 
     E.g.
         1N!-(2C@)-P-(2D#);
