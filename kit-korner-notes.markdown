@@ -5,7 +5,7 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Safe Strip
+Just A Suggestion
 2012/11/10
 
 ## Non-Competitive Bidding
@@ -670,6 +670,11 @@ Safe Strip
 
         !: This sort of balancing XX is simply a repeat of the original cue bid
 
+    (1D!)-X@
+        !: Precision, 2+ diamonds, 11-15 points
+        
+        @: Takeout double of Precision 1D would imply at least 4-4 in the majors
+
     (1D)-P-(1S)-??
 
         1N: Natural, strong notrump, even in the sandwich position
@@ -882,6 +887,8 @@ Safe Strip
         1H-(P)-2H-(2S)
             X of 2S by both opener and responder would be 2-card.
 
+    Negative Free Bids at the 2 Level
+
     Opps 2S Balancing Module
     E.g.
         (1N)-P-(2H)-??
@@ -898,7 +905,7 @@ Safe Strip
                     else if you have h+c, you bid 3C
 
     3-level Responsive Alternative
-    We use this treatment all the time at the 3-level, when partner has opened the bidding overcalled, or made a takeout double, and the next hand bids 3C, 3D, or 3H
+    We use this treatment all the time at the 3-level, when partner has opened the bidding, overcalled, or made a takeout double, and the next hand bids 3C, 3D, or 3H
     E.g.
     (2C!)-2S-(3C)-??
         !: Precision
