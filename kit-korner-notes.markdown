@@ -5,7 +5,7 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Inferential Shortness
+Threatening a Ruff
 2012/12/8
 
 ## Non-Competitive Bidding
@@ -391,7 +391,7 @@ Inferential Shortness
                 Others: Slam tries
         3D: Natural invite
         3H: Natural invite
-    2D: Weak 2 in one of the majors
+    2D: Weak 2 in one of the majors, NV vs. V -> partner will be expecting a 5-card suit more often than not should you open 2D
     2H: 4=4=0=5, 4=4=1=4, 4=3=1=5, 3=4=1=5, 11-15
         P : To play
         2S: To play
@@ -813,7 +813,7 @@ Inferential Shortness
         !: Either a takeout double of spades or some strong hand
         
         P : If 4th seat bids, partner shuts up. 
-           If 4th seat passes, partner passes (ending the auction) if he holds 3+ diamonds but he shows his suit with fewer than 3 diamonds. 
+           If 4th seat passes, partner passes (ending the auction) if he holds 3+ diamonds but he shows his suit with fewer than 3 diamonds (XX with spades). 
            On hands with 4+ diamonds and short in a major this will often avoid going for a number since 4th seat needs a diamond stack to pass.
         XX: Forces partner to bid 2H, after which you place the contract. This allows you to stop in 2H when you have a long heart suit.
         2H: Pass or correct
@@ -1018,7 +1018,7 @@ Inferential Shortness
 
 ##### Opening Leads
     Your agreements are that from AK you may lead either the ace or the king. 
-        You lead the ace when you want an attitude signal. 
+        You lead the ace when you want an attitude signal. (Standard, not upside down)
         You lead the king when you want a suit-preference signal.
     Standard honor leads for non-AK.
     Interior sequence
