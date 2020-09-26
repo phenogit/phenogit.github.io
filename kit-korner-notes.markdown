@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Just A Suggestion
-2012/11/10
+Forcing Game
+2012/11/24
 
 ## Non-Competitive Bidding
 
@@ -998,6 +998,7 @@ Just A Suggestion
     Standard current count for discard
     Lead of king in the middle of the hand asks for upside-down count
     Splitting honors show 0 or 2 higher
+    We play (as do most expert pairs) than spot card signals in trumps are suit-preference if they mean anything. We do not echo in order to show 3 trumps.
 
 ##### Opening Leads
     Your agreements are that from AK you may lead either the ace or the king. 
