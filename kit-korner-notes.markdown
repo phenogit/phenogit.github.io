@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Threatening a Ruff
-2012/12/8
+The Desired Intent
+2012/12/22
 
 ## Non-Competitive Bidding
 
@@ -201,6 +201,26 @@ Threatening a Ruff
         Never raise major without 4-card support.
         Always bypass a 4-card spade suit if balanced.
         1H
+            1S: Always unbalanced (with 5-4-2-2 would rebid 1N)
+                1N: Forcing, asks for clarifications
+                    2C: denies 6 diamonds and 3 hearts
+                    2D: 6 diamonds, denies 3 hearts
+                    2H: 3 hearts
+                    Responder follow ups higer than 2D are generally natural invites
+                2C: Pass or correct to 2D
+                2D: Artificial game force
+                    2H: 3 card heart support
+                        Natural bidding follow ups
+                    2S: 5-3 in the minors
+                        2N: Ask which is 5 card suit (with 5 spades and 6 diamonds, open 1S)
+                    2N: 4=1=4=4
+                    3C: 5-4 minors
+                        3H: ask which is 5 card suit
+                    3D: 6 card diamond suit
+                2H: Non invitational
+                2S: Non invitational
+                2N: Natural invite
+                3 level call is natural, slammish
             1N: 13-15 balanced
             2H: Always 4h, no singleton or voids, 11-13
                 2S: Unspecified short suit game or slam try
