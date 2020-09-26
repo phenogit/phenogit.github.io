@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Forcing Game
-2012/11/24
+Inferential Shortness
+2012/12/8
 
 ## Non-Competitive Bidding
 
@@ -317,6 +317,8 @@ Forcing Game
         2) Vulnerable 1/2 seat 14-16
         3) 3/4 seat 15-17
         2C: 1) vs 10-12, Non-game forcing Staymen
+            Followed by 2N to invite in notrump
+            Followed by 3C is a sign off but will always have at least one major
             2) vs 14-16, Puppet Stayman, permitted to bid 2C simply to look for a 5 card major if he has a game-forcing hand even if he has no 4 card major
             2H: 5 hearts
                 2S: Ask for doubleton
@@ -324,6 +326,11 @@ Forcing Game
             2H
                 xx
                     3H: 5 card suit
+        2H: 1) vs 10-12, to play
+        2S: 1) vs 10-12, to play
+        2N: 1) vs 101-2, an invitational hand in some suit
+        3C: 1) vs 10-12, to play
+        3D: 1) vs 10-12, to play
 
     2C: 10-15 points, 6+c, may have 4 or even 5-card major
         2D: Artificial query
@@ -744,6 +751,15 @@ Forcing Game
     (P )-1S -(2S!)-3H;
     (5H)-5S!
         !: Weaker than pass (forcing) followed by a pull
+
+    1N!-(P)-P -(2S@);
+    P  -(P)-??
+        !: 10-12
+        @: Spades and a minor
+
+        X : Penalties
+        2N: Takeout, presumably minors
+        3C: To play
 
     1N!-(2C@)-??
         !: 10-12
