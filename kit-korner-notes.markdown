@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-One-suit Squeeze
-2013/1/12
+Big Crash
+2013/1/19
 
 ## Non-Competitive Bidding
 
