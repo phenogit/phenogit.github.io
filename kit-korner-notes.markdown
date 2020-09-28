@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Proper Emphasis
-2013/1/4
+One-suit Squeeze
+2013/1/12
 
 ## Non-Competitive Bidding
 
@@ -450,6 +450,7 @@ Proper Emphasis
     Your agreements regarding pass and redouble after an artificial call such as 2NT is doubled is that pass is an offer to play while redouble is never business -- partner may not pass.
     After a penalty pass, all future doubles by your side are penalties
     At lower levels there is some argument for double followed by bidding a suit, showing a stronger hand than an immediate overcall. At high levels, this does not make sense. The primary goal is to find your best strain, and you don't have much room to maneuver. Double must be reserved for hands which are looking for the right strain, while overcalls must be reserved for hands where the overcalled suit is likely to be the best strain. Strength should not be an issue.
+    The concept of the slower auction emphasizing the higher suit in scrambling auctions is a common concept which comes up quite often.
 
     E.g.
         1N!-(2C@)-P-(2D#);
@@ -787,6 +788,20 @@ Proper Emphasis
     (P )-1S -(2S!)-3H;
     (5H)-5S!
         !: Weaker than pass (forcing) followed by a pull
+
+    (1S)-P-(4S!)-??
+        !: Not necessarily weak, since the 1S opening is limited
+
+        X : Primarily penalties. Partner is expected to pass unless he has unexpected distribution
+        4N: Either 3 suited or 2 suits one of which is hearts
+
+    Cont'd
+    (1S)-P-(4S)-4N;
+    (X )-P-(P )-??
+
+        XX: Partner will initially think that you have a 3 suiter. When he bids the expected 5C, pull to 5D shows emphasis on hearts
+        5D: Diamond emphasis
+        If East doubles partner's 5C call, 5D would show your suits are about equal, XX would show definite heart emphasis.
 
     1N!-(P)-P -(2S@);
     P  -(P)-??
