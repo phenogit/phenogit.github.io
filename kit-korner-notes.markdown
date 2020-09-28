@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Unexpected Contract
-2012/12/29
+Proper Emphasis
+2013/1/4
 
 ## Non-Competitive Bidding
 
@@ -750,6 +750,13 @@ Unexpected Contract
 
         X : Takeout, in your style you would always start with a takeout double rather than a 2D overcall if you had 4 spades, so partner will not be playing you for a 4 card spade holding
         4N: Takeout for the minors
+
+    P-(P)-1S-(X);
+    ??
+
+        XX: Standard, out to get them. In principle it creates a force. Follow-up doubles by either partner are penalties
+        Pass followed by double is cooperative. It typically shows a 3 card holding in the doubled suit, perhaps 5-3-3-2 shape with a doubleton in partner's major.
+        Partner will tend to sit the double only if he has 3 trumps.
 
     1S-(2D)-??
         
