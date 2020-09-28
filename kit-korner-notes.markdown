@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-The Desired Intent
-2012/12/22
+Unexpected Contract
+2012/12/29
 
 ## Non-Competitive Bidding
 
@@ -312,6 +312,11 @@ The Desired Intent
                         4S: Cue bid slam try in clubs
         2D
             3D: Shows no extra, either in shape or strength
+        2H: Not constructive
+            2S: Some short suit game or slam try
+                2N      : Ask
+                    Short suit shown in coded manner
+                3C/3D/3H: Long/help suit game tries in coded manner
 
     1S: 5+ card suit, 11-15
         1N: Semi-forcing, wit a non-minimum partner will bid even if he has to bid a 3-card minor
@@ -325,6 +330,10 @@ The Desired Intent
         2C: Game forcing, partner bids his shape without regard to strength. Rebidding suit promises 6. If 5-4, partner bids his other suit even if he is minimum. Jumps in new suitsa re splinters
         2D: Natural game force
         2S: Simple raise, no game interest
+            2N: Some short suit game or slam try
+                3C      : Ask
+                    Short suit shown in coded manner
+                3D/3H/3S: Long/help suit game tries in coded manner
         2N: Raise, could be limit raise, does not guarantee 4 trumps
             3C : Any minimum
                 3D: Ask to find out more
@@ -869,6 +878,15 @@ The Desired Intent
         5N: Pick a slam
         6C: Natural offer to play
         6D: Natural offer to play
+
+    2M Game Try
+    We play a version of 2-way game tries. 2T+1 = some short suit game or slam try -- next step asks, short suit shown in coded manner. 2T+2 through 2T+4 = long/help suit game tries in coded manner.
+
+    We play this identical structure any time an 8-card major-suit fit is known and we are at or below 2M.
+
+    If opponents make takeout double, play same. We seldom change our methods when the make takeout double.
+
+    If they overcall, system is off. New suits are naturalish help suit game tries, within the context of how much room we have. If they overcall at 3-level, double is penalty. We do not play any kind of maximal doubles. If there is no room we make my favorite kind of game try -- bid game and try to make it.
 
     Transfer Advances
 
