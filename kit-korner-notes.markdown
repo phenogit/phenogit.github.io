@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Create a Force
-2013/2/16
+The Needed Card
+2013/2/23
 
 ## Non-Competitive Bidding
 
@@ -739,6 +739,16 @@ Create a Force
     P -(1D)-2C-(X);
     ??
         XX: Lead-directional showing a club honor
+
+    1H-(1S)-??
+
+        2H: Normal raise, showing no game interest
+        2S: Limit+ raise. This creates a force if opponents bid to 4S before you have had a chance to clarify the raise as not game-forcing
+        3H: Preemptive
+        3N: Good 4H bid. It creates a force if the opponents bid 4S
+        4H: Any hand from a preempt to a balanced hand with opening bid strength.
+            Partner will almost always pass, and he will never compete to 5H on his own.
+            If LHO bids 4S, double by partner would not be penalty. It would show the desire to bid 5H, but giving you one last chance to defend.
 
     1H-(1N)-??
 
