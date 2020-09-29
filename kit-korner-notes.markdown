@@ -5,7 +5,7 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-The Downgrade
+Informing Partner
 2013/3/2
 
 ## Non-Competitive Bidding
