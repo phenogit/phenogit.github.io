@@ -589,13 +589,6 @@ Big Crash
         c. (1S)-(P)-(2S)-P;
            (P)- (P)-(XX)-Pass is penalties.
 
-    CRASH over strong club. 
-    The crash bids are X, 1D, and 1N. 1NT would show pointed or rounded suits. Other calls are natural.
-        (1C)-??
-            X : Color
-            1D: Rank
-            1N: Shape
-
 ### Misc
 
     1C-(P)-1D-(P );
@@ -1008,6 +1001,14 @@ Big Crash
             4C: Slam try in unspecific major
                 4D: Ask for which major
 
+    CRASH over strong club. 
+    The crash bids are X, 1D, and 1N. 1NT would show pointed or rounded suits. Other calls are natural.
+        (1C)-??
+            X          : Color
+            1D         : Rank
+            1N         : Shape
+            Other Calls: Natural
+
     Defense Against Multi
         (2D)-??
             X             : 13-15 balanced or some very strong hand
@@ -1041,8 +1042,8 @@ Big Crash
 
 ### Meta Rules
     AK leads at the 5-level and higher:
-        A: Asks for attitude
-        K: Asks for count
+        A: Asks for attitude (standard)
+        K: Asks for count (standard)
 
 #### NT
 ##### General
