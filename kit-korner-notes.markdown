@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-The Needed Card
-2013/2/23
+The Downgrade
+2013/3/2
 
 ## Non-Competitive Bidding
 
