@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Tricky Signoff
-2013/2/9
+Create a Force
+2013/2/16
 
 ## Non-Competitive Bidding
 
@@ -200,6 +200,7 @@ Tricky Signoff
         Followed by a jump to 3C, that would show a maximum with at least 5-5 in the minors.
         Never raise major without 4-card support.
         Always bypass a 4-card spade suit if balanced.
+        Opener will never rebid 1N with a singleton
         1H
             1S: Always unbalanced (with 5-4-2-2 would rebid 1N)
                 1N: Forcing, asks for clarifications
@@ -222,6 +223,7 @@ Tricky Signoff
                 2N: Natural invite
                 3 level call is natural, slammish
             1N: 13-15 balanced
+            2C: 4+ clubs
             2H: Always 4h, no singleton or voids, 11-13
                 2S: Unspecified short suit game or slam try
                     3C: Ask, coded response
@@ -261,6 +263,8 @@ Tricky Signoff
                 Other non-jumps are sign offs
                 Jumps below game are natural slam tries
             2C: Always show both minors, at least 5-4 unless precisely 1=4=3=5 or 1=4=4=4
+            2D: 1=4=5=3 or 6+ diamonds
+            2H: 3=4=5=1
             2S: Always 4s, no singleton or voids
             3H: 4 card support, shortness somewhere, non-minimum
             3S: 4 card support, shortness somewhere, minimum
