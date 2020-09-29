@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Big Crash
-2013/1/19
+To the Test
+2013/2/2
 
 ## Non-Competitive Bidding
 
@@ -451,6 +451,11 @@ Big Crash
     After a penalty pass, all future doubles by your side are penalties
     At lower levels there is some argument for double followed by bidding a suit, showing a stronger hand than an immediate overcall. At high levels, this does not make sense. The primary goal is to find your best strain, and you don't have much room to maneuver. Double must be reserved for hands which are looking for the right strain, while overcalls must be reserved for hands where the overcalled suit is likely to be the best strain. Strength should not be an issue.
     The concept of the slower auction emphasizing the higher suit in scrambling auctions is a common concept which comes up quite often.
+    Takeout double style is strongly oriented towards equal-level conversion.
+    If you X and partner bids 1D or 2D, a 2H call by you would show no extra strength and would be non-forcing.
+    Consequently, partner will assume you don't have 4 spades if you overcall 1H.
+    For us, double followed by a new suit doesn't necessarily show a powerhouse even if we are raising the level, since with just a 1-suiter we will overcall unless we have the rare hand which is too strong to risk an overcall. 
+    Michaels is strictly 5-5 or better.
 
     E.g.
         1N!-(2C@)-P-(2D#);
