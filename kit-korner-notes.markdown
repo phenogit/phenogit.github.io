@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-To the Test
-2013/2/2
+Tricky Signoff
+2013/2/9
 
 ## Non-Competitive Bidding
 
