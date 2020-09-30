@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Informing Partner
-2013/3/2
+Nine Before Five
+2013/3/22
 
 ## Non-Competitive Bidding
 
@@ -696,6 +696,19 @@ Informing Partner
         3C: Both minors, club emphasis
         3S: 4 card support, some shortness, any strength
         3N: Presumably a semi-solid diamond suit and side stoppers
+
+    (P)-1D-(1H)-??
+        
+        X : 4+ spades
+        1S: Fewer than 4 spades, like a negative for the minors
+
+    Cont'd
+
+    (P )-1D-(1H)-1S;
+    (2H)-P -(2S)-??
+
+        2N: Minors, diamond emphasis
+        3C: Minors, club emphasis
 
     1D-(1S)-X -(P);
     2C-(P )-2S!
