@@ -5,7 +5,7 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Nine Before Five
+Pros and Cons
 2013/3/22
 
 ## Non-Competitive Bidding
@@ -350,15 +350,25 @@ Nine Before Five
         2) Vulnerable 1/2 seat 14-16
         3) 3/4 seat 15-17
         2C: 1) vs 10-12, Non-game forcing Staymen
-            Followed by 2N to invite in notrump
-            Followed by 3C is a sign off but will always have at least one major
+            Followed by 2N to invite in notrump, does not necessarily show the other major
+            Followed by new suit is a sign off but will always have at least one major
+            Ｗith non-minimum, responder bids better major
+            2N: Both majors and a minimum
             2) vs 14-16, Puppet Stayman, permitted to bid 2C simply to look for a 5 card major if he has a game-forcing hand even if he has no 4 card major
             2H: 5 hearts
                 2S: Ask for doubleton
         2D: 1) vs 10-12, Game-forcing Stayman
+            With both majors partner will bid his better major first
             2H
-                xx
+                2N         : Deny 4 card major or a 5 card minor, ask for shape
                     3H: 5 card suit
+                    3S: 4-4 majors, heart emphases
+                        4D: Relay to 4H, next call places contract
+                Other calls: Natural force
+            2S
+                2N: Deny 4 card major or a 5 card minor, ask for shape
+            2N
+                3C: Deny 4 card major or a 5 card minor, ask for shape
         2H: 1) vs 10-12, to play
         2S: 1) vs 10-12, to play
         2N: 1) vs 101-2, an invitational hand in some suit
