@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Pros and Cons
-2013/3/22
+Fight the Law
+2013/4/6
 
 ## Non-Competitive Bidding
 
