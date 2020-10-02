@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Fight the Law
-2013/4/6
+Cutting Communications
+2013/4/13
 
 ## Non-Competitive Bidding
 
