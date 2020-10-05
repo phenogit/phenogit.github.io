@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Use the Tools
-2013/5/4
+The Full Value
+2013/5/11
 
 ## Non-Competitive Bidding
 
@@ -116,7 +116,34 @@ Use the Tools
         1H: 5+ hearts
             1) Non-passed hand 9+
             2) Passed hand 8+
-        1S: 5+ spades, 9+
+        1S: 5+ spades
+            1) Non-passed hand 9+
+            2) Passed hand 8+
+            1N: Ask for number of controls, not necessarily a balanced hand
+                2D: 3 controls
+                    2H: Asks about partner's spade length and honor holding
+                        May at any time place the contract in 3N, 4S, 5S or any slam
+                        3H: 5 card spade suit, 2 of the top 3 honors
+                            3S: Asks about clubs
+                            4C: Asks about diamonds
+                            4D: Asks about hearts
+                            Response to asks are as follows:
+                                Step 1: Nothing
+                                Step 2: Third round control(queen or doubleton)
+                                Step 3: Second round control(king or singleton)
+                                Step 4: Second and third round control(KQ or king doubleton)
+                                Step 5: First round control(ace or void)
+                                Step 6: First and third round control(AQ or ace doubleton)
+                                Step 7: First and second round control(AK)
+                                Step 8: Full control(AKQ or AK doubleton or ace singleton)
+                                After the initial response, the next step(other than a signoff in 4S or 5S) is a re-ask which asks which kind of control(by length or strength) if not known from the response
+                                    Step 1: By length
+                                    Step 2: By strength
+                                Higher bids ask about another suit
+                    2S: Ask about partner's holding in clubs
+                    2N: Breaks out of the asking sequence and goes into natural bidding
+                    3C: Ask about partner's holding in diamonds
+                    3D: Ask about partner's holding in hearts
             2H: Natural force
             3H: Solid or semi-solid suit and sets trumps
                 Style is responder strives to bid out his shape.
