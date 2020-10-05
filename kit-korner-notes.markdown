@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-The Full Value
-2013/5/11
+Reflex Cover
+2013/5/18
 
 ## Non-Competitive Bidding
 
