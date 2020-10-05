@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Concealed Spot
-2013/6/1
+All Your Options
+2013/6/15
 
 ## Non-Competitive Bidding
 
