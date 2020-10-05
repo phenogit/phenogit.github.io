@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Cutting Communications
-2013/4/13
+Who Needs the Ruffs
+2013/4/27
 
 ## Non-Competitive Bidding
 
@@ -757,11 +757,21 @@ Cutting Communications
 
         2S: Doesn't necessarily show extra strength, definitely shows a sixth spade
 
-    
-
     P -(1D)-2C-(X);
     ??
+        
         XX: Lead-directional showing a club honor
+
+    1H-(X)-??
+
+        P : Follow up X is not takeout. It shows a good hand with probably 3 spades(if opps land in 1S or 2S)
+            Followed by 2N is takeout
+            Followed by suit bid shows two places to play
+        XX: Standard, good hand with the ability to penalize at least 2 of the other suits, followed by X(if opps land in 1S or 2S) shows 4 spades
+        1N: Transfer, shows clubs, weak to invitational, X of 2S afterwards would show doubleton spade and interest in competing, 2N by partner would be takeout
+        2C: Transfer, shows diamonds
+        2D: Transfer, good raise, X of 2S afterwards would show doubleton spade and interest in competing, 2N by partner would be takeout
+        2H: Weak raise, X of 2S afterwards would show doubleton spade and interest in competing, 2N by partner would be takeout
 
     1H-(1S)-??
 
@@ -1123,6 +1133,7 @@ Cutting Communications
     Your agreements are that from AK you may lead either the ace or the king. 
         You lead the ace when you want an attitude signal. (Standard, not upside down)
         You lead the king when you want a suit-preference signal.
+        However, with an AKQ holding if the opening leader wants a suit-preference signal he will lead the queen, which will be more informative.
     Standard honor leads for non-AK.
     Interior sequence
         2nd from interior sequence with 3, 4, or 6-card suit.
