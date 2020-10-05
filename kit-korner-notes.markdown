@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Awkward Auction
-2013/5/25
+Concealed Spot
+2013/6/1
 
 ## Non-Competitive Bidding
 
@@ -837,8 +837,8 @@ Awkward Auction
         X : Followed by a spade raise would be assumed to show doubleton honor, though a soft 3-card limit raise with interest in other strains is possible
         3D: Limit raise or better
 
-         P -(P  )-1S;
-    (2H)-2S-(2N!)-??
+    P -(P  )-1S-(2H);
+    2S-(2N!)-??
         !: Relay to 3C, likely a weak heart raise
 
         X : Maximum with defensive orientation
@@ -918,6 +918,29 @@ Awkward Auction
         @: 5 card heart suit and a minor
 
         2S is to play
+
+    P -(P)-1N-(2D!);
+    ??
+        !: Single suited major
+
+        X : Stayman type of bid, at least invitational, often interested in penalizing the opponents
+        2H: To play
+        2S: To play
+        2N: Lebensohl, forces 3C, likely a weak hand in a minor
+        3C: Natural, forcing
+        3D: Natural, forcing
+
+        This is abandoned, and now play full system on.
+        X: Transfer to hearts
+        Other bids system on
+
+    Cont'd
+
+    P -(P  )-1N-(2D);
+    X -(2H!)-X@
+        !: Pass or correct
+
+        @: X is penalties
 
     (1N!)-P-(2C)-??
         !: 12-14
