@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Kill the Winner
-2013/7/13
+Grunt Defense
+2013/7/20
 
 ## Non-Competitive Bidding
 
