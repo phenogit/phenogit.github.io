@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Grunt Defense
-2013/7/20
+Lose a Winner
+2013/7/27
 
 ## Non-Competitive Bidding
 
@@ -744,6 +744,9 @@ Grunt Defense
         !: Could be short
 
         X                   : Takeout, shows at least 4-4 in the majors
+        1D                  : Natural overcall
+        1H                  : Natural overcall
+        1S                  : Natural overcall
         1N                  : 4 card major and a longer minor
         2C                  : Natural
         Pass then bid a suit: The bid suit and a higher suit
