@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-All Your Options
-2013/6/15
+The Miracle
+2013/6/21
 
 ## Non-Competitive Bidding
 
@@ -399,7 +399,30 @@ All Your Options
                 3C: Deny 4 card major or a 5 card minor, ask for shape
         2H: 1) vs 10-12, to play
         2S: 1) vs 10-12, to play
+            2) vs 14-16, Size ask
+                2N: Minimum
+                    3N: To play
+                    4C: 5 clubs, 5-3-3-2, slam interest
+                3C: Non-minimum
+                    4C: 5 clubs, 5-3-3-2, slam interest
+                        4D: RKC for clubs
+                        4H: Cue bid for clubs
+                        4S: Cue bid, likes his hand for clubs
+                            4N: Last train
+                            5C: Signoff
+                            5D: Cue bid, grand slam interest
+                            5H: Cue bid, grand slam interest
+                            5S: Cue bid, grand slam interest
+                            5N: Pick a slam
+                            6C: Signoff
+                        4N: Signoff
+                        5C: Signoff
         2N: 1) vs 101-2, an invitational hand in some suit
+            2) vs 14-16, transfer to clubs, which must be accepted
+                3C: Forced
+                    Below 4C: Some shortness
+                    4C      : Balanced slam try
+                    Above 4C: RKC or exclusion
         3C: 1) vs 10-12, to play
         3D: 1) vs 10-12, to play
 
