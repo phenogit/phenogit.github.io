@@ -5,7 +5,7 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Imaginative Action
+Find a Way
 2013/6/29
 
 ## Non-Competitive Bidding
@@ -545,7 +545,10 @@ Imaginative Action
     1D-(X)-1H-(P);
    -??
         1S: Show 3-card spade support. 
-        Other bids are exactly as if partner had bid a natural 1♠.
+        Other bids are exactly as if partner had bid a natural 1S.
+
+    Transfer to 3N Over 1 Major Overcall of 1D Opener
+    The transfer call is always 3C.
 
     Forcing pass doesn't show extra strength.
     All it shows is more of an offensive orentation.
@@ -773,6 +776,18 @@ Imaginative Action
 
         2N: Minors, diamond emphasis
         3C: Minors, club emphasis
+
+    (P)-1D-(1S)-??
+
+        X : Assumed normal negative double. When followed with 3H, this turns the sequence into a game forcing heart call
+        2C: Forcing, although could be quite light. Does not create a force, does not promise a rebid. Followed by 3C is a signoff
+        2H: Negative free bid. Non-forcing. Partner will usually pass without a heart fit
+        2S: Balanced game force without a spade stopper
+        3C: Transfer to 3N. Partner will bid 3N unless he has a singleton or void in spades. With spade shortness, partner makes his most natural call, with 3S showing clubs
+            3S: Clubs
+        3H: Good 6+ heart suit, game forcing
+        3N: Almost always the end of the auction
+        4H: Almost always the end of the auction
 
     1D-(1S)-X -(P);
     2C-(P )-2S!
