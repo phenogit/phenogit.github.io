@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-The Miracle
-2013/6/21
+Imaginative Action
+2013/6/29
 
 ## Non-Competitive Bidding
 
@@ -361,6 +361,9 @@ The Miracle
             2N: Maximum non-1C opener with 6 spades
         2C: Game forcing, partner bids his shape without regard to strength. Rebidding suit promises 6. If 5-4, partner bids his other suit even if he is minimum. Jumps in new suitsa re splinters
         2D: Natural game force
+            2S: Shows 6+ spades
+            2N: Balanced hand
+            3C: Does not show any extra strength or shape - may be a 5-4 minimum
         2S: Simple raise, no game interest
             2N: Some short suit game or slam try
                 3C      : Ask
