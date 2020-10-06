@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Find a Way
-2013/6/29
+Kill the Winner
+2013/7/13
 
 ## Non-Competitive Bidding
 
@@ -493,6 +493,14 @@ Find a Way
         P : To play
         2S: To play
         2N: Ask about shape and strength
+            3C: Any minimum
+                3D: Ask
+                    3N: 4=4=1=4
+                        4C           : Relay to 4D. Follow up call is a natural slam try
+                        4D           : Relay to 4H. Follow up call is placing the contract
+                        4H and higher: RKC, with the RKC suit determined by special coding, focus on known length of partner's suit, with ties going to the lower ranking suit
+                Any other call is to play
+            Other bids show exact shape and a non-minimum
             4C: Non-minimum, 4=4=0=5
                 4D : Forces partner to bid 4H, then place contract
                 4H : Slam try in hearts
