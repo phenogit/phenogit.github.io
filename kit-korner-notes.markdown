@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Priority Signal
-2013/8/31
+Finesse Plus
+2013/9/7
 
 ## Non-Competitive Bidding
 
