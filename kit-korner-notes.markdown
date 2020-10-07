@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Lose a Winner
-2013/7/27
+Unusual Combination
+2013/8/4
 
 ## Non-Competitive Bidding
 
