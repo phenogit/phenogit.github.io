@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Unusual Combination
-2013/8/4
+Suicide Squeeze
+2013/8/24
 
 ## Non-Competitive Bidding
 
@@ -163,10 +163,11 @@ Unusual Combination
                         4C: Cue bid for hearts
                     4C: Natural, shows a club suit
                 3S: 6 spades
+        1N: By passed hand shows 8-10 balanced
         2C: Natural positive, 5+c, 9+
             2S
                 4C: Solid suit, minimum of AKQ10xx, usually better. A suit that expects to run with no losers.
-        2D: 5+d, 9+, Natural bidding follows
+        2D: 5+d, 9+ non passed, 8+ passed hand. Natural bidding follows
             2H
                 2N: 9-11 or 14+, likely 3=2=3=5 since responder tends to bid out his shape
                     3H
@@ -388,6 +389,7 @@ Unusual Combination
             2) vs 14-16, Puppet Stayman, permitted to bid 2C simply to look for a 5 card major if he has a game-forcing hand even if he has no 4 card major
             2H: 5 hearts
                 2S: Ask for doubleton
+            3) vs 15-17, Puppet Stayman
         2D: 1) vs 10-12, Game-forcing Stayman
             With both majors partner will bid his better major first
             2H
@@ -682,6 +684,19 @@ Unusual Combination
         X would be takeout
         Other calls would be natural
 
+    1C-(P)-1D-(1N!);
+    ??
+        !: Minors
+
+        P : Nothing particular to say
+        X : Interest in penalizing them, ability to double at least one of their suits
+        2C: Good hand in hearts
+        2D: Good hand in spades
+        2H: Minimal hand in hearts
+        2S: Minimal hand in spades
+        3H: Natural game force
+        3S: Natural game force
+
     P -(P)-1C-(1D!);
     ??
         !: Majors or minors
@@ -720,6 +735,19 @@ Unusual Combination
         P : Not forcing. Double by partner would also be takeout
         X : Takeout
         3S: Natural and forcing
+
+    P-(P)-1C-(1S);
+    P!
+
+        !: Pass is 0-4 points
+
+    Cont'd
+
+    P-(P)-1C-(1S);
+    P-(P)-1N-(P );
+    2H!
+
+        !: 2H is invitational in hearts (transfer to the opponent's major shows an invite in the other major) 
 
     P-(1C)-??
     
