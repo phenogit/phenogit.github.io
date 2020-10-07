@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Suicide Squeeze
-2013/8/24
+Priority Signal
+2013/8/31
 
 ## Non-Competitive Bidding
 
