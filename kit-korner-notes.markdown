@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Finesse Plus
-2013/9/7
+Discarding Order
+2013/9/14
 
 ## Non-Competitive Bidding
 
@@ -250,7 +250,22 @@ Finesse Plus
                 2S: Non invitational
                 2N: Natural invite
                 3 level call is natural, slammish
-            1N: 13-15 balanced
+            1N: 1) Nonvul, 13-15 balanced
+                2) Vul, 11-13 balanced
+                Always bypass 4 spades if balanced
+                Never raise on 3
+                2D: Game forcing
+                    2N: Exactly 3=2=4=4
+                        Natural bidding follows
+                        3H
+                            3N
+                                4C: Cue bid slam try in hearts
+                                    4D: Last train
+                                4D: Cue bid slam try in hearts
+                                4S: RKC for heart
+                                    5C: 1 or 4
+                                        5D: Ask for queen of trumps
+                3H: One suited slam try
             2C: 4+ clubs
             2H: Always 4h, no singleton or voids, 11-13
                 2S: Unspecified short suit game or slam try
