@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-A Mixup
-2013/10/4
+Fit-Showing Bid
+2013/10/12
 
 ## Non-Competitive Bidding
 
@@ -999,6 +999,17 @@ A Mixup
         X : Penalties
         2N: Takeout, presumably minors
         3C: To play
+
+    1N!-(X@)-??
+        !: 10-12
+        @: Penalties
+
+        P : Could be a good balanced hand. It could also be a weak hand with no decent runout.
+            If fourth seat passes, opener is on his own.
+        XX: 1 suit runout other than spades
+        2C: clubs and above
+        2D: diamonds and above
+        2H: hearts and above
 
     1N!-(2C@)-??
         !: 10-12
