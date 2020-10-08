@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-The Safe Slam
-2013/9/22
+Honor the Force
+2013/9/28
 
 ## Non-Competitive Bidding
 
@@ -376,6 +376,17 @@ The Safe Slam
                     3H: Invite, implies diamond shortness
             2N: Maximum non-1C opener with 6 spades
         2C: Game forcing, partner bids his shape without regard to strength. Rebidding suit promises 6. If 5-4, partner bids his other suit even if he is minimum. Jumps in new suitsa re splinters
+            2S: Promises at least 6 spades
+                3S
+                    3N: Suggestion of contract
+                    4D: Usually shows control, but possibly forced due to having more than a dead minimum
+                        4H   : Last train
+                        4S   : End of auction
+                        4N   : RKC
+                            5H: 2 keycards, no queen of trump
+                                5N: Ask for specific kings, does not promise all keycards
+                                    If partner thinks there is grand, he bids 6N
+                        Higer: Asking for control
         2D: Natural game force
             2S: Shows 6+ spades
             2N: Balanced hand
