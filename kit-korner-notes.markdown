@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Honor the Force
-2013/9/28
+A Mixup
+2013/10/4
 
 ## Non-Competitive Bidding
 
@@ -845,14 +845,23 @@ Honor the Force
     (P)-1D-(1S)-??
 
         X : Assumed normal negative double. When followed with 3H, this turns the sequence into a game forcing heart call
+        1N: Natural, no game interest opposite balanced hand
         2C: Forcing, although could be quite light. Does not create a force, does not promise a rebid. Followed by 3C is a signoff
         2H: Negative free bid. Non-forcing. Partner will usually pass without a heart fit
         2S: Balanced game force without a spade stopper
+        2N: Natural invite
         3C: Transfer to 3N. Partner will bid 3N unless he has a singleton or void in spades. With spade shortness, partner makes his most natural call, with 3S showing clubs
             3S: Clubs
         3H: Good 6+ heart suit, game forcing
         3N: Almost always the end of the auction
         4H: Almost always the end of the auction
+
+    Cont'd
+    (P )-1D-(1S)-2S;
+    (3H)-P -(P )-??
+
+        X: Penalties
+
 
     1D-(1S)-X -(P);
     2C-(P )-2S!
