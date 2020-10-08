@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Discarding Order
-2013/9/14
+The Safe Slam
+2013/9/22
 
 ## Non-Competitive Bidding
 
@@ -1258,6 +1258,7 @@ Discarding Order
         K is power lead 
     Partner's suit
         Standard leads
+        Standard attitude signals at trick 1 when partner leads your bid suit
     Attitude leads for non-honor cards
 
 #### Suit
