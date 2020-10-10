@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Fit-Showing Bid
-2013/10/12
+Avoid the Guess
+2013/10/19
 
 ## Non-Competitive Bidding
 
@@ -977,6 +977,13 @@ Fit-Showing Bid
     (5H)-5S!
         !: Weaker than pass (forcing) followed by a pull
 
+    (1S)-2H-(3D)-4C!
+
+        !: 4C is fit showing, clubs with heart support
+           Normally, non-preemptive bid which commits your side to game creates a force.
+           But 3D commited opps to game as well, so, this does not create a force.
+           If instead of 3D, opps bid 3S, then 4C creates a force
+
     (1S)-P-(4S!)-??
         !: Not necessarily weak, since the 1S opening is limited
 
@@ -1266,6 +1273,13 @@ Fit-Showing Bid
     3N -(P )-4D-(X);
     4N!-(5D)-??
         !: 2 keycards, no queen of trumps, diamond control
+
+    Fit Showing Bids
+    If 2 of the 3 following conditions are met
+        Partner has shown or implied a 6 card suit (by a 2 level opening or overcall)
+        Bidder is a passed hand
+        Bid is 4 of a minor
+    Else it is natural
 
 ## Carding
 
