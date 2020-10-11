@@ -5,7 +5,7 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Avoid the Guess
+Three Trump Losers
 2013/10/19
 
 ## Non-Competitive Bidding
@@ -375,7 +375,7 @@ Avoid the Guess
                 2H: Modified Bart, 5 hearts, usually 2 spades, choice of partials
                     3H: Invite, implies diamond shortness
             2N: Maximum non-1C opener with 6 spades
-        2C: Game forcing, partner bids his shape without regard to strength. Rebidding suit promises 6. If 5-4, partner bids his other suit even if he is minimum. Jumps in new suitsa re splinters
+        2C: Game forcing, expected to be 4+, partner bids his shape without regard to strength. Rebidding suit promises 6. If 5-4, partner bids his other suit even if he is minimum. Jumps in new suitsa re splinters
             2S: Promises at least 6 spades
                 3S
                     3N: Suggestion of contract
@@ -387,10 +387,11 @@ Avoid the Guess
                                 5N: Ask for specific kings, does not promise all keycards
                                     If partner thinks there is grand, he bids 6N
                         Higer: Asking for control
-        2D: Natural game force
+        2D: Natural game force, expected to be 4+
             2S: Shows 6+ spades
             2N: Balanced hand
             3C: Does not show any extra strength or shape - may be a 5-4 minimum
+            3S: Semi-solid suit, not ncessarily extra values
         2S: Simple raise, no game interest
             2N: Some short suit game or slam try
                 3C      : Ask
@@ -528,6 +529,19 @@ Avoid the Guess
                         4D           : Relay to 4H. Follow up call is placing the contract
                         4H and higher: RKC, with the RKC suit determined by special coding, focus on known length of partner's suit, with ties going to the lower ranking suit
                 Any other call is to play
+            3H: Non-minimum, 4=3=1=5
+                4C: Forces 4D, follow up is a natrual slam try
+                    4D: Forced
+                        4S: Slam try in spades
+                4D: Forces 4H, follow up other than 4N is a sign off
+                    Followed by 4N is RKC for diamonds
+                4H: RKC for clubs
+                4S: RKC for spades
+                4N: RKC for hearts
+                5C: Very strong slam try
+                5D: Very strong slam try
+                5H: Very strong slam try
+                5S: Very strong slam try
             Other bids show exact shape and a non-minimum
             4C: Non-minimum, 4=4=0=5
                 4D : Forces partner to bid 4H, then place contract
@@ -541,6 +555,12 @@ Avoid the Guess
                 5C : Slam try in clubs
                 5D+: RKC, trump suit defined in a coded manner
         3C: To play, no game interest
+        3S: Natural annd asks about opener's hand
+            3N: 3 spades
+            4C: Cue bid
+            4D: Cue bid
+            4H: Cue bid
+            4S: Bad hand
     2S: Good diamond preempt
     2N: Both minors, less than an opening
     3D: Bad diamond preempt
