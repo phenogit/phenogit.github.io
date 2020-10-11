@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Three Trump Losers
-2013/10/19
+Flexible Balance
+2013/11/9
 
 ## Non-Competitive Bidding
 
@@ -518,6 +518,11 @@ Three Trump Losers
         3D: Natural invite
         3H: Natural invite
     2D: Weak 2 in one of the majors, NV vs. V -> partner will be expecting a 5-card suit more often than not should you open 2D
+        2H: Pass or correct
+        2S: Pass or correct
+        2N: Ask for suit and strength, at leave game interest
+        3H: Pass or correct
+        3S: Pass or correct
     2H: 4=4=0=5, 4=4=1=4, 4=3=1=5, 3=4=1=5, 11-15
         P : To play
         2S: To play
