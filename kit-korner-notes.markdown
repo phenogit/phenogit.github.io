@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-The Odds Change
-2013/11/16
+Matchpoint Double
+2013/11/23
 
 ## Non-Competitive Bidding
 
@@ -1163,6 +1163,11 @@ The Odds Change
         4S: End of auction
         
     After opponent overcalls over a strong 1C, responder's jump to a suit show a long suit but less than a positive response.
+
+    (P)-P-(4S)-??
+
+        X : Penalty oriented. Partner would be expected to sit unless he has unexpected distribution.
+        4N: Takeout, showing 2 or 3 suits including hearts.
 
 ## Modules
 
