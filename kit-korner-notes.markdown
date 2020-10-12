@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Table Feel
-2013/12/14
+Most Likely Plus
+2013/12/21
 
 ## Non-Competitive Bidding
 
@@ -922,8 +922,11 @@ Table Feel
 
         X: Penalties
 
+    (1D)-??
 
-    
+        1N: Strong NT
+        2D: Michaels, both majors
+        2N: Hearts and clubs
 
     (1D!)-X@
         !: Precision, 2+ diamonds, 11-15 points
