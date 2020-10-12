@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Flexible Balance
-2013/11/9
+The Odds Change
+2013/11/16
 
 ## Non-Competitive Bidding
 
@@ -585,6 +585,9 @@ Flexible Balance
     Consequently, partner will assume you don't have 4 spades if you overcall 1H.
     For us, double followed by a new suit doesn't necessarily show a powerhouse even if we are raising the level, since with just a 1-suiter we will overcall unless we have the rare hand which is too strong to risk an overcall. 
     Michaels is strictly 5-5 or better.
+    A non-jump 2N (2N over 2C is considered a jump) in competition or in response to a double is virtually never natural -- except in response to a negative double, as that needs to be natural.
+    As for the meaning of the 2N call, if game is "out of the picture" or if responder is severely limited, then scrambling has priority. 
+    Otherwise, Lebensohl has priority.
 
     E.g.
         1N!-(2C@)-P-(2D#);
@@ -1112,7 +1115,32 @@ Flexible Balance
         2D: 1 major
         2H: 5 card suit and a minor
         2S: 5 card suit and a minor
-        2N: Both minors        
+        2N: Both minors
+
+    (1N!)-P-(2H@)-??
+        !: 15-17
+        @: Transfer
+
+        X: Shows hearts
+
+    Cont'd
+    
+    (1N)-P-(2H)-P;
+    (2S)-P-(P )-??
+
+        X : Shows either - 
+            1) 3 suited 
+            2) hearts and clubs 
+            3) hearts and diamonds, longer diamonds
+            2N: Ask if you have diamonds
+                3C: Club-heart hand
+                3D: Hand containing diamonds
+        2N: Shows either -
+            1) Minors
+            2) Red suits, equal length or longer hearts
+            3C
+                P : Minors
+                3D: Red suits
 
     2D-(X!)-??
         !: Either a takeout double of spades or some strong hand
@@ -1305,6 +1333,23 @@ Flexible Balance
         Bidder is a passed hand
         Bid is 4 of a minor
     Else it is natural
+
+    Flexi-Balance vs. 2S
+    We use it in the balancing seat when both X and 2N would be takeout.
+    X : Shows either - 
+            1) 3 suited 
+            2) hearts and clubs 
+            3) hearts and diamonds, longer diamonds
+            2N: Ask if you have diamonds, will always bid this with 4 or 5 diamonds
+                3C: Club-heart hand
+                3D: Hand containing diamonds
+    2N: Shows either -
+        1) Minors
+        2) Red suits, equal length or longer hearts
+        3C
+            P : Minors
+            3D: Red suits
+    The advantage comes when the balancer has hearts and clubs. Picture South's problem playing standard methods (where 2N shows some 2-suiter) if his minors were reversed. If he bids 2N, North will bid 3D with more diamonds than clubs, and the proper 3C will be bypassed. With this structure, the problem is avoided. Responder will not bid 3D in response to a takeout double unless he has a long diamond suit. If his best suit is diamonds he will bid 2N to see if the doubler has diamond tolerance or has the club-heart 2-suiter, and the best strain will usually be found.
 
 ## Carding
 
