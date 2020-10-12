@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Most Likely Plus
-2013/12/21
+Not a Command
+2013/12/28
 
 ## Non-Competitive Bidding
 
