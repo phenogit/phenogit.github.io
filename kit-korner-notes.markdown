@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Odd-Even Discards
-2013/12/9
+Table Feel
+2013/12/14
 
 ## Non-Competitive Bidding
 
