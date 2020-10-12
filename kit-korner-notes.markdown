@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Matchpoint Double
-2013/11/23
+Odd-Even Discards
+2013/12/9
 
 ## Non-Competitive Bidding
 
@@ -884,13 +884,6 @@ Matchpoint Double
         3N: Almost always the end of the auction
         4H: Almost always the end of the auction
 
-    Cont'd
-    (P )-1D-(1S)-2S;
-    (3H)-P -(P )-??
-
-        X: Penalties
-
-
     1D-(1S)-X -(P);
     2C-(P )-2S!
 
@@ -902,6 +895,35 @@ Matchpoint Double
     P -(P )-XX!
 
         !: This sort of balancing XX is simply a repeat of the original cue bid
+
+    (P )-1D-(1S)-1N;
+    (2S)-??
+    
+        X : Doubleton spade, interest in competing
+        2N: Both minors, diamond emphasis
+        3C: Both minors, club emphasis
+
+    Cont'd
+    (P )-1D-(1S)-1N ;
+    (2S)-X -(P )-2N!;
+
+        !: 2N is takeout, asks for better minor
+
+    Cont'd
+    (P )-1D -(1S)-1N;
+    (2S)-X  -(P )-2N;
+    (X )-3C -(P )-P ;
+    (3D)-(P)-(3S)-X!
+
+        !: X is penalty
+
+    (P )-1D-(1S)-2S;
+    (3H)-P -(P )-??
+
+        X: Penalties
+
+
+    
 
     (1D!)-X@
         !: Precision, 2+ diamonds, 11-15 points
