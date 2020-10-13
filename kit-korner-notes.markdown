@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Not a Command
-2013/12/28
+Threaten the Ruff
+2014/1/4
 
 ## Non-Competitive Bidding
 
@@ -782,10 +782,24 @@ Not a Command
         You are in a force
         Double of 4N presumably shows more interent in defending than in going to the 5 level
 
+    1C-(1H)-??
+
+        P: 0-4
+        X: 5-8
+        Anything else is game forcing
+
+    Cont'd
+
+    1C-(1H)-X-(2H);
+    X!-(3H)-??
+
+        !: X is takeout
+        X: penalty
+
     (P )-1C-(1H)-X!;
     (3H)-??
+        
         !: 5-8, any distribution
-
         P : Not forcing. Double by partner would also be takeout
         X : Takeout
         3S: Natural and forcing
