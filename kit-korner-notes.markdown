@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Threaten the Ruff
-2014/1/4
+Damage Control
+2014/1/11
 
 ## Non-Competitive Bidding
 
@@ -1000,6 +1000,14 @@ Threaten the Ruff
     2D: 2-suiter, diamonds and spades
     2H: To play
     2S: To play
+
+    (1H)-P-(2H)-X;
+    (P )-??
+
+        2N: Lebensohl, relay to 3C, normally a weak hand
+        3C: constructive
+        3D: constructive
+        3S: constructive
 
     (1H)-2D-(4H)-P;
     (P )-??
