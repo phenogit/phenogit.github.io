@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Damage Control
-2014/1/11
+He Didn't Jump
+2014/1/18
 
 ## Non-Competitive Bidding
 
@@ -480,7 +480,14 @@ Damage Control
                         4D: RKCB for clubs
                         5C: To play
             2N: Balanced, non-minimum
-            3C: Balanced, minimum
+            3C: Balanced, minimum, mot solid clubs
+                3D: Stopper inquiry
+                    3H: Diamond stopper
+                        4C: Non-forcing
+                    3S: Heart stopper
+                        4C: Non-forcing
+                    3N: Spade stopper
+                        4C: Non-forcing
             3S: Solid club suit with no 4-card major
             3N: 5 spades, 6 clubs
                 4C: Natural force, slam interest
