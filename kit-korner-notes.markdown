@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-CRASH
-2014/2/22
+What to Cash
+2014/3/1
 
 ## Non-Competitive Bidding
 
@@ -825,6 +825,22 @@ CRASH
         P : Not forcing. Double by partner would also be takeout
         X : Takeout
         3S: Natural and forcing
+
+    1C-(1H!)-1N@
+        !: CRASH variant - shape
+
+        @: 1N is 9-14 balanced, no 5 card major, not 5-4-2-2, game forcing
+
+    Cont'd
+
+    1C-(1H)-1N-(P);
+    ??
+    
+        2C: Ask about partner's shape and strength
+            2D: 4 hearts, may have 4 spades, 9-11
+                2H: Control ask. You can follow up by asking what his exact heart holding is. After that, you can sign off in 4H or 3N, or ask about his holding in any specific side suit.
+                2N: Asks for partner to describe his exact shape
+                3H: Shows 4-4 heart fit. Partner assumes that 3N is an option, and if that looks best to him he will bid 3N. Otherwise he will cue bid something if his hand is decent or bid 4H with a bad hand
 
     P-(P)-1C-(1S);
     P!
