@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-An Inferior Fit
-2014/2/8
+A Cow Flew By
+2014/2/22
 
 ## Non-Competitive Bidding
 
@@ -462,6 +462,21 @@ An Inferior Fit
         2D: Artificial query
             2H: Some 4 card major
                 2S: Artificial query, find major and strength
+                    2N: 4 hearts, minimum
+                    3C: 4 spades, minimum
+                    3D: 4 hearts, non-minimum, not a solid club suit
+                        3H: Asks about partner's exact heart holding. Answers by steps
+                            3S: No top honor
+                            3N: 1 top honor no jack
+                            4C: 1 top honor with jack
+                            Nothing conventional after that
+                        3S: Artificial slam try in hearts, nothing conventional after that
+                            4C: Cue bid
+                                4D: Last train
+                        4S: RKC for hearts
+                    3H: 4 spades, non-minimum
+                    3S: 4 hearts, solid club suit
+                    3N: 4 spades, solid club suit
             2S: No major, some shortness, any strength
                 2N: Artificial query, find shortness and strength
                     3C: Minimum
