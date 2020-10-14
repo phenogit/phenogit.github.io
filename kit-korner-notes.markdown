@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-He Didn't Jump
-2014/1/18
+Penalty Card
+2014/1/25
 
 ## Non-Competitive Bidding
 
