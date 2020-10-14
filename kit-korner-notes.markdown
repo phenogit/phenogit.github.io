@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Penalty Card
-2014/1/25
+Points Schmoints
+2014/2/1
 
 ## Non-Competitive Bidding
 
@@ -836,6 +836,12 @@ Penalty Card
 
         5D: Will not put your side in a force. Simply assumed to show where your values are in case of further competition. It would not be taken as a slam try.
         5H: Will not put your side in a force
+
+    (1C)-P-(1S!)-??
+        !: No major
+
+        X: Takeout for the majors
+        Other calls would be natural
 
     (1C)-1D-(1H)-??
 
