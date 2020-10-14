@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Points Schmoints
-2014/2/1
+An Inferior Fit
+2014/2/8
 
 ## Non-Competitive Bidding
 
@@ -884,10 +884,28 @@ Points Schmoints
         3S: 4 card support, some shortness, any strength
         3N: Presumably a semi-solid diamond suit and side stoppers
 
+    1D- (1H)-X-(P);
+    1S!-(P )-??
+
+        ! : 1S is 3 card spade support, other calls would be the same bid partner would have made had there been no overcall and you had responded 1S, but they would deny exactly 3 card spade support
+        
+        1N: Natural, no game interest
+        2C: Non-forcing
+        2D: Non-forcing
+        2H: Game forcing
+        2S: To play
+        2N: Natural, invitational
+        3C: Natural, game forcing
+        3D: Natural, game forcing
+        3S: Invitational
+
     (P)-1D-(1H)-??
         
         X : 4+ spades
         1S: Fewer than 4 spades, like a negative for the minors
+        2C: Natural and forcing
+        2D: Natural and forcing
+        Only 2M is a negative free bid (if opps overcall 1S)
 
     Cont'd
 
