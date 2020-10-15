@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Final Entry
-2014/3/8
+Relay Double
+2014/3/15
 
 ## Non-Competitive Bidding
 
@@ -1063,6 +1063,19 @@ Final Entry
     2H: To play
     2S: To play
 
+    (P)-1H-(2D)-4D!;
+    (P)-??
+
+        !: 4D is splinter, could be singleton or void
+        
+        4S: RKC for hearts. If partner is void in diamonds he has a way to show the void along with his number of keycards, but will take you above 5H, he will do so only if he is confident there is a slam
+            6C: 2 key cards, no queen of trumps, diamond void
+                6D: Ask for number of kings. Shows that number up-the-line, starting at zero.
+        4N: RKC for hearts, but asks partner to count his void as an ace
+        5C: Ask for club control
+        5D: Ask for spade control
+        5H: General slam try
+
     (1H)-P-(2H)-X;
     (P )-??
 
@@ -1284,6 +1297,15 @@ Final Entry
     We always use the cheapest artificial call above 4 of the trump suit for our RKC call.
     4T+1 always being RKC for T provided 4T+1 isn't needed as natural.
     5T+1 being the king ask.
+    Void-showing response is permissible only if the RKC was 4T+1 and it is 100% certain from the auction what suit the void is in.
+    Even with that, responder may choose to not show the void if he fears it may get us too high.
+    Starts at 5T + 1
+        0/3
+        1/4
+        2 without
+        2 with
+            If responder has 2 with, he zooms to show number of kings at the same time
+    RKC bidder may then ask for qeen of trumps (first step) if not known, or he may ask for number of kings (second step or first step if queen known).
 
     E.g.
     4S RKC, follow-ups other than 5H/6H signoff
