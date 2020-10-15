@@ -5,7 +5,7 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Relay Double
+Overly Committal
 2014/3/15
 
 ## Non-Competitive Bidding
@@ -1533,6 +1533,7 @@ Relay Double
         You lead the ace when you want an attitude signal. (Standard, not upside down)
         You lead the king when you want a suit-preference signal.
         However, with an AKQ holding if the opening leader wants a suit-preference signal he will lead the queen, which will be more informative.
+            When dummy has a singleton or void in the suit led, you revert to suit preference
     Standard honor leads for non-AK.
     Interior sequence
         2nd from interior sequence with 3, 4, or 6-card suit.
