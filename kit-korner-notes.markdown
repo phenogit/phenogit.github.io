@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-What to Cash
-2014/3/1
+Final Entry
+2014/3/8
 
 ## Non-Competitive Bidding
 
@@ -1504,6 +1504,7 @@ What to Cash
     Lead of king in the middle of the hand asks for upside-down count
     Splitting honors show 0 or 2 higher
     We play (as do most expert pairs) than spot card signals in trumps are suit-preference if they mean anything. We do not echo in order to show 3 trumps.
+    Shifts in the middle fo the hand are attitude, jack denies, T or 9 = 0 or 2 higher
 
 ##### Opening Leads
     Your agreements are that from AK you may lead either the ace or the king. 
