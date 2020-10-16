@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-The Little Spots
-2014/4/6
+End of the Hand
+2014/4/12
 
 ## Non-Competitive Bidding
 
@@ -1008,6 +1008,10 @@ The Little Spots
         !: Precision, 2+ diamonds, 11-15 points
         
         @: Takeout double of Precision 1D would imply at least 4-4 in the majors
+
+    (1D)-1H-(X)-3D!;
+
+        !: 3D is a mixed raise, limit raise values with 4 trumps
 
     (1D)-P-(1S)-??
 
