@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Overly Committal
-2014/3/15
+The Little Spots
+2014/4/6
 
 ## Non-Competitive Bidding
 
@@ -1075,6 +1075,11 @@ Overly Committal
         5C: Ask for club control
         5D: Ask for spade control
         5H: General slam try
+
+    P-(1H)-P-(2D);
+    ??
+
+        2H: 5-5 or better in the black suits
 
     (1H)-P-(2H)-X;
     (P )-??
