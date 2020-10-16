@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Draw the Line
-2014/4/19
+Communication
+2014/4/26
 
 ## Non-Competitive Bidding
 
@@ -387,6 +387,8 @@ Draw the Line
                                 5N: Ask for specific kings, does not promise all keycards
                                     If partner thinks there is grand, he bids 6N
                         Higer: Asking for control
+                4D: Splinter, spade support
+                    4H: Last train bid, says nothing about hearts
         2D: Natural game force, expected to be 4+
             2S: Shows 6+ spades
             2N: Balanced hand
