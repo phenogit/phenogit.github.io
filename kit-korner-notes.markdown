@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-End of the Hand
-2014/4/12
+Draw the Line
+2014/4/19
 
 ## Non-Competitive Bidding
 
@@ -904,6 +904,28 @@ End of the Hand
         !: Preemptive
 
         X: Penalty
+
+    (P)-1D-(X)-??
+
+        XX: Hearts
+        1H: Spades
+        1S: No trump
+        1N: Clubs
+        2C: Single raise with both majors
+        2D: Simple diamond raise
+        2H: 5 hearts and a minor, non-invitational
+        2S: 5 spades and a minor, non-invitational
+        Pass then 2D is a limit raise of diamonds
+
+    Cont'd
+
+    (P )-1D-(X)-P  ;
+    (1H)-P -(P)-2D!;
+    (P )-??
+
+        !: 2D is a natural invite. Must be at least 5 diamonds, non-forcing.
+
+        2N: Maximum
 
     (P )-1D-(P)-1S;
     (2H)-??
