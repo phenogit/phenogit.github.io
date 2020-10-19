@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-The Best Partial
-2014/5/17
+Leap to Slam
+2014/5/24
 
 ## Non-Competitive Bidding
 
@@ -935,6 +935,19 @@ The Best Partial
 
         2N: Maximum
 
+    1D -(P  )-1H-(1S);
+    2C!-(2H@)-??
+        @: Good spade raise
+
+        !: 2C is fewer than 3 hearts, at least 5-4 either way in the minors
+
+        X: Show interest in competing in hearts
+           If the opponents get to 2S, X by either partner would typically show a doubleton spade(never a singleton) and desire to compete
+           Opener will make this double almost always with a doubleton spade, while responder can be more selective since he knows more about the hand
+           In response to the 2 card double or over the enemy 2S, 2N would not be natural by either partner.
+           If bid by opener, it would show diamond emphasis while 3C would show club emphasis.
+           If bid by responder, it would be asking for opener's better minor
+
     (P )-1D-(P)-1S;
     (2H)-??
     
@@ -945,7 +958,7 @@ The Best Partial
         3S: 4 card support, some shortness, any strength
         3N: Presumably a semi-solid diamond suit and side stoppers
 
-    1D- (1H)-X-(P);
+    1D -(1H)-X-(P);
     1S!-(P )-??
 
         ! : 1S is 3 card spade support, other calls would be the same bid partner would have made had there been no overcall and you had responded 1S, but they would deny exactly 3 card spade support
