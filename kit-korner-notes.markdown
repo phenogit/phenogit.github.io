@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Prevent the Falsecard
-2014/5/10
+The Best Partial
+2014/5/17
 
 ## Non-Competitive Bidding
 
