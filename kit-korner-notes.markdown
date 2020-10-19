@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Safe Shift
-2014/5/31
+Spot Power
+2014/6/7
 
 ## Non-Competitive Bidding
 
@@ -881,6 +881,12 @@ Safe Shift
 
         5D: Will not put your side in a force. Simply assumed to show where your values are in case of further competition. It would not be taken as a slam try.
         5H: Will not put your side in a force
+
+    (1C)-1H-(X)-??
+
+        XX: Lead directing, generally a doubleton honor. With support we usually just raise, although with no other strength we might XX for the lead.
+            The XX doesn't show anything as fas as strength goes, although if we later follow with some action it obviously includes strength.
+            Other bids mean exactly what they would have meant had there been no double.
 
     (1C)-P-(1S!)-??
         !: No major
