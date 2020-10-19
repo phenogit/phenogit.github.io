@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Leap to Slam
-2014/5/24
+Safe Shift
+2014/5/31
 
 ## Non-Competitive Bidding
 
@@ -254,7 +254,13 @@ Leap to Slam
                 2) Vul, 11-13 balanced
                 Always bypass 4 spades if balanced
                 Never raise on 3
+                Notrump bids are natural and quantitative
                 2D: Game forcing
+                    2H: 3 hearts, may have 4 spades or a 5 card minor
+                        2S: Natural and leads to natural bidding
+                            Partner will raise with 4 card support, bid a 5 card minor, or bid 2N otherwise
+                            Nothing artificial after that
+                        2N: Asks about shape
                     2N: Exactly 3=2=4=4
                         Natural bidding follows
                         3H
