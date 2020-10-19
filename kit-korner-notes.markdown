@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-No Rush
-2014/5/3
+Prevent the Falsecard
+2014/5/10
 
 ## Non-Competitive Bidding
 
@@ -761,6 +761,12 @@ No Rush
 
         X would be takeout
         Other calls would be natural
+
+    1C-(P)-1D-(1H);
+    ??
+
+        1N: 17-19 balanced with a heart stopper
+            Stayman and transfers over that, with a transfer into hearts being a spade invite
 
     1C-(P)-1D-(1N!);
     ??
