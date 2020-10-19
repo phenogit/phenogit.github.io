@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Communication
-2014/4/26
+No Rush
+2014/5/3
 
 ## Non-Competitive Bidding
 
@@ -1539,11 +1539,12 @@ Communication
     A from AK
     Non-partner's suit
         Rusinow(lower of touching honors with more than a doubleton)
-        K is power lead 
+        K is power lead, requesting unblock or standard count
     Partner's suit
         Standard leads
         Standard attitude signals at trick 1 when partner leads your bid suit
     Attitude leads for non-honor cards
+    Standard attitude on other honor leads
 
 #### Suit
 ##### General
