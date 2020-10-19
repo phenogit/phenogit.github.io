@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Spot Power
-2014/6/7
+Double Holdup
+2014/6/14
 
 ## Non-Competitive Bidding
 
@@ -163,7 +163,12 @@ Spot Power
                         4C: Cue bid for hearts
                     4C: Natural, shows a club suit
                 3S: 6 spades
-        1N: By passed hand shows 8-10 balanced
+        1N: 1) By passed hand shows 8-10 balanced
+            2) Non-passed hand, 9-14 balanced, no 5 card major
+                2C: Asks for strength and shape
+                    2S: No major, 9-11
+                        2N: Ask about the rest of partner's shape
+            We have recently modified our entire structure so all of responder's lower positive responses are transfers to the next higher strain (with 1S showing the 9-14 balanced hand). This obviously hurts us when responder has a heart positive since he has to start with 2D, but we can live with that. 
         2C: Natural positive, 5+c, 9+
             2S
                 4C: Solid suit, minimum of AKQ10xx, usually better. A suit that expects to run with no losers.
@@ -205,6 +210,7 @@ Spot Power
                 4H    : Rebiddable diamonds
                 4S    : Secondary club suit
                 Others: Natural, no particular agreements
+        2N: 15+ balanced
         3S: Solid major, minimum AKQTxx. May have outside strength.
             3N: Offer to play
             4C: Slam try in partner's major
