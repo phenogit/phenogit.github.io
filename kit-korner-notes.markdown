@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Blank the King
-2014/7/5
+Kill the Threat
+2014/7/12
 
 ## Non-Competitive Bidding
 
