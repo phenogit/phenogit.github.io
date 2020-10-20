@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Light Multi
-2014/6/27
+Blank the King
+2014/7/5
 
 ## Non-Competitive Bidding
 
@@ -555,10 +555,41 @@ Light Multi
         3H: Natural invite
     2D: Weak 2 in one of the majors, NV vs. V -> partner will be expecting a 5-card suit more often than not should you open 2D
         2H: Pass or correct
-        2S: Pass or correct
-        2N: Ask for suit and strength, at leave game interest
+        2S: Modified pass or correct
+            2N: Hearts, minimum
+            3C: Hearts, non-minimum
+        2N: Ask for suit and strength, at leave game interest, if partner has a non-minimum, you must get to game
+            3C: Minimum with hearts
+                3D: Asks length
+                    3H: 5 hearts
+                    All else show 6 and are natural
+            3D: Minimum with spades
+                3H: Asks length
+                    3S: 5 spades
+                    All else show 6 and are natural
+            3H: Non-minimum with spades
+                3S: Asks length
+                    3N: show 5
+                    All else show 6 and are natural
+            3S: Non-minimum with 5 hearts
+            Higher bids are non-minimum with 6 hearts and are natural 
+        3C: 5+ hearts and at least invitational strength, asks partner about his heart length
+            3D: 0 or 1 hearts
+            3H: 2 hearts
+            3S: 3 or 4 hearts, sets trumps and force to game
+            Higher shows 3+ hearts and show shortness in coded scheme
+        3D: 5+ spades and at least invitational strength, asks partner about his spade length
+            3H: 0 or 1 spades
+            3S: 2 spades
+            3N: 3 or 4 spades, sets trumps and force to game
+            Higer shows 3+ spades and show shortness in coded scheme
         3H: Pass or correct
         3S: Pass or correct
+        3N: To play
+        4C: Asks partner to bid one under his major
+        4D: Asks partner to bid his major
+        4H: To play
+        4S: To play
     2H: 4=4=0=5, 4=4=1=4, 4=3=1=5, 3=4=1=5, 11-15
         P : To play
         2S: To play
