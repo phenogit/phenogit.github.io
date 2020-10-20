@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Protect the Trumps
-2014/7/19
+Impossible Layout
+2014/8/2
 
 ## Non-Competitive Bidding
 
@@ -832,6 +832,22 @@ Protect the Trumps
         2S: Minimal hand in spades
         3H: Natural game force
         3S: Natural game force
+
+    1C-(P)-2D-(2S);
+    ??
+
+        P: Forcing pass
+        X: Penalties
+        Other bids would be natural
+
+    Cont'd
+
+    1C-(P )-2D-(2S);
+    3C-(3S)-P -(P) ;
+    ??
+
+        X: Penalties
+        Anything else would be natural
 
     P -(P)-1C-(1D!);
     ??
