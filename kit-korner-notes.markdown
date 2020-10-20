@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Impossible Layout
-2014/8/2
+Unexpected Preference
+2014/8/9
 
 ## Non-Competitive Bidding
 
@@ -116,6 +116,13 @@ Impossible Layout
         1H: 5+ hearts
             1) Non-passed hand 9+
             2) Passed hand 8+
+                1N: Artificial control ask
+                2C: Natural, 5+ clubs
+                    2S: Natural, 4 spades
+                        All follow up bids would be natural
+                        2N: Natural
+                            3C: Natural
+                                Follow up non-jumps are natural, 4D is RKC for clubs, other jumps would be splinters
         1S: 5+ spades
             1) Non-passed hand 9+
             2) Passed hand 8+
