@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Double Holdup
-2014/6/14
+Forge an Entry
+2014/6/20
 
 ## Non-Competitive Bidding
 
