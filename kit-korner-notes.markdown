@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Kill the Threat
-2014/7/12
+Protect the Trumps
+2014/7/19
 
 ## Non-Competitive Bidding
 
@@ -797,6 +797,15 @@ Kill the Threat
            (P)- (P)-(XX)-Pass is penalties.
 
 ### Misc
+
+    1C-(X!)-P@-(2S);
+    ??
+        !: Majors
+
+        @: Pass is 0-4
+
+        X : Takeout
+        2N: Natural
 
     1C-(P)-1D-(P );
     P -(X)-P -(1H);
