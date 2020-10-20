@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Forge an Entry
-2014/6/20
+Light Multi
+2014/6/27
 
 ## Non-Competitive Bidding
 
