@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-He Will React
-2014/9/13
+Delicate Choice
+2014/9/20
 
 ## Non-Competitive Bidding
 
@@ -697,6 +697,9 @@ He Will React
     A non-jump 2N (2N over 2C is considered a jump) in competition or in response to a double is virtually never natural -- except in response to a negative double, as that needs to be natural.
     As for the meaning of the 2N call, if game is "out of the picture" or if responder is severely limited, then scrambling has priority. 
     Otherwise, Lebensohl has priority.
+    Once you go beyond the RKC call, RKC is no longer available
+    Cue bids aren't necessarily control showing, especially when there is not much room to maneuver. A cue bid simply shows some slam interest.
+    Your general agreements are that when you have a minor-suit fit and a 4-4 major-suit fit is possible, then 4 of a major is an offer to play even if the suit hasn't been previously bid.
 
     E.g.
         1N!-(2C@)-P-(2D#);
@@ -1238,6 +1241,19 @@ He Will React
         5C: Ask for club control
         5D: Ask for spade control
         5H: General slam try
+
+    (1H)-2C-(2H)-??
+
+        4D: RKC for clubs
+        4H: Splinter
+
+    Cont'd
+
+    (1H)-2C-(2H)-4H;
+    (P )-??
+
+        4S: Possible ambiguity
+        4N: Slam try in clubs, sort of a last train type of call
 
     P-(1H)-P-(2D);
     ??
