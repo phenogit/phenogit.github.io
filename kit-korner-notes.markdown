@@ -279,6 +279,9 @@ Delicate Choice
                 Always bypass 4 spades if balanced
                 Never raise on 3
                 Notrump bids are natural and quantitative
+                2C: Forces 2D, either to play or with a planned follow-up which will often be some kind of invitation
+                    2D
+                        2S: 4 spades, 5 hearts, invitational
                 2D: Game forcing
                     2H: 3 hearts, may have 4 spades or a 5 card minor
                         2S: Natural and leads to natural bidding
@@ -295,8 +298,9 @@ Delicate Choice
                                 4S: RKC for heart
                                     5C: 1 or 4
                                         5D: Ask for queen of trumps
+                2S: 4=4 invitaional
                 3H: One suited slam try
-            2C: 4+ clubs
+            2C: Both minors, 4+ clubs, could be 5-4 either way
             2H: Always 4h, no singleton or voids, 11-13
                 2S: Unspecified short suit game or slam try
                     3C: Ask, coded response
@@ -700,6 +704,8 @@ Delicate Choice
     Once you go beyond the RKC call, RKC is no longer available
     Cue bids aren't necessarily control showing, especially when there is not much room to maneuver. A cue bid simply shows some slam interest.
     Your general agreements are that when you have a minor-suit fit and a 4-4 major-suit fit is possible, then 4 of a major is an offer to play even if the suit hasn't been previously bid.
+    Our pass over the lead directing double is well-defined. In general, unless there is a definition for a specific auction, the pass denies a stopper in the doubled suit if below 3NT and denies a control in the doubled suit above 3N. Immediate calls are the bid we would have made without the double, but in addition they show a stopper or a control.
+    After the pass, the person who has made the artificial call will redouble 95% of the time. This redouble is a repeat of the artificial call, and our auction will continue as if there were no double, except that we have the added knowledge about whatever the pass showed. Thus, the double doesn't change the meanings of our constructive sequences one iota.
 
     E.g.
         1N!-(2C@)-P-(2D#);
@@ -1031,6 +1037,14 @@ Delicate Choice
         !: Preemptive
 
         X: Penalty
+
+    1D-(P)-1H-(P);
+    1N-(P)-2C-(X);
+    ??
+
+        P : No club stopper
+        XX: Business
+        2D: Club stopper
 
     (P)-1D-(X)-??
 
