@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Partner Knows
-2014/8/23
+Examine the Spots
+2014/8/30
 
 ## Non-Competitive Bidding
 
@@ -1387,7 +1387,7 @@ Partner Knows
 
         X: Lead-directing, even vs. a weak notrump
 
-    （1N)-??
+    (1N)-??
 
         X : 4 card major and a longer minor
         2C: Majors
