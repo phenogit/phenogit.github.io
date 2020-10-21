@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-If It Loses
-2014/9/6
+He Will React
+2014/9/13
 
 ## Non-Competitive Bidding
 
@@ -29,6 +29,17 @@ If It Loses
             1) unpassed hand: 0-8 
             2) passed hand: 0-7 
             1H: Forcing, 4+ hearts, but with only 4 hearts you would be expected to have longer minor
+                1S: 0-5, 4+ spades
+                1N: 0-5, fewer than 4 spades
+                2C: 6-8, <3 hearts, may have 4 or 5 spades
+                    2D: Artificial waiting bid asking partner for a doubleton heart and/or a 5 card spade suit
+                        This call will often be made on a minimal major-minor 2 suiter, with either suit being longer
+                    2H: Minimum, non-forcing
+                    2S: Natural, forcing
+                    2N: Artificial game force, always 5+ hearts, either a heart 1 suiter or a major-minor 2 suiter
+                    3C: 4 hearts, 5+ clubs, game forcing
+                    3D: 4 hearts, 5+ diamonds, game forcing
+                2D: 6-8, 3 hearts
             1S: Forcing, 4+ spades
                 Various ways to raise when partner has 4+ spades and ways to show a long suit
                 1N: 1) non-passed hand 0-5
