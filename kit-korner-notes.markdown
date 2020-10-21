@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Unexpected Preference
-2014/8/9
+Partner Knows
+2014/8/23
 
 ## Non-Competitive Bidding
 
@@ -312,6 +312,8 @@ Unexpected Preference
             1N: Vulnerable, 11-13 balanced, definitely at least 2 spades. Also, will never raise on 3 card support
                 2 way checkback follow up
                 2C: Relay to 2D, either to play 2D. After that most bids are natural invites. Followed by 3N shows 5 spades, choice of games.
+                    2D
+                        2H: Invite, partner will assume that you are 6-4, since 5-4 or 5-5 you presumably would have bid 2S
                 2D: Game forcing checkback. Opener will show, by priority: 4 card heart suit, 3 card spade support, or a 5 card minor. He bids 2N with 2=3=4=4 shape
                     2H: Must bid 2H on any hand with 4 hearts, may or may not have 3 spades
                         2S: Natural, showing a 5 card spade suit. Natural bidding after that
@@ -322,12 +324,19 @@ Unexpected Preference
                             2) Arrange to make a moderate slam try in any suit or notrump
                             3) Make a very strong slam try in any suit
                             4) Bid RKC for any suit
+                    2S: 3 spades
+                    2N: Exactly 2=3=4=4
+                    3C: 5 clubs
+                    3D: 5 diamonds
+                2H: Non-invitaional, presumably 6-4, since with 5-4 or 5-5 you would have bid 2H
+                3H: 5-5 slam try
+                4H: Self splinter for spades
                 Other non-jumps are sign offs
                 Jumps below game are natural slam tries
             2C: Always show both minors, at least 5-4 unless precisely 1=4=3=5 or 1=4=4=4
             2D: 1=4=5=3 or 6+ diamonds
             2H: 3=4=5=1
-            2S: Always 4s, no singleton or voids
+            2S: Always 4 spades, no singleton or voids
             3H: 4 card support, shortness somewhere, non-minimum
             3S: 4 card support, shortness somewhere, minimum
         1N
@@ -337,6 +346,8 @@ Unexpected Preference
             2H: 4h, deny 5+d, with both majors partner would expect you to bid 2H
             2S: 4s, deny 5+d, deny 4h
             2N: Bypass a major is allowed
+        2H: 5 spades, 4 or 5 hearts, non-invitational
+        2S: 5 spades, 4 or 5 hearts, invitational
         2N: Natural invite
             3C: Natural, both minors, non-forcing
             3D: Natural, non-forcing
@@ -348,14 +359,27 @@ Unexpected Preference
         1S
             1N: 1) Non-vulnerable shows 13-15
                 2) Vulnerable shows 11-13
-            2S: 3 card support possible
-            2H
+            2D
+                2S: Sign off
+                2N: Artifical game force, like a fourth suit call
+                3C: Artificial, invite in diamonds, hearts or spades
+                    Opener bids the cheapest strain in which he would reject an invite.
+                    If opener accepts all invites, he bids 3N or something at the 4 level
+                    3D: Reject diamond invite
+                    3H: Reject heart invite, but accept diamond invite
+                    3S: Reject spade invite, but accept diamond and heart invite
+                    3N: Accept all invite
+                3D: Natural, game forcing
+                3H: Natural, game forcing
+                3S: Natural, game forcing
+            2H: Almost always rebid a 6 card heart suit if 6-4
                 3C: Might simply be concentration, looking for a spade preference or a notrump rebid if diamonds stopped
                     4C
                         4D: RKC for clubs
                         4H: Offer to play
                         4S: Offer to play
                         4N: Slam try in clubs, doesn't say anything about controls
+            2S: 3 card support possible, usually non-minimum if 3 cards, tend to rebid minor if minimum
             3C: At least 5-5 in hearts and clubs and a maximum non 1C opening
         1N: Semi-forcing, permitted to pass with min 5-3-3-2 hand
             2C: Bart modification follow up
@@ -383,7 +407,7 @@ Unexpected Preference
                 2N      : Ask
                     Short suit shown in coded manner
                 3C/3D/3H: Long/help suit game tries in coded manner
-
+        2S: Strong jump shift, solid or semi-solid suit(at most 1 loser) with slam interest
     1S: 5+ card suit, 11-15
         1N: Semi-forcing, with a non-minimum partner will bid even if he has to bid a 3-card minor
             2C: Not necessarily show 4 clubs, but partner will assume so
