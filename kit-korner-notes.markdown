@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Examine the Spots
-2014/8/30
+If It Loses
+2014/9/6
 
 ## Non-Competitive Bidding
 
