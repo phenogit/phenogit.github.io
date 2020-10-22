@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-The Right Invite
-2014/10/11
+Easiest Plus
+2014/10/18
 
 ## Non-Competitive Bidding
 
@@ -300,6 +300,8 @@ The Right Invite
                             Partner will raise with 4 card support, bid a 5 card minor, or bid 2N otherwise
                             Nothing artificial after that
                         2N: Asks about shape
+                            3C: 4 clubs
+                                3D: Asks which way of 4-2
                     2N: Exactly 3=2=4=4
                         Natural bidding follows
                         3H
@@ -341,6 +343,9 @@ The Right Invite
                 2C: Relay to 2D, either to play 2D. After that most bids are natural invites. Followed by 3N shows 5 spades, choice of games.
                     2D
                         2H: Invite, partner will assume that you are 6-4, since 5-4 or 5-5 you presumably would have bid 2S
+                        2S: Natural invite, usually a 5 card suit
+                        3S: Invitational, good 6 card suit
+                        3N: 5 spades, choice of games
                 2D: Game forcing checkback. Opener will show, by priority: 4 card heart suit, 3 card spade support, or a 5 card minor. He bids 2N with 2=3=4=4 shape
                     2H: Must bid 2H on any hand with 4 hearts, may or may not have 3 spades
                         2S: Natural, showing a 5 card spade suit. Natural bidding after that
@@ -353,10 +358,14 @@ The Right Invite
                             4) Bid RKC for any suit
                     2S: 3 spades
                     2N: Exactly 2=3=4=4
+                        3C: Asks about partner's distribution
                     3C: 5 clubs
                     3D: 5 diamonds
                 2H: Non-invitaional, presumably 6-4, since with 5-4 or 5-5 you would have bid 2H
+                2S: To play. Partner will never bid
+                2N: Natural invite
                 3H: 5-5 slam try
+                3S: Slammish one suiter
                 4H: Self splinter for spades
                 Other non-jumps are sign offs
                 Jumps below game are natural slam tries
