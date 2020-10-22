@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Delicate Choice
-2014/9/20
+Solid Suit
+2014/10/4
 
 ## Non-Competitive Bidding
 
@@ -870,6 +870,24 @@ Delicate Choice
 
         1N: 17-19 balanced with a heart stopper
             Stayman and transfers over that, with a transfer into hearts being a spade invite
+
+    1C -(P)-1D-(1S);
+    2N!-(P)-??
+
+        !: 2N is 20-21, possibly a good 19, with a spade stopper
+
+        3C: Forces 3D, follow up 3H is to play
+            3D
+                3S: Both minors
+                3N: Mild slam try in diamonds
+                4C: Strong slam try in clubs
+                4D: Strong slam try in diamonds
+                4H: RKC for diamonds
+        3D: Transfer to hearts, at least invitational
+            2N bidder rejects with 3H, 3S to show 3 card support and offer a choice, 3N to play, or drive to 4H
+        3H: Mild slam try in clubs
+        3S: Stayman for hearts
+        3N: To play
 
     1C-(P)-1D-(1N!);
     ??
