@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Choice of Spot Card
-2014/10/25
+Two-way Finesse
+2014/11/1
 
 ## Non-Competitive Bidding
 
@@ -1065,6 +1065,8 @@ Choice of Spot Card
         1S: 5+ spades
 
     Vs. Short Minor Openings(2 or fewer)
+    - Precision 1D, Polish 1C, Unbalanced 1D systems, 5542 1C
+
     (P)-P-(1C!)-??
         !: Could be short
 
@@ -1073,6 +1075,10 @@ Choice of Spot Card
         1H                  : Natural overcall
         1S                  : Natural overcall
         1N                  : 4 card major and a longer minor
+            2C: Pass or correct
+            2D: Asks for the major
+            2H: To play
+            2S: To play
         2C                  : Natural
         Pass then bid a suit: The bid suit and a higher suit
         Pass then X a suit  : Takeout
