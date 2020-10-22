@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Easiest Plus
-2014/10/18
+Choice of Spot Card
+2014/10/25
 
 ## Non-Competitive Bidding
 
@@ -876,15 +876,6 @@ Easiest Plus
 
 ### Misc
 
-    1C-(X!)-P@-(2S);
-    ??
-        !: Majors
-
-        @: Pass is 0-4
-
-        X : Takeout
-        2N: Natural
-
     1C-(P)-1D-(P );
     P -(X)-P -(1H);
     ??
@@ -944,6 +935,15 @@ Easiest Plus
 
         X: Penalties
         Anything else would be natural
+
+    1C-(X!)-P@-(2S);
+    ??
+        !: Majors
+
+        @: Pass is 0-4
+
+        X : Takeout
+        2N: Natural
 
     P -(P)-1C-(1D!);
     ??
@@ -1026,6 +1026,13 @@ Easiest Plus
     2H!
 
         !: 2H is invitational in hearts (transfer to the opponent's major shows an invite in the other major) 
+
+    (P)-1C-(3C)-X!;
+    (P)-??
+
+        !: X is 9+, no 5 card suit
+
+        Suit bids would be assumed to be 5 card suits
 
     P-(1C)-??
     
