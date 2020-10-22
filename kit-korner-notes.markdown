@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Solid Suit
-2014/10/4
+The Right Invite
+2014/10/11
 
 ## Non-Competitive Bidding
 
@@ -187,7 +187,19 @@ Solid Suit
                     2S: No major, 9-11
                         2N: Ask about the rest of partner's shape
             We have recently modified our entire structure so all of responder's lower positive responses are transfers to the next higher strain (with 1S showing the 9-14 balanced hand). This obviously hurts us when responder has a heart positive since he has to start with 2D, but we can live with that. 
-        2C: Natural positive, 5+c, 9+
+        2C: Natural positive, 5+c, 9+, natural bidding follows
+            2D
+                4C: Solid or almost solid suit, at least AKQTxx
+                    4D: Solid suit RKC for clubs, treat CJ as the queen
+                        4N: 2 keycards, no CJ
+                            5C: Signoff
+                            5D: Ask for specific kings, does not guarantee all the keycards
+                            5H: Grand slam try in clubs
+                            5S: Grand slam try in clubs
+                            5N: Pick a slam
+                    4H: Cue bid for clubs
+                    4S: Cue bid for clubs
+                    4N: Diamond cue bid for clubs
             2S
                 4C: Solid suit, minimum of AKQ10xx, usually better. A suit that expects to run with no losers.
         2D: 5+d, 9+ non passed, 8+ passed hand. Natural bidding follows
@@ -706,6 +718,12 @@ Solid Suit
     Your general agreements are that when you have a minor-suit fit and a 4-4 major-suit fit is possible, then 4 of a major is an offer to play even if the suit hasn't been previously bid.
     Our pass over the lead directing double is well-defined. In general, unless there is a definition for a specific auction, the pass denies a stopper in the doubled suit if below 3NT and denies a control in the doubled suit above 3N. Immediate calls are the bid we would have made without the double, but in addition they show a stopper or a control.
     After the pass, the person who has made the artificial call will redouble 95% of the time. This redouble is a repeat of the artificial call, and our auction will continue as if there were no double, except that we have the added knowledge about whatever the pass showed. Thus, the double doesn't change the meanings of our constructive sequences one iota.
+    We do not bid 4NT naturally on non-notrump auctions. 
+    5NT is always pick a slam unless it is otherwise specifically defined.
+        Common specific definitions
+        If it is part of our RKC followup (queen ask or king ask sequences)
+        If spades are trumps and 5NT is a double jump, it is GSF
+        If a definite grand slam try has been made, 5NT may be just showing interest but not being able to bid the grand. This is most common when clubs are trumps -- 5NT is then a last train type of call.
 
     E.g.
         1N!-(2C@)-P-(2D#);
