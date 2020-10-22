@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Two-way Finesse
-2014/11/1
+Diversionary Tactic
+2014/11/7
 
 ## Non-Competitive Bidding
 
@@ -447,12 +447,19 @@ Two-way Finesse
     1S: 5+ card suit, 11-15
         1N: Semi-forcing, with a non-minimum partner will bid even if he has to bid a 3-card minor
             2C: Not necessarily show 4 clubs, but partner will assume so
+                Opener will tend to pass with 5-3-3-2 hands unless he is at the top of his expected balanced range
                 Modified Bart structure where there is the option to show a strong club raise
-                2D: Either a heart signoff or some kind of invitational hand
-                    2H
-                        2S: Game interest
+                2D: Either a heart signoff or some kind of invitational hand(doubleton spade, club raise or 5-5 red suits)
+                    2H: Expected call
+                        2S: Game interest with doubleton spade
+                        2N: Invitational non-forcing club raise, assumed singleton spade
+                        3C: Big club raise
+                        3D: 5-5 red suits, invitational
                 2H: Modified Bart, 5 hearts, usually 2 spades, choice of partials
                     3H: Invite, implies diamond shortness
+                2N: Natural invte, presumably a singleton spade
+                3C: Non-invitational
+                3D: Non-invitational
             2N: Maximum non-1C opener with 6 spades
         2C: Game forcing, expected to be 4+, partner bids his shape without regard to strength. Rebidding suit promises 6. If 5-4, partner bids his other suit even if he is minimum. Jumps in new suitsa re splinters
             2S: Promises at least 6 spades
