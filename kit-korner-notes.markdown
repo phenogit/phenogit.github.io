@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Forzen Suit
-2014/12/6
+Jesus Saves
+2014/12/13
 
 ## Non-Competitive Bidding
 
