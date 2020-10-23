@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-The Final Endplay
-2014/11/15
+Bad Split
+2014/11/22
 
 ## Non-Competitive Bidding
 
