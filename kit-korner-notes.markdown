@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Diversionary Tactic
-2014/11/7
+The Final Endplay
+2014/11/15
 
 ## Non-Competitive Bidding
 
