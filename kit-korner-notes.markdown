@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Not a Force
-2014/12/20
+Block the Suit
+2014/12/27
 
 ## Non-Competitive Bidding
 
@@ -743,6 +743,7 @@ Not a Force
         If spades are trumps and 5NT is a double jump, it is GSF
         If a definite grand slam try has been made, 5NT may be just showing interest but not being able to bid the grand. This is most common when clubs are trumps -- 5NT is then a last train type of call.
     Equal-level conversion
+    Our agreement for forcing pass is that when game is bid under fire (i.e. had to be bid to outbid an enemy call) as opposed to voluntarily then we are not in a force unless we have previously shown game-forcing values.
 
     E.g.
         1N!-(2C@)-P-(2D#);
@@ -1393,6 +1394,14 @@ Other bids are exactly as if partner had bid a natural 1S.
     (P )-1S -(2S!)-3H;
     (5H)-5S!
         !: Weaker than pass (forcing) followed by a pull
+
+    (1S)-1N-(2C)-X!;
+    (3C)-3N-(4C)-P@;
+    (P )-??
+
+        !: X is Stayman for hearts, invitational+
+
+        @: Pass of 4C is not a force
 
     (1S)-2H-(3D)-4C!
 
