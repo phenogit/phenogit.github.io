@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On: 
-Bad Split
-2014/11/22
+Forzen Suit
+2014/12/6
 
 ## Non-Competitive Bidding
 
