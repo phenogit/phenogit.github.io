@@ -4,9 +4,9 @@ title: Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
-Currently On: 
-Jesus Saves
-2014/12/13
+Currently On:
+Not a Force
+2014/12/20
 
 ## Non-Competitive Bidding
 
@@ -25,9 +25,9 @@ Jesus Saves
 
     1C: 16+, artificial
         1) 3/4 seat, 18+ if balanced
-        1D: Artificial, 
-            1) unpassed hand: 0-8 
-            2) passed hand: 0-7 
+        1D: Artificial,
+            1) unpassed hand: 0-8
+            2) passed hand: 0-7
             1H: Forcing, 4+ hearts, but with only 4 hearts you would be expected to have longer minor
                 1S: 0-5, 4+ spades
                 1N: 0-5, fewer than 4 spades
@@ -110,7 +110,7 @@ Jesus Saves
                         3H: 4 spades and 5 clubs
                         3S: 4 spades and 5 diamonds
             2D: Natural, non-forcing, denies a major
-            2H: 1) 3/4 seat, artificial big hand, partner must bid 2S, hand types - 
+            2H: 1) 3/4 seat, artificial big hand, partner must bid 2S, hand types -
                 a. 22+ bal
                 b. Long minor, game-forcing
                 c. 5-5 majors, game-forcing
@@ -166,7 +166,7 @@ Jesus Saves
             3H: Solid or semi-solid suit and sets trumps
                 Style is responder strives to bid out his shape.
                 3D: Probably denies 6 spades
-                    3H 
+                    3H
                         3S
                             4C: Slam try in an unspecified major
                                 4D: Ask which major you are making your slam try in
@@ -186,7 +186,7 @@ Jesus Saves
                 2C: Asks for strength and shape
                     2S: No major, 9-11
                         2N: Ask about the rest of partner's shape
-            We have recently modified our entire structure so all of responder's lower positive responses are transfers to the next higher strain (with 1S showing the 9-14 balanced hand). This obviously hurts us when responder has a heart positive since he has to start with 2D, but we can live with that. 
+            We have recently modified our entire structure so all of responder's lower positive responses are transfers to the next higher strain (with 1S showing the 9-14 balanced hand). This obviously hurts us when responder has a heart positive since he has to start with 2D, but we can live with that.
         2C: Natural positive, 5+c, 9+, natural bidding follows
             2D
                 4C: Solid or almost solid suit, at least AKQTxx
@@ -390,7 +390,7 @@ Jesus Saves
             3H: Shortness
             3S: Shortness
         3C: 4+d, 5+c, non-invitational
-    
+
     1H: 5+ card suit, 11-15
         1S
             1N: 1) Non-vulnerable shows 13-15
@@ -646,7 +646,7 @@ Jesus Saves
                     3N: show 5
                     All else show 6 and are natural
             3S: Non-minimum with 5 hearts
-            Higher bids are non-minimum with 6 hearts and are natural 
+            Higher bids are non-minimum with 6 hearts and are natural
         3C: 5+ hearts and at least invitational strength, asks partner about his heart length
             3D: 0 or 1 hearts
             3H: 2 hearts
@@ -714,7 +714,9 @@ Jesus Saves
     4C: Namyats, self-sufficient heart suit and a very good 4H opening.
 
 ## Competitive Bidding
+
 ### Meta Rules
+
     General agreements are that 2N in competition is always takeout unless specifically defined otherwise.
     When in a game force, doubles by either partner are penalties.
     Your agreements regarding pass and redouble after an artificial call such as 2NT is doubled is that pass is an offer to play while redouble is never business -- partner may not pass.
@@ -724,22 +726,23 @@ Jesus Saves
     Takeout double style is strongly oriented towards equal-level conversion.
     If you X and partner bids 1D or 2D, a 2H call by you would show no extra strength and would be non-forcing.
     Consequently, partner will assume you don't have 4 spades if you overcall 1H.
-    For us, double followed by a new suit doesn't necessarily show a powerhouse even if we are raising the level, since with just a 1-suiter we will overcall unless we have the rare hand which is too strong to risk an overcall. 
+    For us, double followed by a new suit doesn't necessarily show a powerhouse even if we are raising the level, since with just a 1-suiter we will overcall unless we have the rare hand which is too strong to risk an overcall.
     Michaels is strictly 5-5 or better.
     A non-jump 2N (2N over 2C is considered a jump) in competition or in response to a double is virtually never natural -- except in response to a negative double, as that needs to be natural.
-    As for the meaning of the 2N call, if game is "out of the picture" or if responder is severely limited, then scrambling has priority. 
+    As for the meaning of the 2N call, if game is "out of the picture" or if responder is severely limited, then scrambling has priority.
     Otherwise, Lebensohl has priority.
     Once you go beyond the RKC call, RKC is no longer available
     Cue bids aren't necessarily control showing, especially when there is not much room to maneuver. A cue bid simply shows some slam interest.
     Your general agreements are that when you have a minor-suit fit and a 4-4 major-suit fit is possible, then 4 of a major is an offer to play even if the suit hasn't been previously bid.
     Our pass over the lead directing double is well-defined. In general, unless there is a definition for a specific auction, the pass denies a stopper in the doubled suit if below 3NT and denies a control in the doubled suit above 3N. Immediate calls are the bid we would have made without the double, but in addition they show a stopper or a control.
     After the pass, the person who has made the artificial call will redouble 95% of the time. This redouble is a repeat of the artificial call, and our auction will continue as if there were no double, except that we have the added knowledge about whatever the pass showed. Thus, the double doesn't change the meanings of our constructive sequences one iota.
-    We do not bid 4NT naturally on non-notrump auctions. 
+    We do not bid 4NT naturally on non-notrump auctions.
     5NT is always pick a slam unless it is otherwise specifically defined.
         Common specific definitions
         If it is part of our RKC followup (queen ask or king ask sequences)
         If spades are trumps and 5NT is a double jump, it is GSF
         If a definite grand slam try has been made, 5NT may be just showing interest but not being able to bid the grand. This is most common when clubs are trumps -- 5NT is then a last train type of call.
+    Equal-level conversion
 
     E.g.
         1N!-(2C@)-P-(2D#);
@@ -752,16 +755,17 @@ Jesus Saves
     1D-(X)-??
         XX: Shows hearts
         1H: Shows spades
-        
-        If fourth seat bids something, opener makes a support double with 3-card support, raises with 4-card support. 
-        If fourth seat passes, opener bids 1 of responder's suit with 3-card support, with other bids meaning the same as if responder had bid 1 of his major. 
+
+        If fourth seat bids something, opener makes a support double with 3-card support, raises with 4-card support.
+        If fourth seat passes, opener bids 1 of responder's suit with 3-card support, with other bids meaning the same as if responder had bid 1 of his major.
         In particular, 2 of responder's major doesn't show anything except 4-card support.
 
     Cont'd
     1D-(X)-1H-(P);
-   -??
-        1S: Show 3-card spade support. 
-        Other bids are exactly as if partner had bid a natural 1S.
+
+-??
+1S: Show 3-card spade support.
+Other bids are exactly as if partner had bid a natural 1S.
 
     Transfer to 3N Over 1 Major Overcall of 1D Opener
     The transfer call is always 3C.
@@ -806,13 +810,13 @@ Jesus Saves
         2S-(P)-4C-(4D);
        -??
             X : Optional, like a normal forcing pass.
-            P : This requests partner to double unless he has a hand which would not have sat a penalty double. 
+            P : This requests partner to double unless he has a hand which would not have sat a penalty double.
                If you aren't planning on passing the double, you have various possible followups depending on the logic of the auction.
                X:
                 4S: Offer to play, but not as strong as an immediate 4S call.
                 5C: Slam try.
-            4H: RKC for clubs. 
-                Normal responses (even though responder is known to have AK of trumps he still counts them in his response). However, since he is known to have the queen of trumps, he doesn't show that as a queen. 
+            4H: RKC for clubs.
+                Normal responses (even though responder is known to have AK of trumps he still counts them in his response). However, since he is known to have the queen of trumps, he doesn't show that as a queen.
                 Instead, he calls the jack of trumps the queen. This way you can determine whether the suit is truly solid.
             4S: To play
             4N: Slam try in clubs. Says nothing about controls.
@@ -867,17 +871,17 @@ Jesus Saves
                     3D: Natural, non-forcing
                     3H: Natural, non-forcing
 
-    A non-jump to 2N in competition is never natural. 
-    If game is logically possible, 2N is a relay to 3C assumed to show a weak hand somewhere, while 3-level calls (including a raise) are stronger. 
+    A non-jump to 2N in competition is never natural.
+    If game is logically possible, 2N is a relay to 3C assumed to show a weak hand somewhere, while 3-level calls (including a raise) are stronger.
     If game is not logically possible, 2N is takeout presumably for the minors, and 3-level bids are just competitive.
 
     Pass of a redouble of a takeout double is always penalties, unless both of the following conditions are met:
         1) The opponents are at the 1-level.
         2) The partner of the doubler is in front of the suit doubled.
     Ｅ.g.
-        a. (1S)-X-(XX)-Pass is non-committal. 
+        a. (1S)-X-(XX)-Pass is non-committal.
         b. (1S)-P-(P )-X;
-           (XX)-Pass is penalties. 
+           (XX)-Pass is penalties.
         c. (1S)-(P)-(2S)-P;
            (P)- (P)-(XX)-Pass is penalties.
 
@@ -999,7 +1003,7 @@ Jesus Saves
 
     (P )-1C-(1H)-X!;
     (3H)-??
-        
+
         !: 5-8, any distribution
         P : Not forcing. Double by partner would also be takeout
         X : Takeout
@@ -1014,7 +1018,7 @@ Jesus Saves
 
     1C-(1H)-1N-(P);
     ??
-    
+
         2C: Ask about partner's shape and strength
             2D: 4 hearts, may have 4 spades, 9-11
                 2H: Control ask. You can follow up by asking what his exact heart holding is. After that, you can sign off in 4H or 3N, or ask about his holding in any specific side suit.
@@ -1032,7 +1036,7 @@ Jesus Saves
     P-(P)-1N-(P );
     2H!
 
-        !: 2H is invitational in hearts (transfer to the opponent's major shows an invite in the other major) 
+        !: 2H is invitational in hearts (transfer to the opponent's major shows an invite in the other major)
 
     (P)-1C-(3C)-X!;
     (P)-??
@@ -1042,7 +1046,7 @@ Jesus Saves
         Suit bids would be assumed to be 5 card suits
 
     P-(1C)-??
-    
+
         2N: Unusual, showing at least 5-5 in the red suits
 
     Cont'd
@@ -1094,7 +1098,7 @@ Jesus Saves
     Cont'd
     (P)-P  -(1C)-1N;
     (X)-??
-    
+
         2D: Asks for your major
 
     (1C)-P-(3C!)-P;
@@ -1148,7 +1152,7 @@ Jesus Saves
 
     (P )-1D-(P)-1S;
     (2H)-??
-    
+
         X : Support double, shows 3 card support
         2S: 4 card support, 13-15 points, balanced
         2N: Both minors, diamond emphasis
@@ -1160,7 +1164,7 @@ Jesus Saves
     1S!-(P )-??
 
         ! : 1S is 3 card spade support, other calls would be the same bid partner would have made had there been no overcall and you had responded 1S, but they would deny exactly 3 card spade support
-        
+
         1N: Natural, no game interest
         2C: Non-forcing
         2D: Non-forcing
@@ -1172,7 +1176,7 @@ Jesus Saves
         3S: Invitational
 
     (P)-1D-(1H)-??
-        
+
         X : 4+ spades
         1S: Fewer than 4 spades, like a negative for the minors
         2C: Natural and forcing
@@ -1215,7 +1219,7 @@ Jesus Saves
 
     (P )-1D-(1S)-1N;
     (2S)-??
-    
+
         X : Doubleton spade, interest in competing
         2N: Both minors, diamond emphasis
         3C: Both minors, club emphasis
@@ -1247,7 +1251,7 @@ Jesus Saves
 
     (1D!)-X@
         !: Precision, 2+ diamonds, 11-15 points
-        
+
         @: Takeout double of Precision 1D would imply at least 4-4 in the majors
 
     (1D)-1H-(X)-3D!;
@@ -1276,7 +1280,7 @@ Jesus Saves
 
     P -(1D)-2C-(X);
     ??
-        
+
         XX: Lead-directional showing a club honor
 
     1H-(X)-??
@@ -1312,7 +1316,7 @@ Jesus Saves
     (P)-??
 
         !: 4D is splinter, could be singleton or void
-        
+
         4S: RKC for hearts. If partner is void in diamonds he has a way to show the void along with his number of keycards, but will take you above 5H, he will do so only if he is confident there is a slam
             6C: 2 key cards, no queen of trumps, diamond void
                 6D: Ask for number of kings. Shows that number up-the-line, starting at zero.
@@ -1361,7 +1365,7 @@ Jesus Saves
         Partner will tend to sit the double only if he has 3 trumps.
 
     1S-(2D)-??
-        
+
         X : Followed by a spade raise would be assumed to show doubleton honor, though a soft 3-card limit raise with interest in other strains is possible
         3D: Limit raise or better
 
@@ -1435,10 +1439,10 @@ Jesus Saves
         !: 10-12
         @: Majors
 
-        P: Pass followed by double shows a good hand with a 3-card holding in their suit. 
+        P: Pass followed by double shows a good hand with a 3-card holding in their suit.
            Partner is expected to pull if he has only a doubleton.
-        X: Shows a good hand, creating a force. 
-           It would show the ability to double at least one of the majors, and invite partner to double. 
+        X: Shows a good hand, creating a force.
+           It would show the ability to double at least one of the majors, and invite partner to double.
            Following doubles by either partner are penalties, showing a 4-card holding in their suit.
         2D: To play
         2H: Inv+ in clubs
@@ -1449,7 +1453,7 @@ Jesus Saves
     1N!-(2D@)-??
     !: 10-12
     @: Diamonds and a major
-        
+
         4D: Transfer
 
     1N!-(2D@)-2N#
@@ -1509,13 +1513,13 @@ Jesus Saves
         X: Shows hearts
 
     Cont'd
-    
+
     (1N)-P-(2H)-P;
     (2S)-P-(P )-??
 
-        X : Shows either - 
-            1) 3 suited 
-            2) hearts and clubs 
+        X : Shows either -
+            1) 3 suited
+            2) hearts and clubs
             3) hearts and diamonds, longer diamonds
             2N: Ask if you have diamonds
                 3C: Club-heart hand
@@ -1529,9 +1533,9 @@ Jesus Saves
 
     2D-(X!)-??
         !: Either a takeout double of spades or some strong hand
-        
-        P : If 4th seat bids, partner shuts up. 
-           If 4th seat passes, partner passes (ending the auction) if he holds 3+ diamonds but he shows his suit with fewer than 3 diamonds (XX with spades). 
+
+        P : If 4th seat bids, partner shuts up.
+           If 4th seat passes, partner passes (ending the auction) if he holds 3+ diamonds but he shows his suit with fewer than 3 diamonds (XX with spades).
            On hands with 4+ diamonds and short in a major this will often avoid going for a number since 4th seat needs a diamond stack to pass.
         XX: Forces partner to bid 2H, after which you place the contract. This allows you to stop in 2H when you have a long heart suit.
         2H: Pass or correct
@@ -1546,7 +1550,7 @@ Jesus Saves
         4D: Asks partner to bid his suit.
         4H: End of auction
         4S: End of auction
-        
+
     After opponent overcalls over a strong 1C, responder's jump to a suit show a long suit but less than a positive response.
 
     (P)-P-(4S)-??
@@ -1615,7 +1619,7 @@ Jesus Saves
         (2H)-??
             X: Two Card X
                 2N: Asking for your better minor if he wants to play 3 of a minor but doesn't know which minor.
-    
+
              1D-(P)-1H;
         (2D)-??
             X: Support double
@@ -1657,7 +1661,7 @@ Jesus Saves
             b) Hearts and clubs
             c) Red suits, longer diamonds
             Follow up:
-                2N: Asks if you have diamonds, 
+                2N: Asks if you have diamonds,
                     if you do you bid 3D
                     else if you have h+c, you bid 3C
 
@@ -1689,7 +1693,7 @@ Jesus Saves
             4C: Slam try in unspecific major
                 4D: Ask for which major
 
-    CRASH over strong club. 
+    CRASH over strong club.
     The crash bids are X, 1D, and 1N. 1NT would show pointed or rounded suits. Other calls are natural.
         (1C)-??
             X          : Color
@@ -1735,9 +1739,9 @@ Jesus Saves
 
     Flexi-Balance vs. 2S
     We use it in the balancing seat when both X and 2N would be takeout.
-    X : Shows either - 
-            1) 3 suited 
-            2) hearts and clubs 
+    X : Shows either -
+            1) 3 suited
+            2) hearts and clubs
             3) hearts and diamonds, longer diamonds
             2N: Ask if you have diamonds, will always bid this with 4 or 5 diamonds
                 3C: Club-heart hand
@@ -1753,18 +1757,22 @@ Jesus Saves
 ## Carding
 
 ### Meta Rules
+
     AK leads at the 5-level and higher:
         A: Asks for attitude (standard)
         K: Asks for count (standard)
 
 #### NT
+
 ##### General
+
     UDCA including discards except for trick 1 where it is standard signals
     Smith echo, high means he likes the opening lead and low means he doesn't
     In middle of hand, T/9 show 0 or 2 higher; other spot card leads are generally attitude
     If giving count, first played card is upside-down count, if not it is standard count
 
 ##### Opening Leads
+
     9 or higher is considered an honor
     A from AK
     Non-partner's suit
@@ -1777,7 +1785,9 @@ Jesus Saves
     Standard attitude on other honor leads
 
 #### Suit
+
 ##### General
+
     Suit-preference at trick 1
         T/9/8 high side suit
         2/3/4 low side suit
@@ -1793,7 +1803,8 @@ Jesus Saves
     Shifts in the middle fo the hand are attitude, jack denies, T or 9 = 0 or 2 higher
 
 ##### Opening Leads
-    Your agreements are that from AK you may lead either the ace or the king. 
+
+    Your agreements are that from AK you may lead either the ace or the king.
         You lead the ace when you want an attitude signal. (Standard, not upside down)
         You lead the king when you want a suit-preference signal.
         However, with an AKQ holding if the opening leader wants a suit-preference signal he will lead the queen, which will be more informative.
@@ -1805,4 +1816,3 @@ Jesus Saves
     Third from even, smallest from odd, top of a doubleton
     5th best from 7 card suit if there is known length
     From 3 small, high or low, when in doubt - count
-    
