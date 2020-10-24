@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Block the Suit
-2014/12/27
+Prevent the Duck
+2015/1/3
 
 ## Non-Competitive Bidding
 
