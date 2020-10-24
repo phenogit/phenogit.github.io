@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Ugly Overcall
-2015/1/17
+Time the Crossruff
+2015/1/24
 
 ## Non-Competitive Bidding
 
@@ -1404,6 +1404,10 @@ Other bids are exactly as if partner had bid a natural 1S.
         !: X is Stayman for hearts, invitational+
 
         @: Pass of 4C is not a force
+
+    (1S)-2H-(2S)-2N!
+
+        !: 2N is artificial, likely a competitive hand with a long minor or weak heart raise. 3 level bids would be stronger. Overcaller is expected to bid 3C unless he has something to override.
 
     (1S)-2H-(3D)-4C!
 
