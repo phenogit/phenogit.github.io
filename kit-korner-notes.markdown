@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Interesting Ploy
-2015/1/10
+Ugly Overcall
+2015/1/17
 
 ## Non-Competitive Bidding
 
@@ -475,6 +475,8 @@ Interesting Ploy
                         Higer: Asking for control
                 4D: Splinter, spade support
                     4H: Last train bid, says nothing about hearts
+            2N: Usually 5-3-3-2
+            3C: Could be 5-4 minimum opening bid
         2D: Natural game force, expected to be 4+
             2S: Shows 6+ spades
             2N: Balanced hand
