@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Prevent the Duck
-2015/1/3
+Interesting Ploy
+2015/1/10
 
 ## Non-Competitive Bidding
 
