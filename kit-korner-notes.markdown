@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Time the Crossruff
-2015/1/24
+Can't Sell
+2015/1/31
 
 ## Non-Competitive Bidding
 
