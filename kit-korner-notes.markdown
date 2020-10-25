@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Can't Sell
-2015/1/31
+Natural Play
+2015/2/14
 
 ## Non-Competitive Bidding
 
@@ -546,6 +546,7 @@ Can't Sell
                     4C      : Balanced slam try
                     Above 4C: RKC or exclusion
         3C: 1) vs 10-12, to play
+            2) vs 14-16, Transfer to 3D, weak or game forcing
         3D: 1) vs 10-12, to play
 
     2C: 10-15 points, 6+c, may have 4 or even 5-card major
@@ -1466,8 +1467,8 @@ Other bids are exactly as if partner had bid a natural 1S.
         3D: To play
 
     1N!-(2D@)-??
-    !: 10-12
-    @: Diamonds and a major
+        !: 10-12
+        @: Diamonds and a major
 
         4D: Transfer
 
@@ -1506,6 +1507,24 @@ Other bids are exactly as if partner had bid a natural 1S.
         !: Pass or correct
 
         @: X is penalties
+
+    1N!-(2S@)-??
+        !: 14-16
+        @: Spade and a minor (5-4 either way)
+
+        Transfer lebensohl structure
+        X : Negative double, but shows at least 2 spades
+        2N: Forces 3C
+            3C: Forced
+                3D: Weak with hearts
+                3H: Both minors, game forcing
+                3S: Fewer than 4 hearts, spade shortness
+                3N: To play, spade stopper
+        3C: Transfer to 3D, follow ups are as if they did not overcall
+        3D: 5+ hearts, invitational or better
+        3H: Good hand with clubs
+        3S: 4 hearts, spade shortness
+        3N: No spade stopper, fewer than 4 hearts
 
     (1N!)-P-(2C)-??
         !: 12-14
