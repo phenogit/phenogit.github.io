@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-That Little Extra
-2015/2/21
+A Better Play
+2015/2/28
 
 ## Non-Competitive Bidding
 
@@ -1041,6 +1041,19 @@ Other bids are exactly as if partner had bid a natural 1S.
     2H!
 
         !: 2H is invitational in hearts (transfer to the opponent's major shows an invite in the other major)
+
+    1C-(2H)-??
+
+        X : Supposedly 6-8, not game forcing, but promise a rebid, followed by a cue bid to show game force with no convenient call to make
+        3D: Natural game force, partner will bid naturally, but if he bids a suit it will be a 5 card suit
+
+    Cont'd
+
+    1C-(2H)-3D-(P);
+    4D-(P )-??
+
+        4H: RKC for diamonds
+        Other calls below 5D would be cue bids, with 4N being a subsitute heart cue bid
 
     (P)-1C-(3C)-X!;
     (P)-??
