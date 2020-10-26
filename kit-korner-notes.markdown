@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Percentages Are Different
-2015/3/14
+The Right Suit
+2015/3/28
 
 ## Non-Competitive Bidding
 
