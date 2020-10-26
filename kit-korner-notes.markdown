@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Lost Opportunity
-2015/3/7
+Percentages Are Different
+2015/3/14
 
 ## Non-Competitive Bidding
 
@@ -124,7 +124,7 @@ Lost Opportunity
                 Standard Stayman and transfers
             3D: Natural 1-suiter, highly invitational, denies a major
             3H: At least 5-5 minors, game-forcing
-        1H: 5+ hearts
+        1H: Spades
             1) Non-passed hand 9+
             2) Passed hand 8+
                 1N: Artificial control ask
@@ -134,10 +134,10 @@ Lost Opportunity
                         2N: Natural
                             3C: Natural
                                 Follow up non-jumps are natural, 4D is RKC for clubs, other jumps would be splinters
-        1S: 5+ spades
-            1) Non-passed hand 9+
-            2) Passed hand 8+
-            1N: Ask for number of controls, not necessarily a balanced hand
+        1S: Balanced
+            1) Non-passed hand 9-14
+            2) Passed hand 8-10
+            1N: Ask about partner's shape and strength
                 2D: 3 controls
                     2H: Asks about partner's spade length and honor holding
                         May at any time place the contract in 3N, 4S, 5S or any slam
@@ -162,6 +162,8 @@ Lost Opportunity
                     2N: Breaks out of the asking sequence and goes into natural bidding
                     3C: Ask about partner's holding in diamonds
                     3D: Ask about partner's holding in hearts
+                2H: Minimum, 4 spades, fewer than 4 hearts
+                    2N: Find out more
             2H: Natural force
             3H: Solid or semi-solid suit and sets trumps
                 Style is responder strives to bid out his shape.
@@ -181,13 +183,9 @@ Lost Opportunity
                         4C: Cue bid for hearts
                     4C: Natural, shows a club suit
                 3S: 6 spades
-        1N: 1) By passed hand shows 8-10 balanced
-            2) Non-passed hand, 9-14 balanced, no 5 card major
-                2C: Asks for strength and shape
-                    2S: No major, 9-11
-                        2N: Ask about the rest of partner's shape
+        1N: Clubs
             We have recently modified our entire structure so all of responder's lower positive responses are transfers to the next higher strain (with 1S showing the 9-14 balanced hand). This obviously hurts us when responder has a heart positive since he has to start with 2D, but we can live with that.
-        2C: Natural positive, 5+c, 9+, natural bidding follows
+        2C: Diamonds
             2D
                 4C: Solid or almost solid suit, at least AKQTxx
                     4D: Solid suit RKC for clubs, treat CJ as the queen
@@ -202,7 +200,7 @@ Lost Opportunity
                     4N: Diamond cue bid for clubs
             2S
                 4C: Solid suit, minimum of AKQ10xx, usually better. A suit that expects to run with no losers.
-        2D: 5+d, 9+ non passed, 8+ passed hand. Natural bidding follows
+        2D: Hearts
             2H
                 2N: 9-11 or 14+, likely 3=2=3=5 since responder tends to bid out his shape
                     3H
@@ -934,6 +932,14 @@ Other bids are exactly as if partner had bid a natural 1S.
         2S: Minimal hand in spades
         3H: Natural game force
         3S: Natural game force
+
+    P -(P)-1C-(P);
+    1S-(X)-??
+
+        P : Ask about spade stopper
+            XX if partner has a stopper, after that bids mean what they would have meant had there been no double
+            Do something else with no spade stopper
+        XX: Business
 
     1C-(P)-2D-(2S);
     ??
