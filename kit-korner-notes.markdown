@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-A Better Play
-2015/2/28
+Lost Opportunity
+2015/3/7
 
 ## Non-Competitive Bidding
 
