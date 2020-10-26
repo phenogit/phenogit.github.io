@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Natural Play
-2015/2/14
+That Little Extra
+2015/2/21
 
 ## Non-Competitive Bidding
 
@@ -1564,6 +1564,12 @@ Other bids are exactly as if partner had bid a natural 1S.
             3C
                 P : Minors
                 3D: Red suits
+
+    (1N!)-P-(4D@)-??
+        !: 15-17
+        @: Transfer to hearts
+
+        X: Strictly lead directing. It would not show any particular length in diamonds.
 
     2D-(X!)-??
         !: Either a takeout double of spades or some strong hand
