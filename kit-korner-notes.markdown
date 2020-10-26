@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-The Right Suit
-2015/3/28
+Partner's 5-card Suit
+2015/4/4
 
 ## Non-Competitive Bidding
 
@@ -124,10 +124,11 @@ The Right Suit
                 Standard Stayman and transfers
             3D: Natural 1-suiter, highly invitational, denies a major
             3H: At least 5-5 minors, game-forcing
-        1H: Spades
+        1H: 5+ spades, game forcing
             1) Non-passed hand 9+
             2) Passed hand 8+
-                1N: Artificial control ask
+                1S: Asking bid
+                1N: Natural, 16+ non-vul, 17+ vul, natural bidding follows
                 2C: Natural, 5+ clubs
                     2S: Natural, 4 spades
                         All follow up bids would be natural
