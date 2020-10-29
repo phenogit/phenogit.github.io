@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Partner's 5-card Suit
-2015/4/4
+Whatever Remains
+2015/4/11
 
 ## Non-Competitive Bidding
 
