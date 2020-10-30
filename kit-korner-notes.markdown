@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Whatever Remains
-2015/4/11
+The Worst
+2015/4/17
 
 ## Non-Competitive Bidding
 
