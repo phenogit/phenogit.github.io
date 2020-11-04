@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-The Worst
-2015/4/17
+Safe Entry
+2015/4/25
 
 ## Non-Competitive Bidding
 
@@ -338,6 +338,7 @@ The Worst
             3H: 4 card support, promises a singleton/void, minimum
         1S
             1N: Vulnerable, 11-13 balanced, definitely at least 2 spades. Also, will never raise on 3 card support
+                Nonvulnerable, 13-15, 2 or 3 spades, never a singleton
                 2 way checkback follow up
                 2C: Relay to 2D, either to play 2D. After that most bids are natural invites. Followed by 3N shows 5 spades, choice of games.
                     2D
@@ -345,7 +346,7 @@ The Worst
                         2S: Natural invite, usually a 5 card suit
                         3S: Invitational, good 6 card suit
                         3N: 5 spades, choice of games
-                2D: Game forcing checkback. Opener will show, by priority: 4 card heart suit, 3 card spade support, or a 5 card minor. He bids 2N with 2=3=4=4 shape
+                2D: Game forcing checkback. Opener will show, by priority: 4 card heart suit, 3 card spade support, or a 5 card minor. He bids 2N with 2=3=4=4 shape. Relative natural bidding after that.
                     2H: Must bid 2H on any hand with 4 hearts, may or may not have 3 spades
                         2S: Natural, showing a 5 card spade suit. Natural bidding after that
                             3S: Does not show slam interest, 3 card support and not the worst piece of trash
@@ -358,6 +359,27 @@ The Worst
                     2S: 3 spades
                     2N: Exactly 2=3=4=4
                         3C: Asks about partner's distribution
+                        3S
+                            3N: Suggestion of contract
+                            4S: The worst
+                                4N: RKC for spades
+                                5C: Control ask
+                                    5D : No diamond control, club control
+                                    5H : No heart control, club and diamond control
+                                    5S : No control
+                                    5N : Club, diamond, heart control, RKC for spades
+                                    6C+: RKC response with all controls
+                                5D: Control ask
+                                    5H : No heart control, diamond control
+                                    5S : No control
+                                    5N : Diamond, heart control, RKC for spades
+                                    6C+: RKC response with diamond and heart control
+                                5H: Control ask
+                                    5S : No control
+                                    5N : Heart control, RKC for spades
+                                    6C+: RKC response with heart control
+                                5S: General slam try. Usually a control rich but trick poor type of hand
+                            Other bids are cue bids
                     3C: 5 clubs
                     3D: 5 diamonds
                 2H: Non-invitaional, presumably 6-4, since with 5-4 or 5-5 you would have bid 2H
@@ -365,6 +387,9 @@ The Worst
                 2N: Natural invite
                 3H: 5-5 slam try
                 3S: Slammish one suiter
+                    4S: Bad hand
+                    Others are cue bids
+                4D: Self splinter, not specifically a void
                 4H: Self splinter for spades
                 Other non-jumps are sign offs
                 Jumps below game are natural slam tries
