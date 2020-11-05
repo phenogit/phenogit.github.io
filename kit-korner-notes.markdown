@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Good Preempt
-2015/5/9
+8-Card Fit
+2015/5/16
 
 ## Non-Competitive Bidding
 
@@ -1078,6 +1078,12 @@ Other bids are exactly as if partner had bid a natural 1S.
     2H!
 
         !: 2H is invitational in hearts (transfer to the opponent's major shows an invite in the other major)
+
+    1C-(1S)-P-(4S);
+    ??
+
+        X : Primarily penalties
+        4N: Assumed to be some kind of 2 suited hands
 
     1C-(2H)-??
 
