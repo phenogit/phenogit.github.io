@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Safe Entry
-2015/4/25
+Good Preempt
+2015/5/9
 
 ## Non-Competitive Bidding
 
@@ -395,6 +395,7 @@ Safe Entry
                 Jumps below game are natural slam tries
             2C: Always show both minors, at least 5-4 unless precisely 1=4=3=5 or 1=4=4=4
             2D: 1=4=5=3 or 6+ diamonds
+                3H: Splinter, heart shortness, dimond support, true game force
             2H: 3=4=5=1
             2S: Always 4 spades, no singleton or voids
             3H: 4 card support, shortness somewhere, non-minimum
@@ -771,6 +772,10 @@ Safe Entry
         If a definite grand slam try has been made, 5NT may be just showing interest but not being able to bid the grand. This is most common when clubs are trumps -- 5NT is then a last train type of call.
     Equal-level conversion
     Our agreement for forcing pass is that when game is bid under fire (i.e. had to be bid to outbid an enemy call) as opposed to voluntarily then we are not in a force unless we have previously shown game-forcing values.
+    When 3N is doubled
+        XX by either partner shows doubt
+        If X of 3N is calling for a specific lead, the focus is on that suit for the decision between pass and XX.
+        Pass would show something in the suit, partner can then XX to still show doubt
 
     E.g.
         1N!-(2C@)-P-(2D#);
