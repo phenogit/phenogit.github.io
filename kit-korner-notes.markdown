@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-8-Card Fit
-2015/5/16
+Get the Maximum
+2015/5/23
 
 ## Non-Competitive Bidding
 
@@ -1487,6 +1487,15 @@ Other bids are exactly as if partner had bid a natural 1S.
         5D: Diamond emphasis
         If East doubles partner's 5C call, 5D would show your suits are about equal, XX would show definite heart emphasis.
 
+    (1N)-??
+
+        X : 4 card major and a longer minor
+        2C: Majors
+        2D: 1 major
+        2H: 5 card suit and a minor
+        2S: 5 card suit and a minor
+        2N: Both minors
+
     1N!-(P)-P -(2S@);
     P  -(P)-??
         !: 10-12
@@ -1586,15 +1595,6 @@ Other bids are exactly as if partner had bid a natural 1S.
         !: 12-14
 
         X: Lead-directing, even vs. a weak notrump
-
-    (1N)-??
-
-        X : 4 card major and a longer minor
-        2C: Majors
-        2D: 1 major
-        2H: 5 card suit and a minor
-        2S: 5 card suit and a minor
-        2N: Both minors
 
     (1N!)-P-(2H@)-??
         !: 15-17
