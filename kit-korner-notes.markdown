@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Helpful Spots
-2015/6/6
+Give the Count
+2015/6/13
 
 ## Non-Competitive Bidding
 
@@ -1311,6 +1311,10 @@ Other bids are exactly as if partner had bid a natural 1S.
         2D: Michaels, both majors
         2N: Hearts and clubs
 
+    (1D)-P-(1S)-??
+
+        1N: Natural, strong notrump, even in the sandwich position
+
     (1D!)-X@
         !: Precision, 2+ diamonds, 11-15 points
 
@@ -1319,10 +1323,6 @@ Other bids are exactly as if partner had bid a natural 1S.
     (1D)-1H-(X)-3D!;
 
         !: 3D is a mixed raise, limit raise values with 4 trumps
-
-    (1D)-P-(1S)-??
-
-        1N: Natural, strong notrump, even in the sandwich position
 
     (1D)-1S-(P)-??
 
@@ -1339,6 +1339,15 @@ Other bids are exactly as if partner had bid a natural 1S.
     (P )-??
 
         2S: Doesn't necessarily show extra strength, definitely shows a sixth spade
+
+    (1D!)-1N@-(2H)-??
+        !: 11-15, 2+ diamonds, if balanced 11-13
+
+        @: 1N is 4 card major, 5+ card minor
+
+        X : Asks partner to pass if his major is hearts, bid 2S if his major is spades
+        2N: Asks for partner's minor
+        Other calss are natural, non-forcing
 
     P -(1D)-2C-(X);
     ??
