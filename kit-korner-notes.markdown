@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Get the Maximum
-2015/5/23
+Helpful Spots
+2015/6/6
 
 ## Non-Competitive Bidding
 
@@ -471,6 +471,8 @@ Get the Maximum
         2S: Strong jump shift, solid or semi-solid suit(at most 1 loser) with slam interest
     1S: 5+ card suit, 11-15
         1N: Semi-forcing, with a non-minimum partner will bid even if he has to bid a 3-card minor
+            Passes with 5-3-3-2 unless he is strong enough to accept a balanced 3 card limit raise.
+            With any other shape, he will never pass.
             2C: Not necessarily show 4 clubs, but partner will assume so
                 Opener will tend to pass with 5-3-3-2 hands unless he is at the top of his expected balanced range
                 Modified Bart structure where there is the option to show a strong club raise
