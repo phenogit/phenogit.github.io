@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Give the Count
-2015/6/13
+Steal the Trick
+2015/6/20
 
 ## Non-Competitive Bidding
 
@@ -1354,6 +1354,14 @@ Other bids are exactly as if partner had bid a natural 1S.
 
         XX: Lead-directional showing a club honor
 
+    1H -(P )-2H-(2N!);
+    3C@-(3D)-??
+        !: Presumably minors
+
+        @: 3C is assumed a long/help suit game try
+
+        X: Penalty
+
     1H-(X)-??
 
         P : Follow up X is not takeout. It shows a good hand with probably 3 spades(if opps land in 1S or 2S)
@@ -1906,6 +1914,7 @@ Other bids are exactly as if partner had bid a natural 1S.
     Standard current count for discard
     Lead of king in the middle of the hand asks for upside-down count
     Splitting honors show 0 or 2 higher
+    Opening lead in trumps tend to be suit preference
     We play (as do most expert pairs) than spot card signals in trumps are suit-preference if they mean anything. We do not echo in order to show 3 trumps.
     Shifts in the middle fo the hand are attitude, jack denies, T or 9 = 0 or 2 higher
 
