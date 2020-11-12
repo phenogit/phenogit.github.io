@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Prepare the Strip
-2015/7/4
+The Cheapest Contract
+2015/7/11
 
 ## Non-Competitive Bidding
 
