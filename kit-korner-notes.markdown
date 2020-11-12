@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Cut the Losses
-2015/6/27
+Prepare the Strip
+2015/7/4
 
 ## Non-Competitive Bidding
 
@@ -1489,6 +1489,15 @@ Other bids are exactly as if partner had bid a natural 1S.
         !: X is Stayman for hearts, invitational+
 
         @: Pass of 4C is not a force
+
+    (P)-P-(1S)-2D;
+    (P)-??
+
+        2H: Natural
+        2S: Clubs
+        2N: Natural
+        3C: Cue bid, diamond support
+        3D: Normal raise
 
     (1S)-2H-(2S)-2N!
 
