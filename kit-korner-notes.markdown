@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Steal the Trick
-2015/6/20
+Cut the Losses
+2015/6/27
 
 ## Non-Competitive Bidding
 
@@ -529,6 +529,14 @@ Steal the Trick
             Followed by 2N to invite in notrump, does not necessarily show the other major
             Followed by new suit is a sign off but will always have at least one major
             Ｗith non-minimum, responder bids better major
+            After this call, any new suit bid by you below 3H is to play. 3 of a major is a natural invite, as is 2NT. If partner bids 2♦, both 2♥ and 2♠ are assumed to be garbage Stayman -- with 5 spades and 4 hearts you would bid 2♠.
+            2D
+                2H: Garbage Stayman with both majors
+            2H
+                3H: Invite in hearts
+            2S
+                2N: Power invite
+                3H: Invite in hearts
             2N: Both majors and a minimum
             2) vs 14-16, Puppet Stayman, permitted to bid 2C simply to look for a 5 card major if he has a game-forcing hand even if he has no 4 card major
             2H: 5 hearts
@@ -536,6 +544,7 @@ Steal the Trick
             3) vs 15-17, Puppet Stayman
         2D: 1) vs 10-12, Game-forcing Stayman
             With both majors partner will bid his better major first
+            Partner will bid a 4-card major if he has one, else a 5-card minor, else 2N
             2H
                 2N         : Deny 4 card major or a 5 card minor, ask for shape
                     3H: 5 card suit
@@ -566,7 +575,7 @@ Steal the Trick
                             6C: Signoff
                         4N: Signoff
                         5C: Signoff
-        2N: 1) vs 101-2, an invitational hand in some suit
+        2N: 1) vs 101-2, an invitational hand in unspecified minor
             2) vs 14-16, transfer to clubs, which must be accepted
                 3C: Forced
                     Below 4C: Some shortness
