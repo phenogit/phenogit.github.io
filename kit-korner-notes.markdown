@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-The Cheapest Contract
-2015/7/11
+Run to Safety
+2015/8/1
 
 ## Non-Competitive Bidding
 
@@ -1399,6 +1399,11 @@ Other bids are exactly as if partner had bid a natural 1S.
     2D: 2-suiter, diamonds and spades
     2H: To play
     2S: To play
+
+    (P )-1H-(1N)-X;
+    (3D)-P -(P )
+
+        X by either you or your partner would  be penalties
 
     (P)-1H-(2D)-4D!;
     (P)-??
