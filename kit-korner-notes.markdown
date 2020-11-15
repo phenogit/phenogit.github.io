@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Run to Safety
-2015/8/1
+Look Natural
+2015/8/8
 
 ## Non-Competitive Bidding
 
@@ -787,6 +787,13 @@ Run to Safety
         XX by either partner shows doubt
         If X of 3N is calling for a specific lead, the focus is on that suit for the decision between pass and XX.
         Pass would show something in the suit, partner can then XX to still show doubt
+    When an opening 1NT or a 1NT overcall is doubled for penalties, your runout agreements are as follows:
+    By the partner of the 1NT bidder:
+    Redouble: Forces 2♣. Usually a 1-suiter in clubs, diamonds, or hearts. Redouble can also be used as a prelude to show some strong 2-suiters.
+    2♣, 2♦, or 2♥: Shows that suit and a higher suit.
+    Higher suit bids: To play
+    Pass: Non-committal. The 1NT bidder may run or pass it out at his discretion.
+    By the 1NT bidder, the meanings are reversed. Suit bids are natural 1-suiters. Redouble shows 2 suits.
 
     E.g.
         1N!-(2C@)-P-(2D#);
