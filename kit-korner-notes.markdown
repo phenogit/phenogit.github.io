@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Look Natural
-2015/8/8
+The Other Suits
+2015/8/15
 
 ## Non-Competitive Bidding
 
