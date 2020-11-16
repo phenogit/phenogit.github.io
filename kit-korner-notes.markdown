@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-The Other Suits
-2015/8/15
+A Way OUt
+2015/8/22
 
 ## Non-Competitive Bidding
 
@@ -509,6 +509,7 @@ The Other Suits
             2N: Balanced hand
             3C: Does not show any extra strength or shape - may be a 5-4 minimum
             3S: Semi-solid suit, not ncessarily extra values
+        2H: Shows a 5 card suit
         2S: Simple raise, no game interest
             2N: Some short suit game or slam try
                 3C      : Ask
