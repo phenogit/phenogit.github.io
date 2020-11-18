@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Scare Them Out
-2015/8/29
+The Right Move
+2015/9/5
 
 ## Non-Competitive Bidding
 
@@ -1916,6 +1916,7 @@ Other bids are exactly as if partner had bid a natural 1S.
     UDCA including discards except for trick 1 where it is standard signals
     Smith echo, high means he likes the opening lead and low means he doesn't
     In middle of hand, T/9 show 0 or 2 higher; other spot card leads are generally attitude
+    In the middle of the hand, K asks for upside down count, other honors as for upside down attitude
     If giving count, first played card is upside-down count, if not it is standard count
 
 ##### Opening Leads
