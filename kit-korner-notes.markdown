@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-A Way OUt
-2015/8/22
+Scare Them Out
+2015/8/29
 
 ## Non-Competitive Bidding
 
@@ -522,6 +522,7 @@ A Way OUt
             3D+: Coded manner, non-minimum
         3C: Invitational
         3D: Invitational
+        3N: Artificial raise
 
     1N: 1) Non-vulnerable 1/2 seat 10-12
         2) Vulnerable 1/2 seat 14-16
