@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-The Right Move
-2015/9/5
+Prepare the Ending
+2015/9/12
 
 ## Non-Competitive Bidding
 
@@ -402,11 +402,37 @@ The Right Move
             3S: 4 card support, shortness somewhere, minimum
         1N
             Partner will always pass unless he is unbalanced, in which case he will make some natural call
-        2C: 100% game forcing. With a 4 card major and longer clubs partner may choose to respond either 1M or 2C
-            2D: 5+d, expected to rebid 2D even if you have a major
-            2H: 4h, deny 5+d, with both majors partner would expect you to bid 2H
-            2S: 4s, deny 5+d, deny 4h
-            2N: Bypass a major is allowed
+        2C: 100% game forcing.
+            May be 4 card suit
+            With a 4 card major and longer clubs you may choose to respond either 1M or 2C
+            2D : 5+d, expected to rebid 2D even if you have a major
+            2H : 4h, deny 5+d, with both majors partner would expect you to bid 2H
+            2S : 4s, deny 5+d, deny 4h
+            2N : Bypass a major is allowed
+            3C : 4+ clubs, balanced
+                3D: Natural
+                3H: Natural
+                3S: Natrual
+                4C: Sets trump, slam interest
+                4D: RCK for clubs
+                4H: Splinter
+                4S: Splinter
+                4N: Diamond splinter
+            3D+: Splinter, doesn't promise strength
+            Follow ups is entirely natural
+        2D: Inverted, 5+d, invitational+, forcing to 3D, denies 4 card major
+            2H: Concentration, not necessarily 4 cards
+                3C: 4 card suit
+            2S: Concentration, not necessarily 4 cards
+                3C: 4 card suit
+            2N: Natural, forcing
+                3C: 4 card suit
+                3H: Shortness
+                3S: Shortness
+            3C: 5+c
+            3D: Minimum
+            3H: Splinter
+            3S: Splinter
         2H: 5 spades, 4 or 5 hearts, non-invitational
         2S: 5 spades, 4 or 5 hearts, invitational
         2N: Natural invite
