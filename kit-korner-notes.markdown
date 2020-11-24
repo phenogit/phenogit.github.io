@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Prepare the Ending
-2015/9/12
+Impossible Response
+2015/9/19
 
 ## Non-Competitive Bidding
 
