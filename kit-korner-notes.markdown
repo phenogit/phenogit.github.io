@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Impossible Response
-2015/9/19
+Lightner Double
+2015/9/26
 
 ## Non-Competitive Bidding
 
@@ -135,10 +135,27 @@ Impossible Response
                         2N: Natural
                             3C: Natural
                                 Follow up non-jumps are natural, 4D is RKC for clubs, other jumps would be splinters
-        1S: Balanced
+        1S: Balanced, may have 5 card minor, but not 5422
             1) Non-passed hand 9-14
             2) Passed hand 8-10
             1N: Ask about partner's shape and strength
+                2C: 12-14, not 4333
+                    2D: Continue to ask, Stayman like
+                    Other calls natural
+                        2H: 4 spades, fewer than 4 hearts
+                            2S: Ask for controls
+                                3D: 4 controls
+                                    3H: Ask for trump holding
+                                        4C: Exactly one top honor(A/K/Q) plus the jack
+                                            4C: Ask for clubs
+                                            4D: Ask for diamonds
+                                            4H: Ask for hearts
+                                            5N: Pick a slam
+                                    3N: To play
+                                    3S: Ask for clubs
+                                    4C: Ask for diamonds
+                                    4D: Ask for hearts
+                            2N: Ask for shape
                 2D: 3 controls
                     2H: Asks about partner's spade length and honor holding
                         May at any time place the contract in 3N, 4S, 5S or any slam
