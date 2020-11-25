@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Difficult Duck
-2015/10/3
+A Better Approach
+2015/10/17
 
 ## Non-Competitive Bidding
 
@@ -20,6 +20,8 @@ Difficult Duck
     If we decide that we do, then we can use RKC if we think keycards are the issue, asking bids if we think controls are the issue, or simply invite if we think a bit more power might be needed.
     Our general style is to make the Q-bid which leaves partner last train wriggle room unless we have the sort of hand which doesn't want to hear that last train bid since we wouldn't know what to do over it. Or, as on this hand, North can afford to shut out the last train call since he is planning on making another move anyway. Thus, when an unlimited hand chooses to make the Q-bid which shuts out the last train call, the inference is that he probably isn't minimal for his Q-bid.
     4 of a previously bid major is always an offer to play if that is at all possible.
+    When 4X other than 4NT is the RKC call, 4NT is the substitute.
+         if 4NT is a double jump it is exclusion, if it is a single jump it is a splinter, and if it is a non-jump it is a Q-bid.
 
 ### Bidding Tree
 
@@ -806,8 +808,11 @@ Difficult Duck
     2S: Good diamond preempt
     2N: Both minors, less than an opening
     3D: Bad diamond preempt
-    3N: 1) 4th seat, end of auction
-    4C: Namyats, self-sufficient heart suit and a very good 4H opening.
+    3N: 1) 1-3 seat, 4 of a minor preempt
+        2) 4th seat, end of auction
+    4C: Namyats, self-sufficient heart suit and a very good 4H opening
+    4D: Namyats, good 4S opening
+    4N: Good 5D opening
 
 ## Competitive Bidding
 
@@ -1249,6 +1254,27 @@ Other bids are exactly as if partner had bid a natural 1S.
         P : No club stopper
         XX: Business
         2D: Club stopper
+
+    1D-(P)-1H-(1S);
+    ??
+
+        X : Support double
+        2D: Denies 3 hearts
+        3D: Maximum
+
+    Cont'd
+
+    1D-(P)-1H -(1S);
+    2D-(P)-3D!-(3S);
+    ??
+        !: 3D is not purely blocking, possibly some game interest
+
+        4C: Game try in diamonds
+        4D: Just competitive, no interest in game
+        4H: Offer to play
+        4S: RKC for diamonds
+        4N: Spade splinter
+        5C: Club splinter
 
     (P)-1D-(X)-??
 
