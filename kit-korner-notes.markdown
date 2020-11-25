@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Lightner Double
-2015/9/26
+Difficult Duck
+2015/10/3
 
 ## Non-Competitive Bidding
 
@@ -127,8 +127,20 @@ Lightner Double
         1H: 5+ spades, game forcing
             1) Non-passed hand 9+
             2) Passed hand 8+
-                1S: Asking bid
+                1S: Asking bid for controls
                 1N: Natural, 16+ non-vul, 17+ vul, natural bidding follows
+                    2H: Natural
+                        3H: Natural
+                            3S: Good spade suit, suggesting spades might be a better trump, not a cue bid
+                            3N: Offer to play
+                            4C: Cue bid, does not promise a control, especially when it is the lowest available cue
+                            4D: Cue bid, does not promise a control
+                            4H: True minimum positive response
+                                4S: RKC for hearts
+                                4N: Asking bid in spades
+                                5C: Asking bid in clubs
+                                5D: Asking bid in diamonds
+                                5H: General slam try
                 2C: Natural, 5+ clubs
                     2S: Natural, 4 spades
                         All follow up bids would be natural
