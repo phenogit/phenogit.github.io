@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-A Better Approach
-2015/10/17
+Double Morton
+2015/10/24
 
 ## Non-Competitive Bidding
 
@@ -502,6 +502,11 @@ A Better Approach
         1N: Semi-forcing, permitted to pass with min 5-3-3-2 hand
             2C: Bart modification follow up
                 2D: Invitational with doubleton heart
+            2H
+                2S: Forces 2N, also used for minor suit invitational hand
+                    2N
+                        3H: Balanced type of invite
+                3H: Likely a 3 card limit raise
         2C: Natural game force.
             Follow up reverses, 3 level calls and splinters do not show extra shape or strength
             2D: 4+ card suit
