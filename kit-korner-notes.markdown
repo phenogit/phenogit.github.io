@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Double Morton
-2015/10/24
+Let Them Play
+2015/10/31
 
 ## Non-Competitive Bidding
 
