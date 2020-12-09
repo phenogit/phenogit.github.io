@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Let Them Play
-2015/10/31
+An Embarrasing Result
+2015/11/7
 
 ## Non-Competitive Bidding
 
@@ -1624,14 +1624,14 @@ Other bids are exactly as if partner had bid a natural 1S.
         5D: Diamond emphasis
         If East doubles partner's 5C call, 5D would show your suits are about equal, XX would show definite heart emphasis.
 
-    (1N)-??
+    1N!-(P )-P -(2H@);
+    P  -(2S)-??
+        !: 10-12
+        @: Spades
 
-        X : 4 card major and a longer minor
-        2C: Majors
-        2D: 1 major
-        2H: 5 card suit and a minor
-        2S: 5 card suit and a minor
-        2N: Both minors
+        X : Penalty
+        2N: Takeout
+        3D: To play
 
     1N!-(P)-P -(2S@);
     P  -(P)-??
@@ -1727,6 +1727,15 @@ Other bids are exactly as if partner had bid a natural 1S.
         3H: Good hand with clubs
         3S: 4 hearts, spade shortness
         3N: No spade stopper, fewer than 4 hearts
+
+    (1N)-??
+
+        X : 4 card major and a longer minor
+        2C: Majors
+        2D: 1 major
+        2H: 5 card suit and a minor
+        2S: 5 card suit and a minor
+        2N: Both minors
 
     (1N!)-P-(2C)-??
         !: 12-14
