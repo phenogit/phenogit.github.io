@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-An Embarrasing Result
-2015/11/7
+Possible Slam
+2015/11/14
 
 ## Non-Competitive Bidding
 
@@ -232,44 +232,20 @@ An Embarrasing Result
                     4N: Diamond cue bid for clubs
             2S
                 4C: Solid suit, minimum of AKQ10xx, usually better. A suit that expects to run with no losers.
-        2D: Hearts
-            2H
-                2N: 9-11 or 14+, likely 3=2=3=5 since responder tends to bid out his shape
-                    3H
-                        4C: Possible bid even without a club control, in order to leave you a 4D last train option
-                        4D: Cue bid for hearts, slam interest
-                            4H
-                                4S: RKC for hearts
-                                4N: Asking for control in spades
-                                5C: Asking for control in clubs
-                                5D: Asking for control in diamonds
-                                5H: General slam try
-                                    5S: Cue bid, grand slam interest
-                                    5N: Pick a slam
-                                    6C: Cue bid, grand slam interest
-                                    6D: Offer to play
-                            4S: RKC for hearts
-                            4N: Asking for control in spades
-                            5C: Asking for control in clubs
-                            5D: Asking for control in diamonds
-                            5H: General invite
-                3N: 12-13 and right shape
-            2N: Split range, 17-19 or 22+
-            3C
-                3S: Assumed to be a real suit, since a 4-4 spade fit is still possible. But he might simply have spade concentration, no heart stopper, and only 5 diamonds so he can't rebid 3D
-                    3N
-                        4C
-                            4D: RKC for clubs
-                                4H: 0 or 3 keycards
-                            4H: Cue bid
-                            4S: Offer to play
-                            4N: Diamond cue bid
-            3N: 20-21 balanced, notrumpish hand
-                4C    : 4 hearts
-                4D    : 4 spades
-                4H    : Rebiddable diamonds
-                4S    : Secondary club suit
-                Others: Natural, no particular agreements
+        2D: Hearts, 9+
+            2H: Ask for controls
+                2N: 3 controls
+                    3C: Ask about heart holding
+                    3D: Ask about clubs
+                    3H: Ask about diamonds
+                    3S: Ask about spades
+                    3N: To play
+                    4H: To play
+            2S: Natural, 5 card suit
+            2N: Natural, natural bidding follows, partner will not expect 3 hearts
+            3C: Natural, 5 card suit
+            3D: Natural, 5 card suit
+            3H: Natural raise, assumed to be minimum balanced
         2N: 15+ balanced
         3S: Solid major, minimum AKQTxx. May have outside strength.
             3N: Offer to play
