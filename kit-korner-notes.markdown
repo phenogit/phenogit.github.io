@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Possible Slam
-2015/11/14
+Which Finesse
+2015/11/21
 
 ## Non-Competitive Bidding
 
@@ -217,8 +217,33 @@ Possible Slam
                 3S: 6 spades
         1N: Clubs
             We have recently modified our entire structure so all of responder's lower positive responses are transfers to the next higher strain (with 1S showing the 9-14 balanced hand). This obviously hurts us when responder has a heart positive since he has to start with 2D, but we can live with that.
-        2C: Diamonds
-            2D
+        2C: Diamonds, 8+ if passed hand, 9+ if not passed and
+            2D: Ask about control
+                2S: One ace, no kings
+                    2N: Breaks out of ask, goes into natural bidding
+                    3C: Ask about exact diamond holding
+                        3D: 5 card suit with no honor
+                        3H: 6 card suit with no honor
+                        3S: 5 card suit with one honor
+                            3N: To play
+                            4C: Ask about club
+                            4D: Ask about heart
+                            4H: Ask about spade
+                            4S: To play
+                            5D: To play
+                            Step 1: Not even third-round control
+                            Step 2: Third-round control
+                            Step 3: Second-round control
+                            Step 4: Second- and third-round control
+                            Step 5: First-round control
+                            Step 6: First- and third-round control
+                            Step 7: First- and second-round control
+                            Step 8: Full control
+                        3N: 6 card suit, one honor
+                        4C: 5 card suit, 2 of top 3 honors
+                    3D: Ask about club
+                    3H: Ask about heart
+                    3S: Ask about spade
                 4C: Solid or almost solid suit, at least AKQTxx
                     4D: Solid suit RKC for clubs, treat CJ as the queen
                         4N: 2 keycards, no CJ
@@ -230,7 +255,7 @@ Possible Slam
                     4H: Cue bid for clubs
                     4S: Cue bid for clubs
                     4N: Diamond cue bid for clubs
-            2S
+            2S: Natural
                 4C: Solid suit, minimum of AKQ10xx, usually better. A suit that expects to run with no losers.
         2D: Hearts, 9+
             2H: Ask for controls
