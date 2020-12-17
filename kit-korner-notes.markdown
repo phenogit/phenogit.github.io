@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Which Finesse
-2015/11/21
+Inferential Count
+2015/12/12
 
 ## Non-Competitive Bidding
 
@@ -272,23 +272,16 @@ Which Finesse
             3D: Natural, 5 card suit
             3H: Natural raise, assumed to be minimum balanced
         2N: 15+ balanced
-        3S: Solid major, minimum AKQTxx. May have outside strength.
-            3N: Offer to play
-            4C: Slam try in partner's major
-            4D: Ask
-            4H: To play if his suit is hearts, cue bid if his suit is spades
-            4S: RKC in hearts if his suit is hearts, to play if his suit is spades
-                5H: (when RKC) 2 keycards plus the jack of hearts(or sufficient extra length)
-                    5S: Ask for specific kings, shown up-the-line
-                        5N: CK
-                        6C: DK
-                        6D: SK
-                        If he shows a king and you then make a bid which corresponds to another king, that asks him to bid 6N if he has that king or to show another higher ranking king
-            4N: Spade splinter if his suit is hearts, RKC in spades if his suit is spades
-            5C: Splinter
-            5D: Splinter
-            RKC is a special kind, jack of trumps is treated as the queen
-
+        3C: Weak 4-4-4-1 positive
+        3D: Weak 4-4-4-1 positive
+        3H: 1=4=4=4, 13+
+        3S: 4=4=4=1, 13+
+        4C: 4=4=1=4, 13+
+        4D: 4=1=4=4, 13+, 4+ controls (stiff HK is not counted as control), forcing to 4N
+            4H: Ask for number of controls by steps, starting at 4. After the response you are expected to place the contract
+                4S: 4 controls
+            4N: Non-forcing
+            5N: Pick a slam
     1D: 1) Non-vulnerable 1/2 seat 11-15, 2+d, if balanced 13-15
         2) Vulnerable 1/2 seat 11-15, 2+d, if balanced 11-13
         3) 3/4 seat 11-15, 2+d, if balanced 11-14
