@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Inferential Count
-2015/12/12
+Give Partner a Chance
+2015/12/19
 
 ## Non-Competitive Bidding
 
