@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Give Partner a Chance
-2015/12/19
+Trust the Defender
+2015/12/26
 
 ## Non-Competitive Bidding
 
@@ -863,6 +863,10 @@ Give Partner a Chance
             @: Majors
             #: Asking for better major
 
+    Transfer advances when partner overcalls and the next hand passes or doubles.
+    Transfer range starts with the cue bid and ends 1 under the overcaller's suit.
+    Notrump bids are natural.
+
     Transfer Response Over X of 1D Opener
     1D-(X)-??
         XX: Shows hearts
@@ -874,10 +878,9 @@ Give Partner a Chance
 
     Cont'd
     1D-(X)-1H-(P);
-
--??
-1S: Show 3-card spade support.
-Other bids are exactly as if partner had bid a natural 1S.
+    ??
+        1S: Show 3-card spade support.
+        Other bids are exactly as if partner had bid a natural 1S.
 
     Transfer to 3N Over 1 Major Overcall of 1D Opener
     The transfer call is always 3C.
@@ -1422,15 +1425,16 @@ Other bids are exactly as if partner had bid a natural 1S.
 
         !: 3D is a mixed raise, limit raise values with 4 trumps
 
-    (1D)-1S-(P)-??
+    (1D)-1S-(P or X)-??
 
         1N: Natural, around 7-10
         2C: Constructive, non-forcing
         2D: Transfer to hearts, might or might not be weak
-        2H: Invitaional spade raise
+        2H: Invitaional spade raise or better
         2S: Normal raise
         2N: Natural invite
         3C: Natural, game-forcing
+        3D: Limit rasie with 4 trumps
 
     Cont'd
     (1D)-1S-(P)-2C;
