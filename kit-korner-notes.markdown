@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Trust the Defender
-2015/12/26
+Eight Ever Nine Never
+2016/1/2
 
 ## Non-Competitive Bidding
 
@@ -1734,6 +1734,10 @@ Trust the Defender
         2H: 5 card suit and a minor
         2S: 5 card suit and a minor
         2N: Both minors
+
+    (1N)-2H-(P)-??
+
+        2S: Non-forcing
 
     (1N!)-P-(2C)-??
         !: 12-14
