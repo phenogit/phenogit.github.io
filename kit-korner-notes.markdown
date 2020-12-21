@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Eight Ever Nine Never
-2016/1/2
+Preconcieved Notion
+2016/1/9
 
 ## Non-Competitive Bidding
 
@@ -423,6 +423,7 @@ Eight Ever Nine Never
                 3H: Splinter, heart shortness, dimond support, true game force
             2H: 3=4=5=1
             2S: Always 4 spades, no singleton or voids
+                2N: Unspecifed short suit game or slam try
             3H: 4 card support, shortness somewhere, non-minimum
             3S: 4 card support, shortness somewhere, minimum
         1N
@@ -524,6 +525,10 @@ Eight Ever Nine Never
                 2N      : Ask
                     Short suit shown in coded manner
                 3C/3D/3H: Long/help suit game tries in coded manner
+            2N: Long/help suit game try in clubs
+            3C: Long/help suit game try in diamonds
+            3D: Long/help suit game try in spades
+            3H: Non-invitational, but partner is permitted to bid game with a super hand
         2S: Strong jump shift, solid or semi-solid suit(at most 1 loser) with slam interest
     1S: 5+ card suit, 11-15
         1N: Semi-forcing, with a non-minimum partner will bid even if he has to bid a 3-card minor
