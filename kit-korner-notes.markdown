@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Preconcieved Notion
-2016/1/9
+Hardball
+2016/1/16
 
 ## Non-Competitive Bidding
 
@@ -1739,6 +1739,10 @@ Preconcieved Notion
         2H: 5 card suit and a minor
         2S: 5 card suit and a minor
         2N: Both minors
+
+    (1N)-2C-(P)-2D!;
+
+        2D is asking for better major
 
     (1N)-2H-(P)-??
 
