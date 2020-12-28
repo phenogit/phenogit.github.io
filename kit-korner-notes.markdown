@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Hardball
-2016/1/16
+Be Prepared
+2016/1/23
 
 ## Non-Competitive Bidding
 
@@ -1554,6 +1554,8 @@ Hardball
         XX: Standard, out to get them. In principle it creates a force. Follow-up doubles by either partner are penalties
         Pass followed by double is cooperative. It typically shows a 3 card holding in the doubled suit, perhaps 5-3-3-2 shape with a doubleton in partner's major.
         Partner will tend to sit the double only if he has 3 trumps.
+        2H: Good raise
+        2S: No game interest, any strength
 
     1S-(2D)-??
 
