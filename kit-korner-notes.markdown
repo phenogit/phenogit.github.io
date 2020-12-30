@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Be Prepared
-2016/1/23
+Cutting Down the Ruffs
+2016/1/30
 
 ## Non-Competitive Bidding
 
@@ -1594,6 +1594,15 @@ Be Prepared
         !: X is Stayman for hearts, invitational+
 
         @: Pass of 4C is not a force
+
+    1S-(3H)-??
+
+        X : Not a normal negative double. It is a relay to 3S, usually a hand which just wants to compete to 3S.
+            Also could be a hand which wants to play 4 of a minor.
+            X and follow with 3N or 4H turns it into a normal negative double.
+        3S: Limit raise
+        4H: Slam try in spades
+        4S: To play, no slam interest. Over a preempt it shows a good hand and creates a force.
 
     (P)-P-(1S)-2D;
     (P)-??
