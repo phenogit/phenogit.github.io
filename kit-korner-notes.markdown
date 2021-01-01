@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Cutting Down the Ruffs
-2016/1/30
+Interesting Combination
+2016/2/6
 
 ## Non-Competitive Bidding
 
@@ -1595,6 +1595,12 @@ Cutting Down the Ruffs
 
         @: Pass of 4C is not a force
 
+    1S-(3C!)-??
+        !: Hearts + clubs
+
+        X : Relay to 3D, after that Pass/3H/3S is to play
+        3S: Limit raise
+
     1S-(3H)-??
 
         X : Not a normal negative double. It is a relay to 3S, usually a hand which just wants to compete to 3S.
@@ -2082,3 +2088,4 @@ Cutting Down the Ruffs
     Third from even, smallest from odd, top of a doubleton
     5th best from 7 card suit if there is known length
     From 3 small, high or low, when in doubt - count
+    Leads in trump suit is suit preference
