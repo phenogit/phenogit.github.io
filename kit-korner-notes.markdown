@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Interesting Combination
-2016/2/6
+Avoid the Danger
+2016/2/13
 
 ## Non-Competitive Bidding
 
@@ -1774,7 +1774,7 @@ Interesting Combination
         !: 15-17
         @: Transfer
 
-        X: Shows hearts
+        X: Shows hearts, lead directing
 
     Cont'd
 
