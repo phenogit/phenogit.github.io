@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Avoid the Danger
-2016/2/13
+Missed the Spot
+2016/2/20
 
 ## Non-Competitive Bidding
 
