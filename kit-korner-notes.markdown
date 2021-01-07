@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Compound Squeeze
-2016/2/27
+Book Play
+2016/3/5
 
 ## Non-Competitive Bidding
 
@@ -196,9 +196,17 @@ Compound Squeeze
                     3D: Ask about partner's holding in hearts
                 2H: Minimum, 4 spades, fewer than 4 hearts
                     2N: Find out more
-            2H: Natural force
+            2H: Natural force, asks about controls and support(any 4 card or Qxx or better)
+                3D: Support (at least xxxx or Qxx), 1 ace, no kings for passed hand, 3 controls for non-passed hand
+                    3H: Trump ask
+                    3S: Ask about clubs
+                        3N: No control, not even third round control
+                            4C: Ask about diamonds
+                            4D: Ask about spades
+                    3N: Ask about diamonds
+                    4C: Ask about spades
             3H: Solid or semi-solid suit and sets trumps
-                Style is responder strives to bid out his shape.
+                Looks for cue bid
                 3D: Probably denies 6 spades
                     3H
                         3S
