@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Book Play
-2016/3/5
+Give a Ruff
+2016/3/11
 
 ## Non-Competitive Bidding
 
@@ -646,12 +646,23 @@ Book Play
                             6C: Signoff
                         4N: Signoff
                         5C: Signoff
+            3) vs 15-17, size ask
+                2N: Minimum
+                    3C: Invitational with club suit
+                    3D: 5-4-2-2, 5 minor, 4 major
+                    3H: 5-4-2-2, 5 minor, 4 major
+                    3S: 5-4-2-2, 5 minor, 4 major
+                3C: Non-minimum
+                    3D: 5-4-2-2, 5 minor, 4 major
+                    3H: 5-4-2-2, 5 minor, 4 major
+                    3S: 5-4-2-2, 5 minor, 4 major
         2N: 1) vs 101-2, an invitational hand in unspecified minor
             2) vs 14-16, transfer to clubs, which must be accepted
                 3C: Forced
                     Below 4C: Some shortness
                     4C      : Balanced slam try
                     Above 4C: RKC or exclusion
+            3) vs 15-17, transfer to clubs, weak or game forcing
         3C: 1) vs 10-12, to play
             2) vs 14-16, Transfer to 3D, weak or game forcing
         3D: 1) vs 10-12, to play
