@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Give a Ruff
-2016/3/11
+Need to Defeat
+2016/3/19
 
 ## Non-Competitive Bidding
 
@@ -1508,6 +1508,15 @@ Give a Ruff
         4H: Any hand from a preempt to a balanced hand with opening bid strength.
             Partner will almost always pass, and he will never compete to 5H on his own.
             If LHO bids 4S, double by partner would not be penalty. It would show the desire to bid 5H, but giving you one last chance to defend.
+
+    1H-(1S)-X-(2S);
+    ??
+
+        X : Exactly doubleton spade and interest in competing or defending 2S doubled if partner wants to do that
+        2N: Relay to 3C. This shows a weak competitive hand which has no game interest but doesn't want to sell out
+        3C: Maximum, 5-5, showing game interest
+        3D: Maximum, 5-5, showing game interest
+        3H: Maximum, showing game interest
 
     1H-(1N)-??
 
