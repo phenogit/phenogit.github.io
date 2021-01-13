@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Need to Defeat
-2016/3/19
+Scary Situation
+2016/3/26
 
 ## Non-Competitive Bidding
 
@@ -1429,6 +1429,12 @@ Need to Defeat
     (3H)-P -(P )-??
 
         X: Penalties
+
+    1D-(1N)-P-(2C!);
+    X@-(2H)-??
+        !: Stayman
+
+        X: X is lead directing
 
     (1D)-??
 
