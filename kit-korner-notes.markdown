@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Scary Situation
-2016/3/26
+Bath Coup
+2016/4/2
 
 ## Non-Competitive Bidding
 
