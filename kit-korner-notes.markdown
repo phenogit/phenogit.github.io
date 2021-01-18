@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Get the Count
-2016/4/9
+He Doesn't Believe
+2016/4/16
 
 ## Non-Competitive Bidding
 
@@ -382,6 +382,10 @@ Get the Count
                 2D: Game forcing checkback. Opener will show, by priority: 4 card heart suit, 3 card spade support, or a 5 card minor. He bids 2N with 2=3=4=4 shape. Relative natural bidding after that.
                     2H: Must bid 2H on any hand with 4 hearts, may or may not have 3 spades
                         2S: Natural, showing a 5 card spade suit. Natural bidding after that
+                            2N: if below does not fit
+                            3C: 5 card minor
+                            3D: 5 card minor
+                            3H: very strong heart suit
                             3S: Does not show slam interest, 3 card support and not the worst piece of trash
                             4S: Fast arrival jump -- worst possible hand he can have with 3 card support and desire to play in spades
                         2N: Asks about partner's distribution. You would be able to determine his exact shape without going beyond 3N. After finding his shape, you could either bid 3N or:
@@ -389,6 +393,7 @@ Get the Count
                             2) Arrange to make a moderate slam try in any suit or notrump
                             3) Make a very strong slam try in any suit
                             4) Bid RKC for any suit
+                        Other calls are natural, with natural bidding following
                     2S: 3 spades
                     2N: Exactly 2=3=4=4
                         3C: Asks about partner's distribution
