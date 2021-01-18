@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-He Doesn't Believe
-2016/4/16
+Go for the Throat
+2016/4/23
 
 ## Non-Competitive Bidding
 
@@ -562,7 +562,8 @@ He Doesn't Believe
                 3C: Non-invitational
                 3D: Non-invitational
             2N: Maximum non-1C opener with 6 spades
-        2C: Game forcing, expected to be 4+, partner bids his shape without regard to strength. Rebidding suit promises 6. If 5-4, partner bids his other suit even if he is minimum. Jumps in new suitsa re splinters
+        2C: 1) Non-passed hand, game forcing, expected to be 4+, partner bids his shape without regard to strength. Rebidding suit promises 6. If 5-4, partner bids his other suit even if he is minimum. Jumps in new suits are
+        splinters
             2S: Promises at least 6 spades
                 3S
                     3N: Suggestion of contract
@@ -578,11 +579,14 @@ He Doesn't Believe
                     4H: Last train bid, says nothing about hearts
             2N: Usually 5-3-3-2
             3C: Could be 5-4 minimum opening bid
-        2D: Natural game force, expected to be 4+
+            2) Passed hand, 2 way Drury, 3 card support
+                2S: The wors, no game interest
+        2D: 1) Non-passed hand, natural game force, expected to be 4+
             2S: Shows 6+ spades
             2N: Balanced hand
             3C: Does not show any extra strength or shape - may be a 5-4 minimum
             3S: Semi-solid suit, not ncessarily extra values
+            2) Passed hand, 2 way Drury, 4 card support
         2H: Shows a 5 card suit
         2S: Simple raise, no game interest
             2N: Some short suit game or slam try
@@ -833,9 +837,9 @@ He Doesn't Believe
             4D: Cue bid
             4H: Cue bid
             4S: Bad hand
-    2S: Good diamond preempt
+    2S: Good diamond preempt, just under or a minimal 1D opening
     2N: Both minors, less than an opening
-    3D: Bad diamond preempt
+    3D: Normal diamond preempt, not strong enough to open 2S
     3N: 1) 1-3 seat, 4 of a minor preempt
         2) 4th seat, end of auction
     4C: Namyats, self-sufficient heart suit and a very good 4H opening
