@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Bath Coup
-2016/4/2
+Get the Count
+2016/4/9
 
 ## Non-Competitive Bidding
 
@@ -1302,6 +1302,19 @@ Bath Coup
         4N: Spade splinter
         5C: Club splinter
 
+    1D -(P  )-1H-(1S);
+    2C!-(2H@)-??
+        @: Good spade raise
+
+        !: 2C is fewer than 3 hearts, at least 5-4 either way in the minors
+
+        X: Show interest in competing in hearts
+           If the opponents get to 2S, X by either partner would typically show a doubleton spade(never a singleton) and desire to compete
+           Opener will make this double almost always with a doubleton spade, while responder can be more selective since he knows more about the hand
+           In response to the 2 card double or over the enemy 2S, 2N would not be natural by either partner.
+           If bid by opener, it would show diamond emphasis while 3C would show club emphasis.
+           If bid by responder, it would be asking for opener's better minor
+
     (P)-1D-(X)-??
 
         XX: Hearts
@@ -1323,19 +1336,6 @@ Bath Coup
         !: 2D is a natural invite. Must be at least 5 diamonds, non-forcing.
 
         2N: Maximum
-
-    1D -(P  )-1H-(1S);
-    2C!-(2H@)-??
-        @: Good spade raise
-
-        !: 2C is fewer than 3 hearts, at least 5-4 either way in the minors
-
-        X: Show interest in competing in hearts
-           If the opponents get to 2S, X by either partner would typically show a doubleton spade(never a singleton) and desire to compete
-           Opener will make this double almost always with a doubleton spade, while responder can be more selective since he knows more about the hand
-           In response to the 2 card double or over the enemy 2S, 2N would not be natural by either partner.
-           If bid by opener, it would show diamond emphasis while 3C would show club emphasis.
-           If bid by responder, it would be asking for opener's better minor
 
     (P )-1D-(P)-1S;
     (2H)-??
@@ -1391,6 +1391,11 @@ Bath Coup
         3H: Good 6+ heart suit, game forcing
         3N: Almost always the end of the auction
         4H: Almost always the end of the auction
+
+    1D-(1S)-P-(1N);
+    ??
+
+        X: Assumed to be both minors
 
     1D-(1S)-X -(P);
     2C-(P )-2S!
