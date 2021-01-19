@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Go for the Throat
-2016/4/23
+The Missing Trump
+2016/4/30
 
 ## Non-Competitive Bidding
 
@@ -1224,6 +1224,7 @@ Go for the Throat
 
         2N: Unusual, showing at least 5-5 in the red suits
 
+
     Cont'd
 
     P  -(1C)-1H-(X);
@@ -1244,6 +1245,12 @@ Go for the Throat
 
         X: Takeout for the majors
         Other calls would be natural
+
+    (1C)-P-(3C!)-P;
+    (P )-??
+        !: Preemptive
+
+        X: Penalty
 
     (1C)-1D-(1H)-??
 
@@ -1276,11 +1283,12 @@ Go for the Throat
 
         2D: Asks for your major
 
-    (1C)-P-(3C!)-P;
-    (P )-??
-        !: Preemptive
+      (1C!)-3S-(X@);
+    P-(4S )-??
+        !: Strong
+        @: Cards, game forcing
 
-        X: Penalty
+        X: Avoid spade lead
 
     1D-(P)-1H-(P);
     1N-(P)-2C-(X);
