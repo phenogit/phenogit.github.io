@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-The Missing Trump
-2016/4/30
+Pay Attention
+2016/5/7
 
 ## Non-Competitive Bidding
 
@@ -42,6 +42,13 @@ The Missing Trump
                     3C: 4 hearts, 5+ clubs, game forcing
                     3D: 4 hearts, 5+ diamonds, game forcing
                 2D: 6-8, 3 hearts
+                    2H: Non-forcing, may be 4 card heart suit. Partner is permitted to bid again with a maximum.
+                    2S: Unspecified short suit game/slam try
+                        2N: Ask
+                            3C: Short in clubs
+                            3D: Short in diamonds
+                            3H: Short in spades
+                    Other bids are game forcing
             1S: Forcing, 4+ spades
                 Various ways to raise when partner has 4+ spades and ways to show a long suit
                 1N: 1) non-passed hand 0-5
