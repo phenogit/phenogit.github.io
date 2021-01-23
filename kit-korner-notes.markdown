@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Pay Attention
-2016/5/7
+The Right Choice
+2016/5/14
 
 ## Non-Competitive Bidding
 
