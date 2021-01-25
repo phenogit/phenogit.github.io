@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Difficult Continuation
-2016/5/21
+He Doesn't Have It
+2016/5/28
 
 ## Non-Competitive Bidding
 
@@ -1340,6 +1340,16 @@ Difficult Continuation
            If bid by opener, it would show diamond emphasis while 3C would show club emphasis.
            If bid by responder, it would be asking for opener's better minor
 
+    (P )-1D-(P)-1S;
+    (2H)-??
+
+        X : Support double, shows 3 card support
+        2S: 4 card support, 13-15 points, balanced
+        2N: Both minors, diamond emphasis
+        3C: Both minors, club emphasis
+        3S: 4 card support, some shortness, any strength
+        3N: Presumably a semi-solid diamond suit and side stoppers
+
     (P)-1D-(X)-??
 
         XX: Hearts
@@ -1361,16 +1371,6 @@ Difficult Continuation
         !: 2D is a natural invite. Must be at least 5 diamonds, non-forcing.
 
         2N: Maximum
-
-    (P )-1D-(P)-1S;
-    (2H)-??
-
-        X : Support double, shows 3 card support
-        2S: 4 card support, 13-15 points, balanced
-        2N: Both minors, diamond emphasis
-        3C: Both minors, club emphasis
-        3S: 4 card support, some shortness, any strength
-        3N: Presumably a semi-solid diamond suit and side stoppers
 
     1D -(1H)-X-(P);
     1S!-(P )-??
@@ -1408,6 +1408,7 @@ Difficult Continuation
         X : Assumed normal negative double. When followed with 3H, this turns the sequence into a game forcing heart call
         1N: Natural, no game interest opposite balanced hand
         2C: Forcing, although could be quite light. Does not create a force, does not promise a rebid. Followed by 3C is a signoff
+        2D: Inverted
         2H: Negative free bid. Non-forcing. Partner will usually pass without a heart fit
         2S: Balanced game force without a spade stopper
         2N: Natural invite
