@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-The Right Choice
-2016/5/14
+Difficult Continuation
+2016/5/21
 
 ## Non-Competitive Bidding
 
@@ -643,6 +643,7 @@ The Right Choice
             2N
                 3C: Deny 4 card major or a 5 card minor, ask for shape
         2H: 1) vs 10-12, to play
+            2) vs 15-17, transfer
         2S: 1) vs 10-12, to play
             2) vs 14-16, Size ask
                 2N: Minimum
