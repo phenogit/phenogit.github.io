@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-He Doesn't Have It
-2016/5/28
+Produce the Deuce
+2016/6/4
 
 ## Non-Competitive Bidding
 
