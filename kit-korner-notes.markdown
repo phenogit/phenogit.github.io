@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Produce the Deuce
-2016/6/4
+Strong Suit-preference
+2016/6/10
 
 ## Non-Competitive Bidding
 
