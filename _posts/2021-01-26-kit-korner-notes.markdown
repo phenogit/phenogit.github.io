@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kit's Korner
+title: Notes on Kit's Korner
 permalink: /kit-korner-notes/
 ---
 
