@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Strong Suit-preference
-2016/6/10
+Only Chance
+2016/6/18
 
 ## Non-Competitive Bidding
 
