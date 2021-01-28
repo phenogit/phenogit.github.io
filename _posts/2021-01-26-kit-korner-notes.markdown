@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Only Chance
-2016/6/18
+The Last Diamond
+2016/6/24
 
 ## Non-Competitive Bidding
 
@@ -847,6 +847,13 @@ Only Chance
             4S: Bad hand
     2S: Good diamond preempt, just under or a minimal 1D opening
     2N: Both minors, less than an opening
+        3C: To play
+        3D: To play
+        3H: Natural, forcing
+        3S: Natural, forcing
+        4H: To play
+        4S: To play
+        4N: Blackwood
     3D: Normal diamond preempt, not strong enough to open 2S
     3N: 1) 1-3 seat, 4 of a minor preempt
         2) 4th seat, end of auction
