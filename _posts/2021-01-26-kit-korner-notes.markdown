@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-The Last Diamond
-2016/6/24
+Possible Strip
+2016/7/2
 
 ## Non-Competitive Bidding
 
@@ -605,8 +605,8 @@ The Last Diamond
                 3D: Ask to find out more
                 3S: Limit raise
             3D+: Coded manner, non-minimum
-        3C: Invitational
-        3D: Invitational
+        3C: To play
+        3D: To play
         3N: Artificial raise
 
     1N: 1) Non-vulnerable 1/2 seat 10-12
