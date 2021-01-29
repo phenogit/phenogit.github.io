@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Possible Strip
-2016/7/2
+Who Can Make What
+2016/7/9
 
 ## Non-Competitive Bidding
 
@@ -1894,6 +1894,11 @@ Possible Strip
         4S: End of auction
 
     After opponent overcalls over a strong 1C, responder's jump to a suit show a long suit but less than a positive response.
+
+    (2S)-??
+
+        X : Lebensohl follow ups
+        3N: 4C by partner asks about hand type and strength, 4D is distributional (partner bids 4H to get clarification), 4H/4S/4N show min/med/max balanced
 
     (P)-P-(4S)-??
 
