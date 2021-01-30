@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Who Can Make What
-2016/7/9
+Conclusive Action
+2016/7/16
 
 ## Non-Competitive Bidding
 
