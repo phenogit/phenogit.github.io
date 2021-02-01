@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Conclusive Action
-2016/7/16
+Unusual Concept
+2016/7/23
 
 ## Non-Competitive Bidding
 
