@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Unusual Concept
-2016/7/23
+Ingerential Fit
+2016/7/30
 
 ## Non-Competitive Bidding
 
@@ -36,11 +36,16 @@ Unusual Concept
                 2C: 6-8, <3 hearts, may have 4 or 5 spades
                     2D: Artificial waiting bid asking partner for a doubleton heart and/or a 5 card spade suit
                         This call will often be made on a minimal major-minor 2 suiter, with either suit being longer
+                        2H: Doubleton heart
+                        2S: 5 spades
                     2H: Minimum, non-forcing
                     2S: Natural, forcing
                     2N: Artificial game force, always 5+ hearts, either a heart 1 suiter or a major-minor 2 suiter
+                        3C: Ask
+                            3N: 5 hearts, 4 clubs and fewer than 3 spades
                     3C: 4 hearts, 5+ clubs, game forcing
                     3D: 4 hearts, 5+ diamonds, game forcing
+                    3N: End of auction
                 2D: 6-8, 3 hearts
                     2H: Non-forcing, may be 4 card heart suit. Partner is permitted to bid again with a maximum.
                     2S: Unspecified short suit game/slam try
@@ -49,6 +54,7 @@ Unusual Concept
                             3D: Short in diamonds
                             3H: Short in spades
                     Other bids are game forcing
+                Higher calls show 4 card heart support with accurate description of strength and shortness
             1S: Forcing, 4+ spades
                 Various ways to raise when partner has 4+ spades and ways to show a long suit
                 1N: 1) non-passed hand 0-5
