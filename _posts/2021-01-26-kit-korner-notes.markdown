@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Ingerential Fit
-2016/7/30
+The Waiting Game
+2016/8/6
 
 ## Non-Competitive Bidding
 
@@ -1224,9 +1224,26 @@ Ingerential Fit
     1C-(2H)-??
 
         X : Supposedly 6-8, not game forcing, but promise a rebid, followed by a cue bid to show game force with no convenient call to make
+        2S: 5+ spades, game forcing
+        2N: Natural, 9-11 or 14+, balanced, heart stopper
+        3C: 5+ clubs, game forcing
         3D: Natural game force, partner will bid naturally, but if he bids a suit it will be a 5 card suit
+        3H: Balanced game force without heart stopper
 
-    Cont'd
+    Cont'd (1)
+
+    1C-(2H) -X -(P);
+    2S!-(P )-??
+
+        !: 2S is a natural force, presumably a 5 card suit
+
+        2N: Non-forcing
+        3C: Non-forcing
+        3D: Non-forcing
+        3H: Game forcing
+        3S: Non-forcing
+
+    Cont'd (2)
 
     1C-(2H)-3D-(P);
     4D-(P )-??
