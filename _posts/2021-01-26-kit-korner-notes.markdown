@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-The Waiting Game
-2016/8/6
+Wide Range
+2016/8/20
 
 ## Non-Competitive Bidding
 
