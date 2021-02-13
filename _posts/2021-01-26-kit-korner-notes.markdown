@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Wide Range
-2016/8/20
+Total Trumps
+2016/9/3
 
 ## Non-Competitive Bidding
 
@@ -292,6 +292,7 @@ Wide Range
             3C: Natural, 5 card suit
             3D: Natural, 5 card suit
             3H: Natural raise, assumed to be minimum balanced
+        2S: 6 spades, less than positive, suit quality not necessarily good
         2N: 15+ balanced
         3C: Weak 4-4-4-1 positive
         3D: Weak 4-4-4-1 positive
@@ -861,6 +862,15 @@ Wide Range
         4S: To play
         4N: Blackwood
     3D: Normal diamond preempt, not strong enough to open 2S
+        3S: Natural, forcing
+        4C: Preempt keycard
+            4D: 0
+            4H: 1 + no queen
+            4S: 1 + queen
+            4N: 2 + no queen
+            5C: 2 + queen
+        4D: To play, not invitational
+        4N: Regular Blackwood
     3N: 1) 1-3 seat, 4 of a minor preempt
         2) 4th seat, end of auction
     4C: Namyats, self-sufficient heart suit and a very good 4H opening
@@ -1123,6 +1133,11 @@ Wide Range
 
         X: Penalties
         Anything else would be natural
+
+    1C-(P)-2S-(3H);
+    ??
+
+        X: Penalties
 
     1C-(X!)-P@-(2S);
     ??
