@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Total Trumps
-2016/9/3
+The Little Trumps
+2016/9/10
 
 ## Non-Competitive Bidding
 
@@ -1612,6 +1612,21 @@ Total Trumps
     (3D)-P -(P )
 
         X by either you or your partner would  be penalties
+
+    (P)-1H-(2C)-??
+
+        2H: Normal raise
+        2S: Negative free bid, non-forcing
+        3C: Limit raise or better, may be 3 or 4 trumps
+        3H: To play, non-invitational
+        4H: Not necessarily preemptive
+
+    Cont'd
+
+    (P )-1H-(2C)-2H;
+    (3C)-P -(P )-??
+
+        X: Penalties
 
     (P)-1H-(2D)-4D!;
     (P)-??
