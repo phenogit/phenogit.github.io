@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-The Little Trumps
-2016/9/10
+Wait and See
+2016/9/24
 
 ## Non-Competitive Bidding
 
@@ -1695,6 +1695,7 @@ The Little Trumps
         3C: Natural game try
         3S: Not invitational
 
+
     (P)-1S-(2S!)-??
         !: Hearts and clubs
 
@@ -1754,6 +1755,11 @@ The Little Trumps
            Normally, non-preemptive bid which commits your side to game creates a force.
            But 3D commited opps to game as well, so, this does not create a force.
            If instead of 3D, opps bid 3S, then 4C creates a force
+
+    (1S)-2H-(3H!)-??
+        !: Limit raise or better
+
+        X: Lead directing
 
     (1S)-P-(4S!)-??
         !: Not necessarily weak, since the 1S opening is limited
