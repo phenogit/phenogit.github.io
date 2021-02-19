@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Wait and See
-2016/9/24
+Out of the Box
+2016/10/1
 
 ## Non-Competitive Bidding
 
