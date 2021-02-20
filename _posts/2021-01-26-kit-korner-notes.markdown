@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Out of the Box
-2016/10/1
+All the Clues
+2016/10/8
 
 ## Non-Competitive Bidding
 
@@ -650,7 +650,9 @@ Out of the Box
             2N
                 3C: Deny 4 card major or a 5 card minor, ask for shape
         2H: 1) vs 10-12, to play
-            2) vs 15-17, transfer
+            2) vs 14-16, transfer
+                3C: Pre-accept, doubleton honor (ace or king)
+            3) vs 15-17, transfer
         2S: 1) vs 10-12, to play
             2) vs 14-16, Size ask
                 2N: Minimum
