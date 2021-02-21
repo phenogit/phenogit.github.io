@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-All the Clues
-2016/10/8
+He Will Continue
+2016/10/15
 
 ## Non-Competitive Bidding
 
