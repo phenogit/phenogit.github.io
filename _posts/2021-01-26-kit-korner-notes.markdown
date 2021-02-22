@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-He Will Continue
-2016/10/15
+Which 11 Tricks
+2016/10/22
 
 ## Non-Competitive Bidding
 
@@ -640,10 +640,11 @@ He Will Continue
             With both majors partner will bid his better major first
             Partner will bid a 4-card major if he has one, else a 5-card minor, else 2N
             2H
-                2N         : Deny 4 card major or a 5 card minor, ask for shape
+                2N: Deny 4 card major or a 5 card minor, ask for shape
+                    3D: 4+ diamonds
                     3H: 5 card suit
                     3S: 4-4 majors, heart emphases
-                        4D: Relay to 4H, next call places contract
+                        4D : Relay to 4H, next call places contract
                 Other calls: Natural force
             2S
                 2N: Deny 4 card major or a 5 card minor, ask for shape
