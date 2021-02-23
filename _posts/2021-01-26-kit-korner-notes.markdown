@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Which 11 Tricks
-2016/10/22
+The Best Falsecard
+2016/10/29
 
 ## Non-Competitive Bidding
 
@@ -642,6 +642,9 @@ Which 11 Tricks
             2H
                 2N: Deny 4 card major or a 5 card minor, ask for shape
                     3D: 4+ diamonds
+                        3H: Ask
+                            3S: 4 diamonds
+                            3N: 5 diamonds
                     3H: 5 card suit
                     3S: 4-4 majors, heart emphases
                         4D : Relay to 4H, next call places contract
@@ -1956,6 +1959,16 @@ Which 11 Tricks
         4S: End of auction
 
     After opponent overcalls over a strong 1C, responder's jump to a suit show a long suit but less than a positive response.
+
+    (P)-2H-(2S)-??
+
+        X : Penalty
+        2N: Asks about strength and shape
+            3C: Minimum
+                3D: Ask
+        3C: To play
+        4C: Natural slam try
+        5C: To play
 
     (2S)-??
 
