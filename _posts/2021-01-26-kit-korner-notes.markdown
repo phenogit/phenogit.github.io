@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-The Best Falsecard
-2016/10/29
+Many Options
+2016/11/5
 
 ## Non-Competitive Bidding
 
