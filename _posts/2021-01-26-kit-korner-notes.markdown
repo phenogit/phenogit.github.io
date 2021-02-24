@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Many Options
-2016/11/5
+Majority of Tricks
+2016/11/12
 
 ## Non-Competitive Bidding
 
@@ -1805,10 +1805,11 @@ Many Options
 
         P : Could be a good balanced hand. It could also be a weak hand with no decent runout.
             If fourth seat passes, opener is on his own.
-        XX: 1 suit runout other than spades
+        XX: Forces 2C, 1 suit runout other than spades
         2C: clubs and above
         2D: diamonds and above
         2H: hearts and above
+        2S: To play
 
     1N!-(2C@)-??
         !: 10-12
