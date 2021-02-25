@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Bring Him Into the Loop
-2016/11/19
+Overcome the Split
+2016/12/3
 
 ## Non-Competitive Bidding
 
@@ -289,6 +289,8 @@ Bring Him Into the Loop
                     4H: To play
             2S: Natural, 5 card suit
             2N: Natural, natural bidding follows, partner will not expect 3 hearts
+                3S
+                    4C: Cue bid, sets spades as trump, not necessarily a club control
             3C: Natural, 5 card suit
             3D: Natural, 5 card suit
             3H: Natural raise, assumed to be minimum balanced
