@@ -5,8 +5,8 @@ permalink: /kit-korner-notes/
 ---
 
 Currently On:
-Majority of Tricks
-2016/11/12
+Bring Him Into the Loop
+2016/11/19
 
 ## Non-Competitive Bidding
 
@@ -1298,6 +1298,10 @@ Majority of Tricks
         XX: Lead directing, generally a doubleton honor. With support we usually just raise, although with no other strength we might XX for the lead.
             The XX doesn't show anything as fas as strength goes, although if we later follow with some action it obviously includes strength.
             Other bids mean exactly what they would have meant had there been no double.
+
+    (1C)-P-(1D)-??
+
+        2C: Natural
 
     (1C)-P-(1S!)-??
         !: No major
